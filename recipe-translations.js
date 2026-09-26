@@ -3065,7 +3065,7 @@ window.CompanionRecipeTranslations={
  ],program:["Habverő • 6-os sebesség • 1 perc","Desszert • 5-ös sebesség • 90 °C • 15 perc","Sütő • 180 °C • 30–35 perc"]
 },
 "catalog-242":{
- title:"Csokoládéfidential fondant",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"54 perc",accessories:["kneading"],
+ title:"Csokoládés fondant",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"54 perc",accessories:["kneading"],
  ingredients:[["200 g","étcsokoládé"],["100 g","puha, félsós vaj"],["3 db","tojás"],["120 g","nádcukor"],["150 g","mandulapor"],["6 g","sütőpor"]],
  stepAccessories:["kneading"],
  steps:[
@@ -3338,7 +3338,7 @@ window.CompanionRecipeTranslations={
   "Melegítsd elő a sütőt 160 °C-ra, és bélelj ki egy tepsit sütőpapírral.",
   "A tészta felét nyújtsd ki sodrófával, vágd kis négyzetekre, és helyezd a tepsire egymástól kellő távolságra, mert sütés közben terülnek. Süsd 15 percig.",
   "Sütés után a speculoos még puha, kihűlve megszilárdul. Ismételd meg a műveletet a maradék tésztával."
- ],program:["Dagasztó-/aprítókés • 8-as sebesség • 2 perc 30 mp","Hűtés • 2 óra","Sütő • 160 °C • 15 perc"],note:"A fahéj felét nég fűszer-keverékkel is helyettesítheted."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • 2 perc 30 mp","Hűtés • 2 óra","Sütő • 160 °C • 15 perc"],note:"A fahéj felét négyfűszer-keverékkel is helyettesítheted."
 },
 "catalog-265":{
  title:"Csokoládé-gesztenyetrüffel",cat:"Desszertek / Aprósütemények",servings:"50 db",total:"2 óra 20 perc",accessories:["kneading"],
