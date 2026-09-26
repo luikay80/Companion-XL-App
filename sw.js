@@ -1,4 +1,12 @@
-const CACHE='companion-xl-v3';
-const ASSETS=['./','./index.html','./app.js','./manifest.webmanifest'];
-self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
-self.addEventListener('fetch',e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));
+const CACHE='companion-xl-v4';
+const CORE=['./','./index.html','./app-v2.js','./manifest.webmanifest'];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
+self.addEventListener('fetch',e=>{
+  if(e.request.method!=='GET')return;
+  e.respondWith(caches.match(e.request).then(cached=>cached||fetch(e.request).then(res=>{
+    const copy=res.clone();
+    if(new URL(e.request.url).origin===self.location.origin){caches.open(CACHE).then(c=>c.put(e.request,copy)).catch(()=>{});}
+    return res;
+  })));
+});
