@@ -5,14 +5,17 @@ const imgs={Alapreceptek:'gougeres.jpg',Aperitifek:'guacamole.jpg',Előételek:'
 function drawCategories(){
  const counts={};recipes.forEach(r=>{const c=topCategory(r.cat);counts[c]=(counts[c]||0)+1});
  const el=document.querySelector('#categoryGrid');if(!el)return;
- el.innerHTML=order.map(c=>'<article class="category-card" data-cat="'+esc(c)+'"><div class="cat-art"><img src="assets/recipes/'+imgs[c]+'" alt="'+esc(c)+'"></div><div class="cat-info"><strong>'+esc(c)+'</strong><small>'+String(counts[c]||0)+' recept</small></div></article>').join('');
+ el.innerHTML=order.map(c=>'<article class="category-card '+(state.topCat===c&&!state.home?'selected':'')+'" data-cat="'+esc(c)+'"><div class="cat-art"><img src="assets/recipes/'+imgs[c]+'" alt="'+esc(c)+'"></div><div class="cat-info"><strong>'+esc(c)+'</strong><small>'+String(counts[c]||0)+' recept</small></div></article>').join('');
  el.querySelectorAll('.category-card').forEach(card=>card.onclick=()=>showTop(card.dataset.cat));
 }
 function showTop(name){
- state.home=false;state.topCat=name;state.cat='Mind';const rs=document.querySelector('#recipeSection');if(rs){rs.classList.add('is-visible');rs.hidden=false;rs.style.setProperty('display','block','important');}
+ state.home=false;state.topCat=name;state.cat='Mind';
+ const rs=document.querySelector('#recipeSection');
+ if(rs){rs.classList.add('is-visible');rs.hidden=false;rs.style.setProperty('display','block','important');}
  render();
- const title=document.querySelector('#recipeSection h3');if(title)title.textContent=name;
+ const title=document.querySelector('#recipeHeading');if(title)title.textContent=name;
  document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'});
+ drawCategories();
 }
 
 const translated={
@@ -31,8 +34,9 @@ Object.keys(translated).forEach(id=>{const r=recipes.find(x=>x.id===id);if(r)Obj
 
 drawCategories();
 document.querySelector('#allCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navHome')?.addEventListener('click',()=>{state.home=true;state.topCat=null;state.cat='Mind';state.q='';const rs=document.querySelector('#recipeSection');if(rs){rs.classList.remove('is-visible');rs.hidden=true;rs.style.setProperty('display','none','important');}const q=document.querySelector('#q');if(q)q.value='';render();window.scrollTo({top:0,behavior:'smooth'})});
+document.querySelector('#navHome')?.addEventListener('click',()=>{state.home=true;state.topCat=null;state.cat='Mind';state.q='';drawCategories();const rs=document.querySelector('#recipeSection');if(rs){rs.classList.remove('is-visible');rs.hidden=true;rs.style.setProperty('display','none','important');}const q=document.querySelector('#q');if(q)q.value='';render();window.scrollTo({top:0,behavior:'smooth'})});
 document.querySelector('#navRecipes')?.addEventListener('click',()=>{if(state.home)document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'});else document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'});});
-document.querySelector('#navCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth'}));
+document.querySelector('#navCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'}));
+document.querySelector('#backToCategories')?.addEventListener('click',()=>{state.home=true;state.topCat=null;state.cat='Mind';const rs=document.querySelector('#recipeSection');if(rs){rs.classList.remove('is-visible');rs.hidden=true;rs.style.setProperty('display','none','important');}drawCategories();document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'});});
 document.querySelector('#navFav')?.addEventListener('click',()=>{state.home=false;state.topCat=null;state.cat='Kedvencek';render();const t=document.querySelector('#recipeSection h3');if(t)t.textContent='Kedvencek';document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'})});
 })();
