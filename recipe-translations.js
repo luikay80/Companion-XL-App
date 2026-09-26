@@ -1926,4 +1926,228 @@ window.CompanionRecipeTranslations={
  ],program:["Habverő • 7-es sebesség • 1 perc","4-es sebesség • 90 °C • 8 perc","Habverő • 8-as sebesség • 50 mp (+30 mp)","Habverő • 7-es sebesség • 7 perc 30 mp","Sütő • 180 °C • 30–35 perc"]
 },
 
+
+"catalog-140":{
+ title:"Zöldségtagliatelle",cat:"Főételek / Vegetáriánus",servings:"2 fő",total:"25 perc",accessories:["steam"],
+ ingredients:[["200 g","sárgarépa"],["100 g","paszternák"],["0,7 L","víz"],["20 g","reszelt parmezán"],["5 cl","light tejszín"],["","bors"]],
+ stepAccessories:["steam"],
+ steps:[
+  "Pucold meg a répát és a paszternákot, majd hámozóval vágd őket hosszú, vékony csíkokra.",
+  "Önts 0,7 liter vizet a robot edényébe. Tedd a zöldségeket a gőzkosárba, helyezd a robotba, majd indítsd el a Gőz P1 programot 15 percre.",
+  "A parmezánt és a tejszínt tedd egy tálba, borsozd, és alaposan keverd össze.",
+  "A főzés végén tedd a zöldségtagliatellét a tálba, keverd össze, és azonnal tálald."
+ ],program:["Gőz P1 • 15 perc"],note:"A paszternák téli zöldség; szezonban cukkinivel helyettesíthető, a szószt pedig pestóval cserélheted."
+},
+"catalog-141":{
+ title:"Zöldségtajine",cat:"Főételek / Vegetáriánus",servings:"4–6 fő",total:"1 óra",accessories:["ultrablade","mixer"],
+ ingredients:[["80 g","lilahagyma"],["100 g","piros paprika"],["2 gerezd","fokhagyma"],["5 cl","olívaolaj"],["1 tk","fahéj"],["1 tk","gyömbér"],["1 tk","római kömény"],["250 g","cukkini"],["250 g","édeskömény"],["300 g","paradicsom"],["20 cl","zöldségalaplé"],["½ csokor","koriander"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a lilahagymát, vágd durvára. A paprikát mosd meg, magozd ki, majd vágd darabokra. Tedd a hagymát és a paprikát az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 15 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. A fokhagymát kés lapjával törd meg, majd tedd a robotba az olívaolajjal együtt. Indítsd el a Lassú főzés P1 programot 130 °C-on 4 percre.",
+  "A cukkinit, az édesköményt és a paradicsomot vágd darabokra. Add a robothoz az alaplevet, a fűszereket és a zöldségeket. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 95 °C-on 40 percre.",
+  "Melegen vagy hidegen tálald, finomra vágott korianderrel megszórva."
+ ],program:["Ultrablade • 11-es sebesség • 15 mp","Lassú főzés P1 • 130 °C • 4 perc","Lassú főzés P2 • 95 °C • 40 perc"],note:"Az édeskömény és a cukkini paszternákkal, sárgarépával és sütőtökkel is helyettesíthető."
+},
+"catalog-142":{
+ title:"Zöldségwok",cat:"Főételek / Vegetáriánus",servings:"4 fő",total:"22 perc",accessories:["fondxl"],
+ ingredients:[["150 g","szeletelt hagyma"],["150 g","zöld paprika"],["150 g","kockázott cukkini"],["150 g","brokkoli"],["2 ek","szezámolaj"],["4 ek","növényi olaj"],["1 tk","aprított fokhagyma"],["","só"],["","bors"]],
+ stepAccessories:["fondxl"],
+ steps:[
+  "A zöld paprikát vágd kockákra, majd a Fond XL tartozékkal felszerelt edényt melegítsd 150 °C-on 3 percig.",
+  "Add hozzá a szezámolajat, 3 evőkanál növényi olajat és az aprított fokhagymát. Pirítsd 150 °C-on 30 másodpercig, majd keverd át.",
+  "Add hozzá a hagymát és a paprikát, sózd, borsozd, majd pirítsd 150 °C-on 5 percig, időnként megkeverve.",
+  "A program végén add hozzá a brokkolit és a cukkinit, valamint a maradék olajat. Főzd 150 °C-on további 8 perc 30 másodpercig, rendszeresen megkeverve."
+ ],program:["Fond XL • 150 °C • 3 perc","Fond XL • 150 °C • 30 mp","Fond XL • 150 °C • 5 perc","Fond XL • 150 °C • 8 perc 30 mp"]
+},
+"catalog-143":{
+ title:"Búza, mint egy rizottó",cat:"Főételek / Tészták és rizs",servings:"4–6 fő",total:"38 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["250 g","búzagyöngy"],["1 db","hagyma"],["5 cl","olívaolaj"],["8 cl","fehérbor"],["70 cl","szárnyasalaplé"],["80 g","paradicsom"],["80 g","cukkini"],["30 g","parmezán"],["10 levél","bazsalikom"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, vágd durvára, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, és öntsd az olívaolajat az edénybe. Dugó nélkül indítsd el a Lassú főzés P1 programot 7 percre.",
+  "Amikor 4 perc van hátra, add hozzá a búzát. Amikor 1 perc van hátra, öntsd hozzá a fehérbort.",
+  "A program végén add hozzá a szárnyasalaplét, sózd, borsozd, majd dugóval indítsd el a Lassú főzés P3 programot 95 °C-on 20 percre.",
+  "A paradicsomot és a cukkinit vágd kis kockákra. A főzés végén add hozzá a parmezánt, a paradicsomot és a cukkinit. Spatulával óvatosan keverd össze, és azonnal tálald bazsalikomlevelekkel."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 7 perc","Lassú főzés P3 • 95 °C • 20 perc"],note:"A recept szerint a kész ételt nem ajánlott melegen tartani."
+},
+"catalog-144":{
+ title:"Bucatini all’Amatriciana",cat:"Főételek / Tészták és rizs",servings:"10 fő",total:"53 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["800 g","bucatini"],["3 gerezd","fokhagyma"],["½ db","peperoncino vagy csilipaprika"],["5 cl","olívaolaj"],["400 g","pancetta vagy guanciale"],["1,2 kg","darabolt paradicsom konzervből"],["150 g","reszelt pecorino"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A bucatinit a csomagoláson feltüntetett módon főzd meg egy nagy fazék vízben.",
+  "Pucold meg a fokhagymagerezdeket, és a csilivel együtt tedd az Ultrablade késsel felszerelt edénybe. Aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, add hozzá az olajat és a pancettát, majd indítsd el a Lassú főzés P1 programot 130 °C-on 8 percre.",
+  "A program végén add hozzá a darabolt paradicsomot, sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 95 °C-on 35 percre.",
+  "Öntsd a szószt a tésztára, add hozzá a pecorinót, keverd össze, és tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 8 perc","Lassú főzés P2 • 95 °C • 35 perc"],note:"A pancetta padlizsánkockákkal, a pecorino pedig mozzarellával is helyettesíthető."
+},
+"catalog-145":{
+ title:"Gnocchi chipolatával és paradicsommal",cat:"Főételek / Tészták és rizs",servings:"4 fő",total:"35 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["1 csomag","gnocchi"],["300 g","chipolata kolbász"],["2 ek","olívaolaj"],["1 db","400 g-os darabolt paradicsom konzerv"],["20 db","koktélparadicsom"],["2 db","hagyma"],["1 gerezd","fokhagyma"],["1 tk","szárított oregánó"],["","néhány bazsalikomlevél"],["25 cl","víz"],["","parmezán"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát, majd vágd négyfelé. A chipolatáról távolítsd el a bőrt, a húsát morzsold szét. Az Ultrablade késsel felszerelt edénybe tedd a hagymát és a fokhagymát, majd aprítsd 11-es sebességen 20 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, add hozzá az olívaolajat és a chipolata húsát, majd indítsd el a Lassú főzés P1 programot 5 percre.",
+  "Add hozzá a darabolt paradicsomot, a félbevágott koktélparadicsomot, az oregánót és a vizet. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 20 percre. A program utolsó 3 percében add hozzá a gnocchit. Parmezánnal és aprított bazsalikommal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 20 mp","Lassú főzés P1 • 5 perc","Lassú főzés P2 • 20 perc"],note:"Gyors változathoz minden hozzávalót egyszerre is az edénybe tehetsz, és a Lassú főzés P2 programot 25 percre indíthatod."
+},
+"catalog-146":{
+ title:"Házi gnocchi pestóval",cat:"Főételek / Tészták és rizs",servings:"6 fő",total:"1 óra 06 perc",accessories:["steam","ultrablade","kneading"],
+ ingredients:[["1 kg","burgonya"],["350 g","búzaliszt"],["2 db","tojássárgája"],["2 csokor","bazsalikom"],["2 gerezd","fokhagyma"],["50 g","reszelt parmezán"],["50 g","fenyőmag"],["20 cl","olívaolaj"],["","só"],["","bors"],["0,7 L","víz"]],
+ stepAccessories:["ultrablade","steam","kneading"],
+ steps:[
+  "Pucold meg a fokhagymagerezdeket, vágd félbe, és távolítsd el a csírájukat. A bazsalikomleveleket mosd meg és óvatosan szárítsd meg. Az Ultrablade késsel felszerelt edénybe tedd a fokhagymát, a bazsalikomot, a fenyőmagot, a parmezánt, a sót és a borsot. Öntsd hozzá az olívaolajat, és aprítsd 12-es sebességen 20 másodpercig.",
+  "Spatulával húzd középre a masszát, majd aprítsd további 10 másodpercig. Tedd félre a pestót, majd mosd el és szárítsd meg az edényt.",
+  "Pucold meg és mosd meg a burgonyát, vágd darabokra. Önts 0,7 liter vizet az edénybe, majd tedd a burgonyát a gőzkosárba. Indítsd el a Gőz P2 programot 35 percre. A végén tedd a burgonyát tálba, és hagyd langyosra hűlni.",
+  "Burgonyanyomóval vagy villával törd pürévé. Adj hozzá kevés lisztet és keverd el, majd dolgozd bele a tojássárgáját. Add hozzá a maradék lisztet, és gyúrj homogén tésztát.",
+  "Lisztezett munkafelületen és kézzel formázz hosszú rudakat. Vágd őket körülbelül 2 cm-es darabokra, villával lapítsd el, és kissé görgesd meg, hogy gnocchi formát kapjanak.",
+  "Sós, forrásban lévő vízben főzd a gnocchikat 20-as adagokban, amíg feljönnek a felszínre. Szűrőkanállal vedd ki, majd papírtörlőn csepegtesd le. A pestóval tálald."
+ ],program:["Ultrablade • 12-es sebesség • 20 mp + 10 mp","Gőz P2 • 35 perc","Főzés forrásban lévő vízben"],note:"A gnocchi tésztához a forrás fokozatosan adagolja a lisztet; a cél az egynemű, formázható tészta."
+},
+"catalog-147":{
+ title:"Lasagne",cat:"Főételek / Tészták és rizs",servings:"4 fő",total:"1 óra 40 perc",accessories:["ultrablade","mixer","beater"],
+ ingredients:[["300 g","darált marhahús"],["1 gerezd","fokhagyma"],["100 g","hagyma"],["5 cl","olívaolaj"],["500 g","hámozott, lecsepegtetett paradicsom konzerv"],["10 g","oregánó"],["50 g","liszt"],["50 g","vaj"],["50 cl","félzsíros tej"],["1 csipet","szerecsendió"],["500 g","előfőzött lasagnelap"],["100 g","reszelt Gruyère"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer","beater"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig. Cseréld le a kést keverőlapátra, add hozzá az olajat, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre. Add hozzá a húst, a paradicsomot és az oregánót, sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 90 °C-on 35 percre. Tedd félre a szószt, és mosd el a robotot.",
+  "Melegítsd elő a sütőt 180 °C-ra. A habverővel felszerelt edénybe tedd a lisztet, a tejet és a szerecsendiót. Sózd, borsozd, keverd 7-es sebességen 1 percig, majd add hozzá a vajat és főzd 4-es sebességen, 90 °C-on 8 percig.",
+  "Olajozz ki egy gratinformát, önts bele kevés paradicsomszószt, majd rétegezd a lasagnelappal, paradicsomszósszal, besamellel és Gruyère-rel. Ismételd, amíg minden elfogy, a tetejére Gruyère kerüljön. Süsd 25–30 percig."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 90 °C • 35 perc","Habverő • 7-es sebesség • 1 perc","4-es sebesség • 90 °C • 8 perc","Sütő • 180 °C • 25–30 perc"]
+},
+"catalog-148":{
+ title:"Egyedényes tészta garnélával és mascarponéval",cat:"Főételek / Tészták és rizs",servings:"4 fő",total:"28 perc",accessories:["mixer"],
+ ingredients:[["300 g","makaróni"],["kb. 20 db","főtt, megtisztított garnéla"],["200 g","mascarpone"],["70 cl","víz"],["1 db","zöldségleveskocka"],["10 db","koktélparadicsom"],["1 db","cukkini"],["","néhány szál snidling"],["","só"],["","bors"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "Mosd meg a koktélparadicsomokat. Mosd meg a cukkinit, és vágd vékony karikákra.",
+  "A keverőlapáttal felszerelt edénybe tedd a makarónit, a garnélát, a mascarponét, a paradicsomot, a cukkinikarikákat és a leveskockát. Öntsd hozzá a vizet, sózd, borsozd, majd indítsd el a Lassú főzés P3 programot 18 percre.",
+  "A program végén keverd át, és snidlinggel megszórva tálald."
+ ],program:["Lassú főzés P3 • 18 perc"],note:"Tálaláskor kevés reszelt parmezánt is adhatsz hozzá. A receptet nem ajánlott melegen tartani."
+},
+"catalog-149":{
+ title:"Carbonara tészta",cat:"Főételek / Tészták és rizs",servings:"4 fő",total:"35 perc",accessories:["mixer"],
+ ingredients:[["400 g","penne"],["200 g","pancetta"],["2 cl","olívaolaj"],["30 cl","folyékony tejszín"],["120 g","reszelt parmezán"],["1 db","tojássárgája"],["","bors"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "A pennét a csomagoláson található utasítás szerint főzd meg egy nagy fazékban.",
+  "A pancettát vágd kis darabokra, tedd a keverőlapáttal felszerelt edénybe, add hozzá az olajat, majd dugó nélkül indítsd el a Lassú főzés P1 programot 130 °C-on 6 percre.",
+  "A program végén add hozzá a tejszínt és a tojássárgáját, majd főzd 5-ös sebességen, 85 °C-on 8 percig.",
+  "Öntsd a szószt a lecsepegtetett tésztára, add hozzá a parmezánt, bőven borsozd meg, keverd össze, és tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 6 perc","5-ös sebesség • 85 °C • 8 perc"],note:"A pancetta füstölt szalonnával is helyettesíthető."
+},
+"catalog-150":{
+ title:"Klasszikus rizottó",cat:"Főételek / Tészták és rizs",servings:"4–6 fő",total:"40 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","Arborio rizs"],["50 g","fehérhagyma"],["5 cl","olívaolaj"],["8 cl","fehérbor"],["90 cl","szárnyasalaplé"],["30 g","parmezán"],["15 g","vaj"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, vágd durvára, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig. Cseréld le a kést keverőlapátra, add hozzá az olívaolajat, majd dugó nélkül indítsd el a Lassú főzés P1 programot 7 percre.",
+  "Amikor 4 perc van hátra, add hozzá a rizst. Amikor 1 perc van hátra, öntsd hozzá a fehérbort.",
+  "A program végén öntsd hozzá a szárnyasalaplét, majd dugóval indítsd el a Lassú főzés P3 programot 95 °C-on 22 percre kis gőzállásban.",
+  "A főzés végén add hozzá a parmezánt és a vajat, majd óvatosan keverd össze. Igazítsd a fűszerezést, és azonnal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 7 perc","Lassú főzés P3 • 95 °C • 22 perc"],note:"A rizottót ízlés szerint zöldségekkel, fűszerekkel és zöldfűszerekkel is gazdagíthatod; a forrás szerint nem érdemes melegen tartani."
+},
+"catalog-151":{
+ title:"Nyári rizottó",cat:"Főételek / Tészták és rizs",servings:"4–6 fő",total:"38 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","Arborio rizs"],["1 db","salotta"],["5 cl","olívaolaj"],["8 cl","fehérbor"],["90 cl","szárnyasalaplé"],["50 g","parmezán"],["50 g","aszalt paradicsom"],["10 levél","bazsalikom"],["50 g","vaj"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a salottát, vágd durvára, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 15 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat, majd dugó nélkül indítsd el a Lassú főzés P1 programot 7 percre.",
+  "Amikor 4 perc van hátra, add hozzá a rizst. Amikor 1 perc van hátra, öntsd hozzá a fehérbort. A program végén add hozzá a szárnyasalaplét, majd dugóval indítsd el a Lassú főzés P3 programot 95 °C-on 20 percre.",
+  "A főzés végén add hozzá a parmezánt, a vajat és a darabokra vágott aszalt paradicsomot, majd spatulával óvatosan keverd össze. Igazítsd a fűszerezést, és azonnal tálald bazsalikomlevelekkel."
+ ],program:["Ultrablade • 11-es sebesség • 15 mp","Lassú főzés P1 • 7 perc","Lassú főzés P3 • 95 °C • 20 perc"],note:"Ne lepődj meg, ha marad egy kevés folyadék: a parmezán krémessé teszi a rizottót. A forrás szerint nem érdemes melegen tartani."
+},
+"catalog-152":{
+ title:"Rizottó zöldborsóval és sonkával",cat:"Főételek / Tészták és rizs",servings:"4–6 fő",total:"40 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","Arborio rizs"],["1 db","salotta"],["5 cl","olívaolaj"],["8 cl","fehérbor"],["90 cl","szárnyasalaplé"],["170 g","fagyasztott zöldborsó"],["30 g","reszelt parmezán"],["80 g","pármai sonka"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a salottát, vágd durvára, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig. Cseréld le a kést keverőlapátra. Öntsd az olívaolajat az edénybe, és dugó nélkül indítsd el a Lassú főzés P1 programot 130 °C-on 7 percre.",
+  "Amikor 4 perc van hátra, add hozzá a rizst. Amikor 1 perc van hátra, öntsd hozzá a fehérbort.",
+  "A program végén öntsd hozzá a szárnyasalaplét, majd dugóval indítsd el a Lassú főzés P3 programot 95 °C-on 22 percre. A főzés utolsó 10 percében add hozzá a zöldborsót.",
+  "A főzés végén add hozzá a parmezánt és a darabokra vágott pármai sonkát, majd óvatosan keverd össze. Igazítsd a fűszerezést, és azonnal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 7 perc","Lassú főzés P3 • 95 °C • 22 perc"]
+},
+"catalog-153":{
+ title:"Spätzli",cat:"Főételek / Tészták és rizs",servings:"4 fő",total:"23 perc",accessories:["fondxl","kneading"],
+ ingredients:[["150 g","T45 finomliszt"],["3 db","tojás"],["20 g","sós vaj"],["½ ek","aprított petrezselyem"],["2 L","víz"],["","só"],["","bors"],["","szerecsendió"]],
+ stepAccessories:["fondxl"],
+ steps:[
+  "A Fond XL tartozékkal felszerelt edénybe önts 2 liter sós vizet, zárd le a fedelet, és forrald 120 °C-on 8 percig, lezárt fedéllel.",
+  "Közben egy tálban keverd össze a lisztet, a tojásokat, a sót, a borsot és a szerecsendiót, amíg kissé folyékony tésztát kapsz. Amikor a víz forr, csökkentsd a hőmérsékletet 100 °C-ra, és adj hozzá 1 percet.",
+  "A tésztát spätzliformázóval reszeld közvetlenül a Companion edényébe, és főzd 1 percig, amíg a tésztadarabok feljönnek a felszínre. Szűrd le a spätzlit, és öblítsd ki az edényt.",
+  "Állítsd a robotot 150 °C-ra 2 perc 30 másodpercre. Ha elérte a hőmérsékletet, indítsd újra 5 percre, add hozzá a vajat és a spätzlit, majd alaposan keverd át.",
+  "A végén add hozzá a petrezselymet, és tálald."
+ ],program:["Fond XL • 120 °C • 8 perc","100 °C • +1 perc","Fond XL • 150 °C • 2 perc 30 mp + 5 perc"]
+},
+"catalog-154":{
+ title:"Vol-au-vent",cat:"Főételek / Quiche, pite, pizza",servings:"4 fő",total:"1 óra 15 perc",accessories:["ultrablade","mixer","beater"],
+ ingredients:[["6 db","leveles tésztakosárka"],["40 g","liszt"],["40 g + 20 g","vaj"],["50 cl","félzsíros tej"],["180 g","csirkemell"],["100 g","borjúhús"],["2 db","natúr quenelle (200 g)"],["60 g","salotta"],["10 cl","alaplé"],["180 g","egész csiperkegomba konzervből"],["2 ek","olaj"],["1 csipet","szerecsendió"],["","só"],["","bors"]],
+ stepAccessories:["beater","ultrablade","mixer"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A habverővel felszerelt edénybe tedd a lisztet, a tejet és a szerecsendiót. Sózd, borsozd, keverd 7-es sebességen 1 percig, majd add hozzá 40 g vajat, és főzd 4-es sebességen, 90 °C-on 8 percig. Tedd félre, és mosd ki az edényt.",
+  "A csirkét, a borjút és a quenelle-eket vágd darabokra. Pucold meg a salottát, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, add hozzá a maradék 20 g vajat és az olajat. Indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre. Add hozzá a csirkét, a borjút és az alaplevet, majd indítsd el a Lassú főzés P2 programot 90 °C-on 25 percre. 15 perc után add hozzá a gombát és a quenelle-eket.",
+  "Öntsd ki az alaplevet, majd keverd össze a húsos-gombás keveréket a besamellel. Töltsd meg vele a leveles tésztakosárkákat, és süsd 20 percig."
+ ],program:["Habverő • 7-es sebesség • 1 perc","4-es sebesség • 90 °C • 8 perc","Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 90 °C • 25 perc","Sütő • 180 °C • 20 perc"]
+},
+"catalog-155":{
+ title:"Darált borjús pizza",cat:"Főételek / Quiche, pite, pizza",servings:"4 fő",total:"1 óra 30 perc",accessories:["kneading","ultrablade","mixer"],
+ ingredients:[["1 tasak","szárított sütőélesztő"],["400 g","liszt"],["250 g","darált borjúhús"],["1 db","sárga kaliforniai paprika"],["1 db","hagyma"],["100 g","reszelt cheddar"],["6 ek","paradicsomszósz"],["1 csipet","szárított kakukkfű"],["","olívaolaj"],["","só"],["25 cl","víz"]],
+ stepAccessories:["kneading","ultrablade","mixer"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe önts 25 cl vizet, add hozzá az élesztőt, majd futtasd 3-as sebességen 40 °C-on 2 percig. A végén add hozzá a lisztet, 2 evőkanál olívaolajat és 1 csipet sót, majd indítsd el a Tészta (Pastry) P1 programot. A program végén hagyd a tésztát az edényben 30 °C-on 40 percig.",
+  "Pucold meg a hagymát, vágd négyfelé. A paprikát mosd meg, magozd ki és vágd kockákra. Tedd a hagymát az Ultrablade késsel felszerelt edénybe, és aprítsd 10-es sebességen 10 másodpercig. Cseréld le a kést keverőlapátra, add hozzá a paprikát, a darált húst és 2 evőkanál olívaolajat, majd indítsd el a Lassú főzés P1 programot. A program végén add hozzá a kakukkfüvet és 3 evőkanál paradicsomszószt, majd indítsd el a Lassú főzés P2 programot 10 percre.",
+  "Melegítsd elő a sütőt 220 °C-ra. Lisztezett munkafelületen nyomkodd le a tésztából a levegőt, nyújtsd ki vékonyra, majd tedd sütőpapíros tepsire. Kend meg a maradék paradicsomszósszal, oszd el rajta a borjús tölteléket, szórd meg cheddarral, és süsd körülbelül 20 percig. Tálaláskor spenót- vagy rukkolaleveleket tehetsz rá."
+ ],program:["Dagasztó-/aprítókés • 40 °C • 3-as sebesség • 2 perc","Tészta P1 • 40 perc pihentetés 30 °C-on","Ultrablade • 10-es sebesség • 10 mp","Lassú főzés P1","Lassú főzés P2 • 10 perc","Sütő • 220 °C • kb. 20 perc"]
+},
+"catalog-156":{
+ title:"Pizza Regina",cat:"Főételek / Quiche, pite, pizza",servings:"4 fő",total:"33 perc",accessories:["kneading"],
+ ingredients:[["20 g","friss sütőélesztő vagy 10 g szárított"],["25 cl","langyos víz"],["400 g","liszt"],["1 tk","só"],["2 ek + kevés","olívaolaj"],["4 szelet","sonka"],["6–8 db","csiperkegomba"],["250 g","mozzarella"],["20 cl","paradicsom-coulis"],["1 tk","oregánó"],["10 levél","bazsalikom"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 240 °C-ra (8-as fokozat), és bélelj ki egy tepsit sütőpapírral.",
+  "A dagasztó-/aprítókéses edénybe tedd a langyos vizet és az élesztőt, majd indítsd el a Tészta (Pastry) P1 programot. 30 másodperc után add hozzá a lisztet, a sót és 2 evőkanál olívaolajat.",
+  "A sonkaszeleteket vágd négyfelé. A gombát vékonyan szeleteld, a mozzarellát vágd kockákra. A program végén nyújtsd a tésztát a sütőpapíros tepsire. Kend meg paradicsom-coulis-val, szórd meg oregánóval, majd tedd rá a mozzarellát, sonkát és gombát. Locsold meg kevés olívaolajjal.",
+  "Süsd körülbelül 15 percig. A bazsalikomleveleket a kész pizzára tedd, és tálald."
+ ],program:["Tészta P1","Sütő • 240 °C • kb. 15 perc"],note:"A feltétet ízlés szerint variálhatod."
+},
+"catalog-157":{
+ title:"Paradicsomos quiche",cat:"Főételek / Quiche, pite, pizza",servings:"4 fő",total:"1 óra 44 perc",accessories:["kneading","ultrablade"],
+ ingredients:[["210 g","45-ös típusú liszt"],["100 g","hideg vaj, kockákra vágva"],["70 ml","víz"],["½ tk","só"],["50 g","sonkakocka"],["400 g","szeletelt paradicsom"],["1 db","szeletelt hagyma"],["250 g","crème fraîche"],["50 ml","1,5%-os tej"],["3 db","tojás"],["2 ek","túró vagy fromage blanc"],["½ tk","só"],["","frissen őrölt bors"]],
+ stepAccessories:["kneading","ultrablade"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a lisztet, a vajat, a vizet és a sót, majd indítsd el a Tészta (Pastry) P1 programot.",
+  "Csomagold a tésztát fóliába, és pihentesd 30 percig hűtőben. Mosd ki az edényt.",
+  "Melegítsd elő a sütőt 180 °C-ra. Nyújtsd a tésztát kör alakúra, majd tedd kivajazott, 26 cm átmérőjű formába úgy, hogy az oldalára is felérjen. Szurkáld meg villával. Oszd el rajta a sonkát és a paradicsomszeleteket.",
+  "Cseréld le a dagasztó-/aprítókést Ultrablade késre. Tedd az edénybe a hagymát, és aprítsd 10-es sebességen 20 másodpercig.",
+  "Spatulával húzd középre, majd add hozzá a crème fraîche-t, a tejet, a tojásokat, a fromage blanc-t, a sót és a borsot. Aprítsd 5-ös sebességen 30 másodpercig.",
+  "Öntsd a keveréket a sonkára és a paradicsomra, majd süsd körülbelül 45 percig."
+ ],program:["Tészta P1","Ultrablade • 10-es sebesség • 20 mp","Ultrablade • 5-ös sebesség • 30 mp","Sütő • 180 °C • kb. 45 perc"],note:"Melegen és hidegen is fogyasztható, vendégvárónak is jól elkészíthető."
+},
+"catalog-158":{
+ title:"Maredsous sajtos quiche",cat:"Főételek / Quiche, pite, pizza",servings:"4 fő",total:"46 perc",accessories:["mixer","kneading"],
+ ingredients:[["200 g","Maredsous sajt, szeletekben"],["1 adag","omlós tészta"],["200 g","füstölt sertéshas"],["3 db","tojás"],["2 db","tojássárgája"],["25 cl","sűrű crème fraîche"],["","őrölt szerecsendió"],["","só"],["","fekete bors"]],
+ stepAccessories:["mixer","kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A füstölt sertéshúst vágd csíkokra, és tedd a keverőlapáttal felszerelt edénybe. Indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre. Tedd a húst papírtörlőre, majd mosd ki az edényt.",
+  "A dagasztó-/aprítókéses edénybe tedd a felvert tojásokat és tojássárgájákat, a crème fraîche-t és a szerecsendiót. Sózd, borsozd, majd keverd 7-es sebességen 1 percig.",
+  "A sonkát oszd el a tésztalapon, öntsd rá a tejszínes-tojásos keveréket, majd fedd be a sajtszeletekkel. Süsd körülbelül 30 percig. Langyosan vagy hidegen tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 5 perc","Dagasztó-/aprítókés • 7-es sebesség • 1 perc","Sütő • 180 °C • kb. 30 perc"],note:"A Maredsous sajt Maroilles sajttal is helyettesíthető."
+},
+"catalog-159":{
+ title:"Quiche Lorraine",cat:"Főételek / Quiche, pite, pizza",servings:"4 fő",total:"46 perc",accessories:["mixer","kneading"],
+ ingredients:[["1 adag","omlós tészta"],["300 g","szalonnakocka"],["4 db","tojás"],["200 g","sűrű crème fraîche"],["1 tk","reszelt szerecsendió"],["100 g","reszelt Gruyère"],["","só"],["","bors"]],
+ stepAccessories:["mixer","kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A tésztát nyújtsd ki piteformába, és fedd le sütőpapírral, amelyre száraz hüvelyeseket teszel. Süsd 10 percig, majd hagyd kihűlni.",
+  "A szalonnakockákat tedd a keverőlapáttal felszerelt edénybe, és indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre. Tedd a szalonnát papírtörlőre, majd mosd ki az edényt.",
+  "A dagasztó-/aprítókéses edénybe tedd a felvert tojásokat, a tejszínt és a szerecsendiót. Sózd, borsozd, majd keverd 7-es sebességen 45 másodpercig.",
+  "Oszd el a szalonnát a tésztalapon, öntsd rá a tejszínes-tojásos keveréket, majd szórd meg reszelt Gruyère-rel. Süsd körülbelül 30 percig. Langyosan vagy hidegen tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 5 perc","Dagasztó-/aprítókés • 7-es sebesség • 45 mp","Sütő • 180 °C • kb. 30 perc"],note:"A szalonna póréhagyma fehér részével is helyettesíthető."
+},
+
 };
