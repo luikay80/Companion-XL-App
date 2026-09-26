@@ -1471,4 +1471,227 @@ window.CompanionRecipeTranslations={
  ],program:["Ultrablade • 11-es sebesség • 20 mp","Lassú főzés P1 • 130 °C • 5 perc","Kézi mód • 120 °C • 2-es sebesség • 50 perc"],note:"A főzés elején burgonyát is adhatsz hozzá. Ha a paradicsom elég leveses, nincs szükség a húslevesre."
 },
 
+
+"catalog-100":{
+ title:"Szárnyasfilé kókusztejes-curryvel",cat:"Főételek / Húsok",servings:"4 fő",total:"34 perc",accessories:["fondxl"],
+ ingredients:[["½ db","szárnyasleveskocka"],["200 ml","kókusztej"],["4 db","200 g-os szárnyasfilé"],["½ ek","őrölt curry"],["150 g","hagyma"],["280 g","sárgarépa"],["1 ek","aprított bazsalikom"],["1 gerezd","pucolt, csírátlanított és összezúzott fokhagyma"],["4 ek","növényi olaj"],["","só"]],
+ stepAccessories:["fondxl"],
+ steps:[
+  "Pucold meg a hagymát, vágd négyfelé. A sárgarépát pucold meg, és vágd hasábokra.",
+  "A Fond XL tartozékkal felszerelt edénybe önts 4 evőkanál növényi olajat, majd melegítsd 150 °C-on 18 perc 30 másodpercig. Közben sózd és szórd meg curryvel a szárnyasfiléket.",
+  "2 perc 30 másodperc elteltével tegyél 3 szárnyasfilét az edénybe, és süsd 8 percig, időnként megfordítva. Ha szépen megpirultak, vedd ki őket. Az utolsó 8 percre tedd be a negyedik filét az edény egyik oldalára, a zöldségeket pedig a másik oldalra. Időnként keverd meg.",
+  "A sütés végén add hozzá a 3 félretett szárnyasfilét, a bazsalikomot, a leveskockát és a kókusztejet. Keverd össze, zárd le a fedelet a dugóval, és főzd 100 °C-on 10 percig."
+ ],program:["Fond XL • 150 °C • 18 perc 30 mp","100 °C • 10 perc"],note:"A forrás receptszövege a negyedik filé elkészítésekor a zöldségek és a hús külön oldalra helyezését írja elő; a recept végén a félretett három filé kerül vissza az edénybe."
+},
+"catalog-101":{
+ title:"Édes-savanyú sertésszűz",cat:"Főételek / Húsok",servings:"4 fő",total:"32 perc",accessories:["fondxl"],
+ ingredients:[["500 g","sertésszűzérme"],["2 ek","liszt vagy Maizena®"],["1 ek","friss, aprított bazsalikom"],["1 tk","friss, aprított gyömbér"],["2 ek","szójaszósz"],["4 ek","ketchup"],["3 gerezd","pucolt és összezúzott fokhagyma"],["½ db","borjúalapkocka"],["200 ml","víz"],["1 ek","borecet"],["1 ek","barnacukor"],["4 ek","növényi olaj"],["150 g","felszeletelt hagyma"],["1 nagy db","zöld kaliforniai paprika, kockákra vágva"],["1 nagy db","piros kaliforniai paprika, kockákra vágva"],["","só"],["","bors"]],
+ stepAccessories:["fondxl"],
+ steps:[
+  "A sertésszüzet vágd nagyobb, körülbelül 70 g-os darabokra. Forgasd lisztbe vagy Maizenába, majd sózd és borsozd. A Fond XL edényét melegítsd 150 °C-ra 3 percre.",
+  "3 perc után adj hozzá 3 evőkanál növényi olajat és a sertésszűzdarabokat, majd süsd 150 °C-on 8 perc 30 másodpercig.",
+  "Keverd át alaposan, hogy minden oldaluk egyenletesen megpiruljon. Tedd félre egy tálba.",
+  "Az edénybe tegyél 1 evőkanál olajat, majd add hozzá a zöldségeket, a fokhagymát és a cukrot. Pirítsd 150 °C-on 5 percig, időnként megkeverve.",
+  "5 perc után add hozzá a ketchupot, a vizet, a leveskockát, az ecetet, a szójaszószt és a félretett sertéshúst. Zárt fedéllel, 110 °C-on főzd 10 percig."
+ ],program:["Fond XL • 150 °C • 3 perc előmelegítés","Fond XL • 150 °C • 8 perc 30 mp","Fond XL • 150 °C • 5 perc","110 °C • 10 perc"]
+},
+"catalog-102":{
+ title:"Darált marhahúsos húspogácsa",cat:"Főételek / Húsok",servings:"4 fő",total:"21 perc",accessories:["ultrablade"],
+ ingredients:[["1 szelet","fagyasztott toastkenyér"],["100 g","hagyma"],["60 g","sima levelű petrezselyemlevél"],["400 g","sovány darált marhahús"],["1 db","tojássárgája"],["20 ml","Worcestershire-szósz"],["","só"],["","frissen őrölt bors"],["","friss zsemlemorzsa"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A kenyérszeletet vágd 4 darabra, és tedd az Ultrablade aprítókéses edénybe. Aprítsd 12-es sebességen 30 másodpercig, majd tedd át egy edénybe.",
+  "Pucold meg a hagymát, és vágd ketté. Tedd a hagymát és a petrezselymet az edénybe, majd aprítsd 12-es sebességen 10 másodpercig. Spatulával kapard le az edény falát.",
+  "Add hozzá a darált húst, a tojássárgáját, a friss zsemlemorzsát, a Worcestershire-szószt, a sót és a borsot. Aprítsd 12-es sebességen 10 másodpercig, vagy amíg a massza homogén lesz. Oszd 4 húspogácsára, fedd le fóliával, és felhasználásig tedd hűtőbe.",
+  "A húspogácsákat planchán vagy serpenyőben süsd oldalanként 5 percig, vagy amíg teljesen átsülnek. Hamburgerzsemlében, paradicsommal, céklával és salátával tálald."
+ ],program:["Ultrablade • 12-es sebesség • 30 mp","Ultrablade • 12-es sebesség • 10 mp + 10 mp"],note:"1 szelet kenyér körülbelül fél térfogat friss zsemlemorzsának felel meg."
+},
+"catalog-103":{
+ title:"Parmentier-ragu",cat:"Főételek / Húsok",servings:"4–6 fő",total:"1 óra 03 perc",accessories:["ultrablade","kneading","steam"],
+ ingredients:[["1 db","hagyma"],["350 g","főtt marhahúsból vagy más sültből megmaradt hús"],["10 cl","paradicsom-coulis"],["10 szál","sima levelű petrezselyem"],["800 g","burgonya"],["0,7 L","víz"],["150 g","sós vaj + a forma kikenéséhez"],["50 g","reszelt sajt (opcionális)"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","steam","kneading","ultrablade"],
+ steps:[
+  "Melegítsd elő a sütőt 220 °C-ra (7-es fokozat). Pucold meg a hagymát, tedd az Ultrablade késsel felszerelt edénybe, és Turbo fokozaton aprítsd 10 másodpercig. Add hozzá a húst, a paradicsom-coulis-t és a petrezselymet, majd Turbo fokozaton aprítsd 20 másodpercig. Spatulával húzd a masszát középre, és aprítsd még 10 másodpercig.",
+  "Vajazz ki egy gratinformát, és öntsd bele a húsos keveréket. Mosd ki a robot edényét.",
+  "Pucold meg a burgonyát, és vágd nagyobb kockákra. Önts 0,7 liter vizet az edénybe, majd tedd a burgonyát a gőzkosárba. Indítsd el a Gőz (Steam) P1 programot 30 percre.",
+  "Öntsd ki a vizet. A dagasztó-/aprítókéses edénybe tedd a főtt burgonyát és a vajat, majd turmixold 6-os sebességen 1 perc 30 másodpercig. Kóstold meg, és igazítsd a fűszerezést.",
+  "Oszd el a pürét a húson, szórd meg reszelt sajttal, majd süsd 15 percig. Forrón tálald."
+ ],program:["Ultrablade • Turbo • 10 + 20 + 10 mp","Gőz P1 • 30 perc","Dagasztó-/aprítókés • 6-os sebesség • 1 perc 30 mp","Sütő • 220 °C • 15 perc"],note:"Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Turbo fokozat helyett 12-es sebesség használható."
+},
+"catalog-104":{
+ title:"Vörösboros marhapofa téli zöldségekkel",cat:"Főételek / Húsok",servings:"4 fő",total:"14 óra 15 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["500 g","marhapofa"],["33 cl","vörösbor"],["80 g","hagyma"],["140 g","sárgarépa"],["140 g","burgonya (Agata vagy Charlotte)"],["1 ek","olívaolaj"],["1 gerezd","fokhagyma"],["40 g","szalonnakocka"],["1 ek","Maizena®"],["33 cl","borjúalaplé"],["1 csokor","fűszercsokor"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Előző nap tedd a marhapoFát és a vörösbort egy edénybe. Fedd le fóliával, és pácolódjon egy éjszakán át a hűtőben.",
+  "Másnap vágd darabokra a húst. Szűrd le a bort, és tedd félre. Pucold meg a hagymát, a fokhagymát, a burgonyát és a répát, majd vágd kockákra. Az Ultrablade késsel felszerelt edénybe tedd a hagymát, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat, a fokhagymát, a szalonnát és a zöldségeket. Indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A Maizenát oldd fel a borjúalaplében. A program végén add hozzá a marhahúst, a feloldott Maizenát, a fűszercsokrot és a vörösbort. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 100 °C-on 2 órára. Forrón tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 100 °C • 2 óra"]
+},
+"catalog-105":{
+ title:"Nyúl aszalt szilvával",cat:"Főételek / Húsok",servings:"4 fő",total:"55 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["750 g","feldarabolt nyúl"],["50 g","hagyma"],["1 gerezd","fokhagyma"],["5 cl","olívaolaj"],["100 g","füstölt sertéshús"],["180 g","aszalt szilva"],["25 cl","borjúalaplé"],["25 cl","fehérbor"],["1 ek","Maizena®"],["","só"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát, majd tedd az Ultrablade késsel felszerelt edénybe. Aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat és a füstölt sertéshúst, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A program végén add hozzá a nyulat, az aszalt szilvát, a borjúalaplét, a fehérbort és a Maizenát, majd sózd meg. A Lassú főzés P2 programot indítsd el 95 °C-on 45 percre. Az első 5 percben ne tedd rá a dugót, hogy az alkohol elpárologhasson.",
+  "A főzés végén azonnal tálald tésztával vagy gratinnal."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 45 perc"]
+},
+"catalog-106":{
+ title:"Citromfüves nyúlragu",cat:"Főételek / Húsok",servings:"4 fő",total:"56 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["700 g","nyúlhát"],["70 g","közepes salotta"],["10 g","friss citromfű, 2 szál"],["10 g","friss gyömbér"],["3 cl","olívaolaj"],["7 cl","lime-lé"],["27 cl","borjúalaplé"],["1 ek","Maizena®"],["","só"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a salottát és a gyömbért, a citromfüvet pedig vágd nagyon vékony karikákra. Tedd ezeket és a gyömbért az Ultrablade késsel felszerelt edénybe, majd aprítsd 11-es sebességen 1 percig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat, és indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A program végén add hozzá a nyulat, a lime-levet, a borjúalaplét és a Maizenát, majd sózd meg. Indítsd el a Lassú főzés P2 programot 95 °C-on 45 percre.",
+  "A főzés végén azonnal tálald rizzsel."
+ ],program:["Ultrablade • 11-es sebesség • 1 perc","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 45 perc"],note:"A nyúl csirkével helyettesíthető. Friss gyömbér hiányában 1 teáskanál őrölt gyömbér használható."
+},
+"catalog-107":{
+ title:"Spanyol chorizós egytálétel",cat:"Főételek / Húsok",servings:"4 fő",total:"14 óra 05 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["400 g","száraz fehérbab"],["2 db","enyhe ibériai chorizo (150 g)"],["2 db","véres hurka (150 g)"],["200 g","ibériai sertéslapocka darabokra vágva (opcionális)"],["200 g","sós sertéshas/Tocino"],["5 db","paradicsom"],["2 cl","olívaolaj"],["50 cl","szárnyasalaplé"],["1 db","hagyma"],["3 gerezd","hámozatlan fokhagyma"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A sertéslapockát és a sertéshasat 12 órán át áztasd vízben, hogy sótalanítsd. Egy másik edényben a száraz babot is áztasd 12 órán át, hogy megduzzadjon.",
+  "Pucold meg a hagymát, vágd darabokra, és tedd az Ultrablade késsel felszerelt edénybe. Aprítsd 11-es sebességen 10 másodpercig. Cseréld le a kést keverőlapátra, add hozzá a négyfelé vágott paradicsomot és az olívaolajat. Indítsd el a Lassú főzés P1 programot 130 °C-on 10 percre.",
+  "Add hozzá a többi hozzávalót, majd indítsd el a Lassú főzés P2 programot 95 °C-on 1 óra 45 percre.",
+  "Forrón tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 10 perc","Lassú főzés P2 • 95 °C • 1 óra 45 perc"],note:"Másnap még finomabb, és jól fagyasztható."
+},
+"catalog-108":{
+ title:"Ossobuco",cat:"Főételek / Húsok",servings:"4 fő",total:"2 óra 15 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["700 g","borjúcsülök"],["80 g","hagyma"],["1 gerezd","fokhagyma"],["160 g","sárgarépa"],["40 g","szárzeller"],["3 cl","olívaolaj"],["7 cl","fehérbor"],["260 g","hámozott paradicsom konzervből"],["27 cl","alaplé"],["1 db","citrom reszelt héja"],["2 db","babérlevél"],["10 g","liszt"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát, majd vágd nagyobb darabokra. Pucold meg a répát és karikázd fel. A zellert vágd darabokra.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a hagymát és a fokhagymát, majd aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olajat és a zellert, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre. 2 perc után öntsd hozzá a fehérbort.",
+  "A program végén add hozzá a lisztbe forgatott borjút, a répát, a paradicsomot, az alaplevet, a citromhéj felét és a babérlevelet. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 95 °C-on 2 órára.",
+  "A főzés végén szórd meg a maradék citromhéjjal, és tagliatellével tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 2 óra"]
+},
+"catalog-109":{
+ title:"Olasz húskenyér",cat:"Főételek / Húsok",servings:"4 fő",total:"1 óra 02 perc",accessories:["ultrablade"],
+ ingredients:[["300 g","darált marhahús"],["1 szelet","enyhén szikkadt parasztkenyér"],["40 g","pecorino"],["⅔ csokor","petrezselyem"],["2 db","nyers tojás"],["7 cl","teljes tej"],["8 szelet","coppa/pancetta"],["1 gerezd","fokhagyma"],["½ db","citrom"],["","szerecsendió"],["","néhány zsályalevél"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. Egy tálban áztasd be a parasztkenyér-szeleteket a tejbe.",
+  "Pucold meg a fokhagymát, mosd meg és szedd le a petrezselyem leveleit. Reszeld le a citrom héját. Az Ultrablade késsel felszerelt edénybe tedd a fokhagymát és a petrezselymet, majd aprítsd 12-es sebességen 30 másodpercig. Add hozzá a húst, a citromhéjat, a szerecsendiót, az enyhén kinyomkodott kenyeret és a tojásokat. Sózd, borsozd, majd aprítsd 10-es sebességen 30 másodpercig. Húzd középre a tölteléket, és aprítsd újra 30 másodpercig.",
+  "A munkafelületre teríts sütőpapírt, és a coppa/pancetta szeletekből formázz téglalapot. Nedvesítsd meg a kezed, vedd a húsmasszát, és helyezd a szeletekre úgy, hogy henger alakú legyen. A pecorinót vágd fel, és dugd a húsrúd közepébe. Tekerd körbe a húsos rudat a pancettával, majd az egészet csomagold a sütőpapírba.",
+  "Tedd tepsire, és süsd 30 percig. Vedd ki, távolítsd el a sütőpapírt, majd tedd egy tepsibe úgy, hogy a keletkezett szaftot is megtartod. Locsold meg kevés olívaolajjal, tedd rá a zsályaleveleket, és süsd további 15 percig. Tálalás előtt hagyd pihenni és langyosodni."
+ ],program:["Ultrablade • 12-es sebesség • 30 mp","Ultrablade • 10-es sebesség • 30 + 30 mp","Sütő • 180 °C • 30 perc + 15 perc"],note:"Házi paradicsomszósszal tálald."
+},
+"catalog-110":{
+ title:"Petit salé lencsével",cat:"Főételek / Húsok",servings:"4 fő",total:"55 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["250 g","száraz lencse"],["100 g","sárgarépa"],["50 g","hagyma"],["5 cl","olívaolaj"],["500 g","félsós sertéshas"],["200 g","füstölt kolbász"],["1 ek","borjúalap"],["1 ek","Maizena®"],["1 db","babérlevél"],["800 ml","víz"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a répát és a hagymát, majd vágd darabokra. A sertéshasat vágd 4 hosszú szeletre. Az Ultrablade késsel felszerelt edénybe tedd a hagymát, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá a répát és az olívaolajat, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A program végén add hozzá a lencsét, a sertéshasat, a kolbászt, a borjúalapot, a babérlevelet és 800 ml vizet. Zárd le a fedelet dugó nélkül, majd indítsd el a Lassú főzés P2 programot 100 °C-on 45 percre. A főzés utolsó 5 percében add hozzá a Maizenát. Forrón tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 100 °C • 45 perc"],note:"Expressz változathoz piríts meg 1 hagymát, adj hozzá 250 g konzerv lencsét és 4 kolbászt, majd főzd 1-es sebességen, 95 °C-on 15 percig."
+},
+"catalog-111":{
+ title:"Piperade",cat:"Főételek / Húsok",servings:"2 fő",total:"45 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","paradicsom"],["150 g","piros paprika"],["50 g","Bayonne-i sonka"],["150 g","édes hagyma"],["1 gerezd","fokhagyma"],["5 cl","olívaolaj"],["10 cl","zöldségalaplé"],["3 db","tojás"],["1 tk","Espelette-i csilipaprika"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A paprikát darabold fel. Pucold meg a hagymát és a fokhagymát, majd vágd durvára. Tedd őket az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat, enyhén sózd, borsozd, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A paradicsomot és a sonkát vágd kockákra. Az 5 perc után add hozzá ezeket a zöldségalaplével együtt. Indítsd el a Lassú főzés P2 programot 95 °C-on 20 percre.",
+  "Add hozzá a felvert tojásokat és az Espelette-i csilit, majd indítsd el a Lassú főzés P2 programot 95 °C-on 10 percre. Melegen vagy hidegen tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 20 + 10 perc"],note:"A Bayonne-i sonka chorizóval is helyettesíthető; ebben az esetben a tojásokkal együtt add hozzá."
+},
+"catalog-112":{
+ title:"Dél-francia csirke",cat:"Főételek / Húsok",servings:"4 fő",total:"45 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["400 g","csirkemellfilé"],["2 db","MAGGI Cœur de Bouillon Mediterrán zöldségek"],["3 db","piros, zöld és sárga paprika"],["200 g","koktélparadicsom"],["1 db","hagyma"],["1 ek","olaj"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Magozd ki a paprikákat, és vágd nagy kockákra. Pucold meg a hagymát, vágd négyfelé, majd az Ultrablade késsel felszerelt edényben aprítsd 10-es sebességen 20 másodpercig. Cseréld le az Ultrablade kést keverőlapátra.",
+  "Add hozzá az olajat és a kockákra vágott csirkét, majd indítsd el a Lassú főzés P1 programot 10 percre.",
+  "Add hozzá a zöldségeket és a leveskapszulákat, majd indítsd el újra a Lassú főzés P1 programot 20 percre."
+ ],program:["Ultrablade • 10-es sebesség • 20 mp","Lassú főzés P1 • 10 perc + 20 perc"]
+},
+"catalog-113":{
+ title:"Kesudiós csirke",cat:"Főételek / Húsok",servings:"4 fő",total:"55 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["750 g","csirke felsőcombfilé"],["100 g","sózott, pirított kesudió"],["2 gerezd","fokhagyma"],["1 db","hagyma"],["300 g","piros paprika"],["5 cl","olívaolaj"],["5 cl","szójaszósz"],["20 g","paradicsomsűrítmény"],["25 cl","csirkealaplé"],["12 g","friss koriander"],["½ db","citrom leve"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a fokhagymát és a hagymát. A paprikát magozd ki, és vágd csíkokra.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a fokhagymát és a hagymát, majd aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A program végén add hozzá a csirkét, a paprikát, a szójaszószt, a paradicsomsűrítményt, a kesudiót és a csirkealaplét. Indítsd el a Lassú főzés P2 programot 95 °C-on 45 percre.",
+  "Mosd meg és aprítsd fel a koriandert. A főzés végén azonnal tálald a korianderrel és a citrom levével megszórva. Borsozd meg ízlés szerint."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 45 perc"],note:"1 teáskanál csilipasztát is adhatsz hozzá."
+},
+"catalog-114":{
+ title:"Baszk csirke",cat:"Főételek / Húsok",servings:"4 fő",total:"1 óra",accessories:["ultrablade","mixer"],
+ ingredients:[["750 g","csirke felsőcombfilé"],["1 db","hagyma"],["2 gerezd","fokhagyma"],["1 db","piros kaliforniai paprika"],["5 cl","olívaolaj"],["5 cl","fehérbor"],["200 g","darabolt paradicsom konzerv"],["25 cl","csirkealaplé"],["","só"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymagerezdeket. Mosd meg, magozd ki a paprikát, majd vágd darabokra. Tedd a fokhagymát, a hagymát és a paprikát az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat és a fehérbort, majd indítsd el a Lassú főzés P1 programot 130 °C-on 8 percre.",
+  "A program végén add hozzá a csirkét, a paradicsomot és az alaplevet, majd sózd meg. Indítsd el a Lassú főzés P2 programot 95 °C-on 45 percre.",
+  "Azonnal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 8 perc","Lassú főzés P2 • 95 °C • 45 perc"],note:"Fekete olajbogyót is adhatsz hozzá."
+},
+"catalog-115":{
+ title:"Thai csirke vörös curryvel és édes csilivel",cat:"Főételek / Húsok",servings:"4 fő",total:"35 perc",accessories:["mixer"],
+ ingredients:[["80 g","hagyma"],["10 ml","földimogyoró-olaj"],["1 db","piros édes csilipaprika"],["400 g","csirkemellfilé vagy csirkecombfilé"],["120 ml","kókuszkrém"],["40 g","thai vörös curry paszta"],["","friss korianderlevél"],["","rizs"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "Pucold meg és vékonyan szeleteld fel a hagymát. Tedd a hagymát és az olajat a keverőlapáttal felszerelt edénybe, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A paprikából távolítsd el a magokat, és szeleteld vékonyra. A csirkét is szeleteld vékonyra. Add hozzá a paprikát, a csirkét, a kókuszkrémet és a curry pasztát, majd keverd össze.",
+  "Indítsd el a Lassú főzés P3 programot 95 °C-on 20 percre. Friss korianderlevéllel megszórva, rizzsel tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P3 • 95 °C • 20 perc"],note:"A curry paszta mennyiségét ízlés szerint állítsd be, mert az egyes márkák csípőssége eltérő."
+},
+"catalog-116":{
+ title:"Csirke paradicsommal és gombával",cat:"Főételek / Húsok",servings:"4 fő",total:"1 óra",accessories:["ultrablade","mixer"],
+ ingredients:[["750 g","csirke felsőcombfilé"],["2 db","salotta"],["250 g","csiperkegomba"],["5 cl","olívaolaj"],["15 cl","fehérbor"],["200 g","hámozott paradicsom konzerv"],["1 szál","kakukkfű"],["1 db","babérlevél"],["15 cl","csirkealaplé"],["1 tk","Maizena®"],["","só"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a salottát. A gombát vágd négyfelé. Tedd a salottát az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olívaolajat és a fehérbort, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A program végén add hozzá a csirkét, a paradicsomot, a kakukkfüvet, a babérlevelet és az alaplében feloldott Maizenát, majd sózd meg. Indítsd el a Lassú főzés P2 programot 95 °C-on 50 percre. 20 perc után add hozzá a gombát. A főzés végén azonnal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 50 perc"],note:"A gomba burgonyával is helyettesíthető; ebben az esetben a főzés elején add hozzá. Ha a paradicsom nagyon leveses, nincs szükség az alaplére."
+},
+"catalog-117":{
+ title:"Csirkés-zöldséges ramen",cat:"Főételek / Húsok",servings:"6 fő",total:"30 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["1,5 L","csirkealaplé"],["2 db","sárgarépa"],["1 db","hagyma"],["1 db","póréhagyma"],["1 gerezd","fokhagyma"],["1 cm","gyömbérgyökér"],["2 ek","szójaszósz"],["100 g","spenótlevél"],["1 db","újhagyma"],["2 db","csirkemellfilé"],["1 ek","olaj"],["300 g","Udon tészta"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a fokhagymát, a gyömbért és a hagymát, majd vágd darabokra. Tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 12-es sebességen 30 másodpercig. A póréhagymát mosd meg és szeleteld fel, a répát pucold meg és karikázd fel. A csirkét vágd vékony csíkokra, az újhagymát szeleteld fel, majd tedd félre.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Tedd bele a csirkét, a fokhagymát, a hagymát és az olajat, majd indítsd el a Lassú főzés P1 programot 5 percre. 3 perc után add hozzá a szójaszószt.",
+  "A program végén add hozzá az alaplevet, a póréhagymát és a répát, majd indítsd el a Lassú főzés P1 programot 15 percre. A program utolsó 5 percében add hozzá az Udon tésztát.",
+  "Minden tálba merj néhány merőkanál alaplevet a zöldségekkel és a csirkével, majd tegyél rá néhány karika újhagymát és egy marék spenótot. Tálaláskor fél kemény tojást is adhatsz hozzá."
+ ],program:["Ultrablade • 12-es sebesség • 30 mp","Lassú főzés P1 • 5 perc","Lassú főzés P1 • 15 perc"],note:"A kemény tojást a forrás tálalási javaslatként említi."
+},
+"catalog-118":{
+ title:"Rougail kolbásszal",cat:"Főételek / Húsok",servings:"10 fő",total:"50 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["12 db","150 g-os kolbász"],["1 db","hagyma"],["90 g","gyömbér"],["4 gerezd","fokhagyma"],["5 cl","olaj"],["600 g","paradicsompép"],["40 cl","szárnyasalaplé"],["2 db","szárított csilipaprika"],["","fehér rizs"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, a gyömbért és a fokhagymagerezdeket. Vágd nagyobb darabokra, majd tedd az Ultrablade késsel felszerelt edénybe. Aprítsd 11-es sebességen 20 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, add hozzá az olajat, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+  "A kolbászokat vágd hat darabra. A program végén add hozzá őket a paradicsompéppel, a szárnyasalaplével és a csilipaprikával együtt. Sózd, borsozd. Főzd kézi módban 120 °C-on, 2-es sebességen 35 percig.",
+  "Azonnal tálald fehér rizzsel."
+ ],program:["Ultrablade • 11-es sebesség • 20 mp","Lassú főzés P1 • 130 °C • 5 perc","Kézi mód • 120 °C • 2-es sebesség • 35 perc"],note:"1 teáskanál curryt is adhatsz hozzá."
+},
+"catalog-119":{
+ title:"Ázsiai csirkesaláta",cat:"Főételek / Húsok",servings:"4 fő",total:"30 perc 45 mp",accessories:["steam","ultrablade"],
+ ingredients:[["450 g","csirkemell"],["150 g","uborka"],["150 g","sárgarépa"],["150 g","saláta (például jégsaláta)"],["150 g","szójababcsíra"],["30 g","koriander"],["13 cl","lime-lé"],["13 cl","szójaszósz"],["27 cl","semleges ízű olaj"],["7 cl","szezámolaj"],["1,5 tk","Tabasco® (opcionális)"],["0,7 L","víz"],["","só"],["","bors"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "A csirkét vágd csíkokra. Önts 0,7 liter vizet a robot edényébe. A csirkecsíkokat tedd a gőzkosárba, sózd, borsozd, helyezd a robotba, majd indítsd el a Gőz (Steam) P1 programot 20 percre.",
+  "Pucold meg az uborkát és a répát, majd hámozóval vágd csíkokra. A salátát vágd csíkokra. Egy salátástálban keverd össze a répát, az uborkát, a salátát, a szójababcsírát és a koriandert.",
+  "A főzés végén öntsd ki a vizet. Tedd be az Ultrablade aprítókést, és add hozzá a lime levét, a szójaszószt, az olajokat és a Tabascót. Aprítsd 11-es sebességen 45 másodpercig.",
+  "Add hozzá a csirkecsíkokat és a szósz felét a salátástálhoz. Keverd össze.",
+  "A szósz másik felét tedd szószos tálkába, hogy mindenki ízlés szerint adagolhassa. Tálald."
+ ],program:["Gőz P1 • 20 perc","Ultrablade • 11-es sebesség • 45 mp"]
+},
+
 };
