@@ -9,10 +9,17 @@ const baseRecipes=[
 {id:'pumpkin',title:'Sajtos sütőtökfelfújt',cat:'Előételek',servings:6,total:'56 perc',image:'pumpkin.jpg',accessories:['ultrablade','beater'],ingredients:[['500 g','sütőtökhús'],['4 adag','ömlesztett sajt'],['2 db','hagyma'],['2 gerezd','fokhagyma'],['90 g','vaj összesen'],['4 db','tojás'],['20 cl','tej'],['40 g','liszt'],['','só, bors']],stepAccessories:['ultrablade','beater','beater'],steps:['Az Ultrablade késsel aprítsd a hagymát és a fokhagymát. Add hozzá a vajat és a sütőtököt, majd Slow cook P2 programon főzd 20 percig.','Turmixold pürévé, majd készíts béchamelt a lisztből, tejből és vajból.','A tojásfehérjét verd habbá, óvatosan forgasd a masszába, majd 180 °C-on süsd kb. 10 percig.'],program:['Slow cook P2 • 20 perc','Sauce • 90 °C • 4-es sebesség • 8 perc','7-es sebesség • 8 perc'],note:'Bluetoothos gépnél a SAUCE program kézi beállítással is kiváltható.'}
 ];
 const recipes=[...baseRecipes,...catalog];
-const accessoryInfo={ultrablade:{name:'Ultrablade aprítókés',file:'ultrablade.jpg'},kneading:{name:'Dagasztó-/aprítókés',file:'kneading.jpg'},beater:{name:'Habverő',file:'beater.jpg'},mixer:{name:'Keverőlapát',file:'mixer.jpg'},steam:{name:'Gőzkosár',file:'steam.jpg'},fondxl:{name:'Fond XL / XL alj',file:'fondxl.jpg'}};
+const accessoryInfo={
+ ultrablade:{name:'Ultrablade aprítókés',url:'https://www.le-sav.com/17700-thickbox_default/couteau-et-cache-noir-pour-robot-companion-moulinex.jpg'},
+ kneading:{name:'Dagasztó-/aprítókés',url:'https://dam.groupeseb.com/m/1476fa9c61642040/Medium-MS-0A19244_couteau_a_petrir_large-png.png?timestamp=20260124223435'},
+ beater:{name:'Habverő',url:'https://cdn.idealo.com/folder/Product/203683/6/203683620/s4_produktbild_max_2/moulinex-fouet-double-rotation-companion-xl.jpg'},
+ mixer:{name:'Keverőlapát',url:'https://dam.groupeseb.com/m/e448bc0575b19816/Digital-MS-0A19246_melangeur_large-png.png?timestamp=20250325055200'},
+ steam:{name:'Gőzkosár',url:'https://www.midi-pieces-menager.fr/394319-home_default/ms-0a19203-panier-robot-cuiseur-companion.jpg'},
+ fondxl:{name:'Fond XL / XL alj',url:'https://www.bpelectro.fr/bp/2741-large_default/bouchon-bol-ou-adaptateur-fond-plat-robot-companion-moulinex-ms-8030000420.jpg'}
+};
 const state={cat:'Mind',q:'',favorites:new Set(JSON.parse(localStorage.getItem('companion-favs')||'[]')),cook:null,step:0};
 const $=s=>document.querySelector(s); const esc=s=>String(s).replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]));
-const recipeImg=r=>'assets/recipes/'+r.image; const accImg=id=>'assets/accessories/'+accessoryInfo[id].file;
+const recipeImg=r=>'assets/recipes/'+r.image; const accImg=id=>accessoryInfo[id].url;
 function save(){localStorage.setItem('companion-favs',JSON.stringify([...state.favorites]));}
 function cats(){return ['Mind',...new Set(recipes.map(r=>r.cat)),'Kedvencek'];}
 function filtered(){const q=state.q.trim().toLowerCase();return recipes.filter(r=>{const cat=state.cat==='Mind'||(state.cat==='Kedvencek'?state.favorites.has(r.id):r.cat===state.cat);const t=(r.title+' '+r.ingredients.map(x=>x.join(' ')).join(' ')+' '+r.accessories.map(x=>accessoryInfo[x].name).join(' ')).toLowerCase();return cat&&(!q||t.includes(q));});}
