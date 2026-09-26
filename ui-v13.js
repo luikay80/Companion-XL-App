@@ -6,18 +6,9 @@ function drawCategories(){
  const counts={};recipes.forEach(r=>{const c=topCategory(r.cat);counts[c]=(counts[c]||0)+1});
  const el=document.querySelector('#categoryGrid');if(!el)return;
  el.innerHTML=order.map(c=>'<article class="category-card '+(state.topCat===c&&!state.home?'selected':'')+'" data-cat="'+esc(c)+'"><div class="cat-art"><img src="assets/recipes/'+imgs[c]+'" alt="'+esc(c)+'"></div><div class="cat-info"><strong>'+esc(c)+'</strong><small>'+String(counts[c]||0)+' recept</small></div></article>').join('');
- el.querySelectorAll('.category-card').forEach(card=>card.onclick=()=>showTop(card.dataset.cat));
+ el.querySelectorAll('.category-card').forEach(card=>card.onclick=()=>{location.href='category.html?cat='+encodeURIComponent(card.dataset.cat)});
 }
-function showTop(name){
- state.home=false;state.topCat=name;state.cat='Mind';
- const rs=document.querySelector('#recipeSection');
- if(rs){rs.classList.add('is-visible');rs.hidden=false;rs.style.setProperty('display','block','important');}
- render();
- const title=document.querySelector('#recipeHeading');if(title)title.textContent=name;
- document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'});
- drawCategories();
-}
-
+function showTop(name){location.href='category.html?cat='+encodeURIComponent(name);}
 const translated={
 'catalog-0':{title:'Vaníliás angolkrém',cat:'Alapreceptek',servings:'6 adag',total:'13 perc 30 mp',accessories:['beater'],ingredients:[['6 db','tojássárgája'],['80 g','cukor'],['50 cl','tej'],['1 tk','folyékony vanília'],],stepAccessories:['beater'],steps:['A habverőbetéttel ellátott edénybe tedd a tojássárgáját és a cukrot. Keverd 6-os sebességen 1 percig. 30 másodperc után a fedél nyílásán át add hozzá a vaníliát és a tejet.','Indítsd 4-es sebességen, 85 °C-on 12 percre. A végén hagyd kihűlni, majd tálald.'],program:['Habverő • 6-os sebesség • 1 perc','4-es sebesség • 85 °C • 12 perc']},
 'catalog-1':{title:'Házi vaj',cat:'Alapreceptek',servings:'125 g',total:'4 perc 40 mp',accessories:['beater'],ingredients:[['40 cl','legalább 35%-os zsírtartalmú habtejszín']],stepAccessories:['beater'],steps:['A habverőbetéttel ellátott edénybe öntsd a tejszínt, majd 7-es sebességen dolgozd 7 percig.','Szűrd le és formázd a vajat. A visszamaradó író italokhoz vagy süteményekhez felhasználható.'],program:['Habverő • 7-es sebesség • 7 perc']},
@@ -34,9 +25,8 @@ Object.keys(translated).forEach(id=>{const r=recipes.find(x=>x.id===id);if(r)Obj
 
 drawCategories();
 document.querySelector('#allCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navHome')?.addEventListener('click',()=>{state.home=true;state.topCat=null;state.cat='Mind';state.q='';drawCategories();const rs=document.querySelector('#recipeSection');if(rs){rs.classList.remove('is-visible');rs.hidden=true;rs.style.setProperty('display','none','important');}const q=document.querySelector('#q');if(q)q.value='';render();window.scrollTo({top:0,behavior:'smooth'})});
-document.querySelector('#navRecipes')?.addEventListener('click',()=>{if(state.home)document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'});else document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'});});
+document.querySelector('#navHome')?.addEventListener('click',()=>location.href='index.html');
+document.querySelector('#navRecipes')?.addEventListener('click',()=>location.href='category.html');
 document.querySelector('#navCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'}));
-document.querySelector('#backToCategories')?.addEventListener('click',()=>{state.home=true;state.topCat=null;state.cat='Mind';const rs=document.querySelector('#recipeSection');if(rs){rs.classList.remove('is-visible');rs.hidden=true;rs.style.setProperty('display','none','important');}drawCategories();document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'});});
 document.querySelector('#navFav')?.addEventListener('click',()=>{state.home=false;state.topCat=null;state.cat='Kedvencek';render();const t=document.querySelector('#recipeSection h3');if(t)t.textContent='Kedvencek';document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'})});
 })();
