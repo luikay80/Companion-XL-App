@@ -2150,4 +2150,225 @@ window.CompanionRecipeTranslations={
  ],program:["Lassú főzés P1 • 130 °C • 5 perc","Dagasztó-/aprítókés • 7-es sebesség • 45 mp","Sütő • 180 °C • kb. 30 perc"],note:"A szalonna póréhagyma fehér részével is helyettesíthető."
 },
 
+
+"catalog-160":{
+ title:"Cukkinis-sonkás quiche tészta nélkül",cat:"Főételek / Quiche, pite, pizza",servings:"6 fő",total:"58 perc",accessories:["steam","beater"],
+ ingredients:[["2 db","cukkini"],["3 db","tojás"],["20 cl","tej"],["20 cl","folyékony tejszín"],["80 g","liszt"],["20 g","parmezán"],["200 g","sonkakocka"],["","só"],["","bors"],["","őrölt szerecsendió"]],
+ stepAccessories:["steam","beater"],
+ steps:[
+  "A cukkinit mosd meg, és vágd kis kockákra. Önts 0,7 liter vizet a robot edényébe, tedd a cukkinit a gőzkosárba, majd indítsd el a Gőz P1 programot 10 percre. A főzés végén hagyd langyosra hűlni.",
+  "Melegítsd elő a sütőt 180 °C-ra. A habverővel felszerelt edénybe tedd a tojásokat, a tejet és a tejszínt, majd keverd 8-as sebességen 1 percig. Add hozzá a lisztet és a parmezánt, majd keverd újra 8-as sebességen 1 percig. Sózd, borsozd, adj hozzá kevés reszelt szerecsendiót. Add hozzá a főtt cukkinit és a sonkakockákat, majd keverd 3-as sebességen 30 másodpercig.",
+  "Vajazz és lisztezz ki kis tortácskaformákat, majd öntsd bele a keveréket. Süsd körülbelül 30 percig, amíg a quiche-ek szépen megpirulnak."
+ ],program:["Gőz P1 • 10 perc","Habverő • 8-as sebesség • 1 perc + 1 perc","3-as sebesség • 30 mp","Sütő • 180 °C • kb. 30 perc"],note:"A masszához aprított snidlinget is adhatsz."
+},
+"catalog-161":{
+ title:"Gombás-csirkés tourte",cat:"Főételek / Quiche, pite, pizza",servings:"6 fő",total:"1 óra 22 perc",accessories:["beater","ultrablade","mixer"],
+ ingredients:[["1 adag","omlós tészta"],["1 adag","leveles tészta"],["400 g","csirkefilé"],["150 g","csiperkegomba"],["100 g","rókagomba"],["5 cl","konyak"],["2 db","sárgarépa"],["3 db","salotta"],["3 szál","petrezselyem"],["2 ek","olívaolaj"],["1 db","tojássárgája"],["1 diónyi","vaj"],["6 szelet","bacon"],["40 g","liszt"],["40 g","vaj"],["50 cl","tej"],["1 csipet","őrölt szerecsendió"],["","só"],["","bors"]],
+ stepAccessories:["beater","ultrablade","mixer"],
+ steps:[
+  "Először készítsd el a besamelt. A habverővel felszerelt edénybe tedd a lisztet, a tejet és a szerecsendiót. Sózd, borsozd. Keverd 7-es sebességen 1 percig, majd add hozzá a darabokra vágott vajat, és főzd 4-es sebességen, 90 °C-on 8 percig. Tedd félre, majd mosd és szárítsd meg az edényt.",
+  "Pucold meg a salottát és vágd ketté. A csirkét vágd kis darabokra, a gombát tisztítsd meg és szeleteld, a rókagombát is tisztítsd meg és vágd fel, ha nagyobb. Pucold meg a répát és karikázd fel.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a salottát és a petrezselymet, majd aprítsd 12-es sebességen 10 másodpercig. Cseréld le a kést keverőlapátra, add hozzá az olívaolajat, a csirkét és a répát. Sózd, borsozd, majd indítsd el a Lassú főzés P1 programot 5 percre dugó nélkül. A végén öntsd hozzá a konyakot, add hozzá a gombákat, majd indítsd újra a Lassú főzés P1 programot 10 percre. A végén add hozzá a besamelt, és keverd 3-as sebességen 2 percig.",
+  "Melegítsd elő a sütőt 220 °C-ra. Vajazz ki egy sütőformát, béleld ki az omlós tésztával úgy, hogy 1 cm-rel túllógjon. Helyezd rá a baconszeleteket, majd töltsd bele a csirkés keveréket. Fedd be a leveles tésztával, és a széleket jól nyomkodd össze.",
+  "Kend meg tojássárgájával, vágj egy lyukat a közepére, majd süsd 15 percig 210 °C-on. Ezután csökkentsd a hőmérsékletet 180 °C-ra, és süsd további 20 percig."
+ ],program:["Habverő • 7-es sebesség • 1 perc","4-es sebesség • 90 °C • 8 perc","Ultrablade • 12-es sebesség • 10 mp","Lassú főzés P1 • 5 perc + 10 perc","3-as sebesség • 2 perc","Sütő • 210 °C • 15 perc + 180 °C • 20 perc"]
+},
+"catalog-162":{
+ title:"Flamiche póréhagymával",cat:"Főételek / Quiche, pite, pizza",servings:"8 fő",total:"1 óra 15 perc",accessories:["mixer"],
+ ingredients:[["2 adag","omlós tészta"],["750 g","póréhagyma fehér része"],["5 cl","olaj"],["40 g","vaj"],["12 cl","folyékony tejszín"],["3 db","tojássárgája"],["","só"],["","bors"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "A póréhagymát mosd meg, és vágd karikákra. A keverőlapáttal felszerelt edénybe tedd a póréhagymát, az olajat és a vajat, sózd, borsozd, majd főzd 3-as sebességen, 130 °C-on 20 percig.",
+  "Melegítsd elő a sütőt 200 °C-ra. Add hozzá a tejszínt és 2 tojássárgáját, majd főzd 3-as sebességen, 85 °C-on 5 percig.",
+  "Közben nyújtsd ki a két omlós tésztakorongot. Az elsőt tedd kivajazott, lisztezett piteformába. Oszd el rajta a póréhagymás tölteléket, majd fedd be a második tésztával. Zárd le a széleket, és kend meg a maradék tojássárgájával.",
+  "Süsd 35 percig. Forrón tálald."
+ ],program:["Keverőlapát • 3-as sebesség • 130 °C • 20 perc","Keverőlapát • 3-as sebesség • 85 °C • 5 perc","Sütő • 200 °C • 35 perc"]
+},
+"catalog-163":{
+ title:"Párizsi csiperke petrezselymesen",cat:"Köretek",servings:"4 fő",total:"20 perc",accessories:["fondxl"],
+ ingredients:[["700 g","csiperkegomba"],["25 g","vaj"],["1 ek","növényi olaj"],["1 ek","aprított fokhagyma"],["1 ek","aprított petrezselyem"],["","só"],["","bors"]],
+ stepAccessories:["fondxl"],
+ steps:[
+  "Pucold meg és szeleteld fel a gombát.",
+  "A Fond XL tartozékkal felszerelt edényt, fedő és hozzávalók nélkül, melegítsd 150 °C-on 3 percig. Ezután tedd rá a fedelet zárás nélkül, add hozzá középen az olajat és a vajat, majd olvaszd meg 150 °C-on 30 másodperc alatt.",
+  "Add hozzá a gombát, és fedő nélkül süsd 150 °C-on 12 percig. Rendszeresen keverd meg.",
+  "A főzés utolsó 2 percében add hozzá az aprított fokhagymát és petrezselymet.",
+  "A főzés végén ellenőrizd a fűszerezést, és azonnal tálald."
+ ],program:["Fond XL • 150 °C • 3 perc + 30 mp","Fond XL • 150 °C • 12 perc"]
+},
+"catalog-164":{
+ title:"Mangóchutney",cat:"Köretek",servings:"4 fő",total:"55 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["600 g","mangó"],["60 g","lilahagyma"],["2 gerezd","fokhagyma"],["100 g","mazsola"],["12 cl","fehérborecet"],["200 g","barna cukor"],["3 g","só"],["½ tk","őrölt gyömbér"],["½ tk","curry"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát, vágd durvára, majd tedd az Ultrablade késsel felszerelt edénybe. Aprítsd 11-es sebességen 10 másodpercig.",
+  "Add hozzá a többi hozzávalót, és keverd 6-os sebességen 10 másodpercig. Indítsd el a Lassú főzés P2 programot 100 °C-on 45 percre, dugó nélkül.",
+  "Öntsd a chutney-t sterilizált üvegekbe."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P2 • 100 °C • 45 perc"],note:"Hűtőben több hónapig eltartható. Sajttal, különösen kecskesajttal vagy kéksajttal nagyon jól illik össze."
+},
+"catalog-165":{
+ title:"Zöldséges kuszkusz",cat:"Köretek",servings:"4 fő",total:"55 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","kuszkusz"],["100 g","lilahagyma"],["1 gerezd","fokhagyma"],["15 cl","olívaolaj"],["1 ek","ras el hanout"],["300 g","sárgarépa"],["300 g","fehérrépa"],["50 g","szárzeller"],["60 cl","csirkealaplé"],["1 db","babérlevél"],["1 tk","sűrített paradicsom"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A kuszkuszt a csomagoláson található utasítás szerint készítsd el. Pucold meg a hagymát, vágd durvára, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig. Ha szükséges, spatulával húzd középre, és aprítsd újabb 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. A fokhagymát késsel törd meg, majd tedd a robotba az olívaolajjal, a ras el hanouttal és a babérlevéllel együtt. Indítsd el a Lassú főzés P1 programot 130 °C-on 4 percre.",
+  "Vágd darabokra a zöldségeket. A program végén add hozzá az alaplevet, a sűrített paradicsomot és a zöldségeket. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 95 °C-on 40 percre.",
+  "Forrón tálald a kuszkusszal."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp (+10 mp szükség esetén)","Lassú főzés P1 • 130 °C • 4 perc","Lassú főzés P2 • 95 °C • 40 perc"],note:"8 perccel a főzés vége előtt konzerv csicseriborsót is adhatsz hozzá."
+},
+"catalog-166":{
+ title:"Burgonya- és sárgarépapüré rusztikusan",cat:"Köretek",servings:"2 fő",total:"45 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["1 db","félbevágott hagyma"],["150 g","sovány sonkakocka"],["1 tk","olaj"],["400 g","kis darabokra vágott sárgarépa"],["200 g","lisztes burgonya, kis darabokra vágva"],["150 ml","víz"],["1 tk","zöldséglevespor"],["2 csipet","szerecsendió"],["1 csipet","bors"],["1 ek","aprított petrezselyem"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A félbevágott hagymát tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 12-es sebességen 5 másodpercig.",
+  "Add hozzá a sonkakockákat és az olajat. Főzd 3-as sebességen, 95 °C-on 4 percig.",
+  "Add hozzá a sárgarépát és a burgonyát, majd aprítsd 7-es sebességen 30 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá a vizet, a zöldséglevesport, a szerecsendiót és a borsot. Főzd 3-as sebességen, 100 °C-on 25 percig.",
+  "Add hozzá a petrezselymet, és keverd 3-as sebességen 1 percig. Tálald kolbásszal, húsgolyókkal vagy kasselerrel."
+ ],program:["Ultrablade • 12-es sebesség • 5 mp","3-as sebesség • 95 °C • 4 perc","Ultrablade • 7-es sebesség • 30 mp","Keverőlapát • 3-as sebesség • 100 °C • 25 perc","3-as sebesség • 1 perc"]
+},
+"catalog-167":{
+ title:"Tejszínes spenót",cat:"Köretek",servings:"4–6 fő",total:"20 perc",accessories:["mixer"],
+ ingredients:[["800 g","friss spenót"],["½ db","zöldségleveskocka"],["15 cl","folyékony tejszín"],["","őrölt szerecsendió"],["","só"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "A spenótot mosd meg, és vágd vékony csíkokra. Tedd a keverőlapáttal felszerelt robotba, szükség esetén nyomkodd le. Add hozzá a tejszínben feloldott leveskockát, szórd meg kevés szerecsendióval, és sózd meg. Indítsd el a Lassú főzés P2 programot 90 °C-on 15 percre.",
+  "5 perc főzés után nyisd ki a fedelet, és spatulával húzd középre a masszát. 10 perc főzés után ismételd meg.",
+  "Forrón tálald."
+ ],program:["Lassú főzés P2 • 90 °C • 15 perc"],note:"Édesköménnyel vagy káposztával is könnyen variálható."
+},
+"catalog-168":{
+ title:"Zöldséges köret – jardinière",cat:"Köretek",servings:"10 fő",total:"40 perc",accessories:["steam"],
+ ingredients:[["400 g","burgonya"],["400 g","sárgarépa"],["0,7 L","víz"],["300 g","zöldborsó"],["40 g","vaj"],["4 szál","tárkony"],["","só"]],
+ stepAccessories:["steam"],
+ steps:[
+  "Pucold meg a burgonyát és a répát, majd vágd kockákra.",
+  "Önts 0,7 liter vizet a robot edényébe. Az összes zöldséget tedd a gőzkosárba, helyezd a robotba, és indítsd el a Gőz P1 programot 35 percre.",
+  "Azonnal tálald egy darab vajjal, tárkonnyal és kevés sóval."
+ ],program:["Gőz P1 • 35 perc"],note:"Fagyasztott zöldborsót is használhatsz. A vaj szójaszószos vinaigrette-re cserélhető: 4 cl olívaolaj + 1 ek szójaszósz + 2 szál tárkony; ekkor ne adj hozzá sót."
+},
+"catalog-169":{
+ title:"Tészta és bab",cat:"Köretek",servings:"6 fő",total:"33 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["500 g","konzerv fehérbab"],["250 g","rövid tészta (mini penne, kb. 10 perc főzés)"],["1 db","hagyma"],["1 szál","szárzeller"],["1 db","sárgarépa"],["1 gerezd","fokhagyma"],["2 db","hámozott paradicsom"],["80 cl","zöldségalaplé"],["4 ek","olívaolaj"],["","só"],["","bors"],["","rozmaring"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, a fokhagymát és a répát. A répát vágd kis kockákra, a zellert kis darabokra. Tedd a négyfelé vágott hagymát és a fokhagymát az Ultrablade késsel felszerelt edénybe, majd aprítsd 12-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Kapard le az edény falát, add hozzá a répát, a zellert és 2 evőkanál olívaolajat, majd pirítsd a Lassú főzés P1 programon 7 percig.",
+  "Add hozzá a nyolc darabra vágott paradicsomot, a tésztát, néhány rozmaringlevelet és a zöldségalaplét. Sózd, borsozd, majd főzd a Lassú főzés P3 programon 95 °C-on 12 percig.",
+  "Add hozzá a lecsepegtetett fehérbabot, majd indítsd el a Lassú főzés P3 programot.",
+  "Azonnal tálald."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Lassú főzés P1 • 7 perc","Lassú főzés P3 • 95 °C • 12 perc"],note:"A forrás az utolsó főzési programnál nem ad meg külön időt."
+},
+"catalog-170":{
+ title:"Friss tészta",cat:"Köretek",servings:"6 fő",total:"1 óra 13 perc",accessories:["kneading"],
+ ingredients:[["140 g","finom búzadara (semoule fine)"],["160 g","T55 liszt"],["3 db","tojás"],["6 g","só"],["2 ek","olívaolaj (30 g)"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Minden hozzávalót tegyél a dagasztó-/aprítókéses edénybe, majd keverd 7-es sebességen 3 percig.",
+  "Lisztezett kézzel formázz egyenletes golyót. Normális, ha kissé tapad: ettől lesz a tészta puha. Tedd tálba, takard le konyharuhával, és pihentesd 1 órán át.",
+  "Lisztezett munkafelületen vagy tésztagéppel nyújtsd nagyon vékonyra, majd vágd a kívánt formára.",
+  "Főzd néhány percig egy nagy fazék forrásban lévő vízben, majd bolognai vagy négysajtos mártással tálald."
+ ],program:["Dagasztó-/aprítókés • 7-es sebesség • 3 perc"],note:"A forrás szerint a tészta kissé tapadós marad; ez adja a puhább végeredményt."
+},
+"catalog-171":{
+ title:"Cukkinis kis flanok",cat:"Köretek",servings:"4 fő",total:"51 perc",accessories:["steam","ultrablade"],
+ ingredients:[["175 g","cukkini"],["2 db","salotta"],["2 db","tojás"],["","néhány szál snidling"],["10 cl","habtejszín"],["1 csipet","só"],["0,7 L","víz"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "A cukkinit vágd kockákra, a salottát finomra. Önts 0,7 liter vizet a robotba, tedd a cukkinit és a salottát a gőzkosárba, majd indítsd el a Gőz P1 programot 100 °C-on 20 percre.",
+  "Vedd ki a gőzkosarat, és öntsd ki a főzővizet.",
+  "Az Ultrablade kést tedd az edénybe. Add hozzá a főtt cukkinit és salottát, a tojásokat, a tejszínt, a snidlinget és a sót. Aprítsd 11-es sebességen 1 percig.",
+  "Öntsd a keveréket kis ramekinformákba, és tedd őket a gőzkosárba. Önts 70 cl vizet a robot edényébe, majd indítsd el a Gőz P1 programot 100 °C-on 20 percre.",
+  "Langyosan vagy hidegen tálald."
+ ],program:["Gőz P1 • 100 °C • 20 perc + 20 perc","Ultrablade • 11-es sebesség • 1 perc"],note:"A keserűség elkerülésére válassz zsenge cukkinit, vagy teljesen pucold meg és távolítsd el a magokat."
+},
+"catalog-172":{
+ title:"Paradicsomos paprika",cat:"Köretek",servings:"4 fő",total:"37 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["1 db","félbevágott hagyma"],["40 ml","extra szűz olívaolaj"],["800 g","darabolt paprika"],["200 ml","paradicsom-coulis"],["","só"],["","néhány bazsalikomlevél"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A félbevágott hagymát tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 12-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, spatulával húzd középre a hagymát, add hozzá az olajat, majd főzd 2-es sebességen, 100 °C-on 2 percig.",
+  "Add hozzá a paprikadarabokat, majd főzd 3-as sebességen, 100 °C-on 20 percig.",
+  "Add hozzá a paradicsom-coulis-t, a sót és a bazsalikomot, majd főzd 3-as sebességen, 100 °C-on 5 percig."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","2-es sebesség • 100 °C • 2 perc","3-as sebesség • 100 °C • 20 perc + 5 perc"]
+},
+"catalog-173":{
+ title:"Polenta",cat:"Köretek",servings:"4–6 fő",total:"22 perc",accessories:["beater"],
+ ingredients:[["150 g","előfőzött polenta"],["0,7 L","víz"],["1 db","csirkehúsleves-kocka"],["30 g","vaj"],["30 g","parmezán"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt robotba tedd a 0,7 liter vizet, a polentát és az elmorzsolt csirkehúsleves-kockát. Főzd 4-es sebességen, 90 °C-on 16 percig.",
+  "A főzés végén add hozzá a vajat és a parmezánt, majd keverd 5-ös sebességen 1 percig. Azonnal tálald."
+ ],program:["Habverő • 4-es sebesség • 90 °C • 16 perc","5-ös sebesség • 1 perc"],note:"Zöldfűszereket és paradicsomsűrítményt is adhatsz hozzá. Püréként fogyasztható, vagy kihűtve kockára vágva serpenyőben megpirítható."
+},
+"catalog-174":{
+ title:"Narancsos sárgarépapüré",cat:"Köretek",servings:"4 fő",total:"38 perc",accessories:["steam","ultrablade"],
+ ingredients:[["800 g","sárgarépa"],["0,7 L","víz"],["5 cl","narancslé"],["15 g","vaj"],["","só"],["","bors"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "Pucold meg a répát, és vágd karikákra. Tedd a gőzkosárba, önts 0,7 liter vizet az edénybe, majd indítsd el a Gőz P1 programot 30 percre.",
+  "A főzés végén öntsd ki a vizet. Az Ultrablade késsel felszerelt edénybe tedd a répát, add hozzá a narancslevet és a vajat, enyhén sózd, borsozd, majd aprítsd 12-es sebességen 3 percig."
+ ],program:["Gőz P1 • 30 perc","Ultrablade • 12-es sebesség • 3 perc"],note:"A püré 5 perc alatt újramelegíthető 7-es sebességen, 85 °C-on. A narancslé és a vaj light tejszínre is cserélhető."
+},
+"catalog-175":{
+ title:"Paradicsomos quinoa",cat:"Köretek",servings:"4–6 fő",total:"30 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["150 g","quinoa"],["1 db","hagyma"],["5 cl","olívaolaj"],["10 cl","paradicsom-coulis"],["200 g","paradicsom"],["","víz"],["10 levél","bazsalikom"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, vágd durvára, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le a kést keverőlapátra. Add hozzá az olívaolajat, a quinoát, a paradicsom-coulis-t és a quinoa térfogatának kétszeresét kitevő vizet. Sózd, borsozd, majd dugóval indítsd el a Lassú főzés P3 programot 95 °C-on 20 percre.",
+  "A paradicsomot vágd kis kockákra.",
+  "A főzés végén add hozzá a paradicsomot, óvatosan keverd össze spatulával, és azonnal tálald bazsalikomlevelekkel."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P3 • 95 °C • 20 perc"],note:"A quinoa natúr is megfőzhető, majd friss zöldfűszerekkel és fűszerekkel ízesíthető. Hidegen salátaként is finom."
+},
+"catalog-176":{
+ title:"Ratatouille",cat:"Köretek",servings:"4–6 fő",total:"54 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["150 g","hagyma"],["100 g","piros paprika"],["2 gerezd","fokhagyma"],["5 cl","olívaolaj"],["250 g","cukkini"],["250 g","padlizsán"],["300 g","paradicsom"],["20 cl","zöldségalaplé"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, vágd durvára. A paprikát mosd meg, magozd ki és vágd darabokra. Tedd a hagymát és a paprikát az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 15 másodpercig.",
+  "Cseréld le a kést keverőlapátra. A fokhagymagerezdeket kés lapjával törd meg, majd tedd az edénybe az olívaolajjal együtt. Dugó nélkül indítsd el a Lassú főzés P1 programot 130 °C-on 8 percre.",
+  "A cukkinit, a padlizsánt és a paradicsomot vágd darabokra.",
+  "A program végén add hozzá az alaplevet és a zöldségeket. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 95 °C-on 30 percre.",
+  "Melegen vagy hidegen tálald."
+ ],program:["Ultrablade • 11-es sebesség • 15 mp","Lassú főzés P1 • 130 °C • 8 perc","Lassú főzés P2 • 95 °C • 30 perc"],note:"A zöldségek mennyiségét ízlés szerint változtathatod."
+},
+"catalog-177":{
+ title:"Bretzel",cat:"Kenyerek, briósok, sós sütemények",servings:"10 db",total:"1 óra 25 perc",accessories:["kneading"],
+ ingredients:[["8 g","instant szárított élesztő"],["20 cl","sovány tej"],["650 g","T65 liszt"],["10 g","cukor"],["5 g","finom só"],["60 g","puha vaj"],["50 g","szódabikarbóna"],["1 db","tojássárgája"],["","víz"],["","szezám és durva szemű só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az élesztőt, 18 cl vizet és a tejet. Melegítsd 3-as sebességen 35 °C-on 3 percig.",
+  "Add hozzá a lisztet, a cukrot, a sót és a darabokra vágott vajat. Helyezd be a dugót, és indítsd el a Tészta (Pastry) P1 programot 2 perc 30 másodpercre.",
+  "A tésztából sodorj hosszú rudakat, formázd meg a brezelet, majd tedd sütőpapíros tepsire. Huzatmentes helyen keleszd 45 percig.",
+  "Melegítsd elő a sütőt 200 °C-ra. Forralj fel 1 liter vizet a szódabikarbónával, és a tésztadarabokat egyenként 5 másodpercre mártsd a forró vízbe.",
+  "Kend meg tojássárgájával, majd süsd körülbelül 15–20 percig. Szezámmal és durva szemű sóval megszórva tálald."
+ ],program:["Dagasztó-/aprítókés • 35 °C • 3-as sebesség • 3 perc","Tészta P1 • 2 perc 30 mp","Kelesztés • 45 perc","Sütő • 200 °C • 15–20 perc"]
+},
+"catalog-178":{
+ title:"Rózsaszín pralinés briós",cat:"Kenyerek, briósok, sós sütemények",servings:"6 fő",total:"5 óra",accessories:["kneading"],
+ ingredients:[["250 g","liszt"],["6 g","só"],["2 db","tojás"],["20 g","cukor"],["1 tasak","sütőélesztő"],["3 cl","víz"],["170 g","vaj"],["100 g","rózsaszín praliné"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a vizet és az élesztőt. Futtasd 3-as sebességen, 40 °C-on 1 percig. Add hozzá a lisztet, a cukrot, a sót, a puha, darabokra vágott vajat és a tojásokat, majd indítsd el a Tészta P1 programot. A végén hagyd a tésztát az edényben 40 °C-on 40 percig.",
+  "Vedd ki a tésztát, és kézzel röviden gyúrd át. Tedd tálba, fedd le fóliával, és legalább 2 órára tedd hűtőbe.",
+  "Törd össze a rózsaszín pralinékat. Lisztezd be a munkafelületet, vedd ki a tésztát, és nyújtsd körülbelül 1 cm vastagra. Szórd meg a pralinéval, tekerd fel nagy rúddá, majd vágd 6 darabra.",
+  "A darabokat függőlegesen helyezd egymás mellé egy körülbelül 20 cm hosszú kenyérformába. Fedd le tiszta konyharuhával, és hagyd legalább 1 órán át kelni szobahőmérsékleten, huzattól védve.",
+  "Melegítsd elő a sütőt 180 °C-ra. A megkelt brióst süsd körülbelül 45 percig."
+ ],program:["Dagasztó-/aprítókés • 40 °C • 3-as sebesség • 1 perc","Tészta P1 • 40 perc kelesztés 40 °C-on","Hűtés • legalább 2 óra","Kelesztés • legalább 1 óra","Sütő • 180 °C • kb. 45 perc"],note:"A rózsaszín praliné csokoládépasztillákkal helyettesíthető."
+},
+"catalog-179":{
+ title:"Csokoládéval töltött feltekert briós",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"2 óra 16 perc",accessories:["kneading"],
+ ingredients:[["200 g","csokoládés mogyorókrém"],["13 cl","félzsíros tej"],["1 tasak","szárított sütőélesztő"],["3 db","tojássárgája"],["300 g","fehér liszt"],["40 g","cukor"],["40 g","puha vaj, kockákra vágva"],["50 g","csokoládépasztilla (opcionális)"],["","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a tejet és az élesztőt, majd melegítsd 5-ös sebességen 35 °C-on 3 percig. Add hozzá a lisztet, 2 tojássárgáját, a sót, a cukrot és a vajat, majd indítsd el a Tészta (Pastry) P2 programot.",
+  "A tésztát kézzel dolgozd át 1 percig, majd nyújtsd téglalap alakúra. Vágd 8 csíkra, kend meg csokoládés mogyorókrémmel. Minden csíkot tekerj fel, majd szorosan helyezd őket egy kenyérformába. Hagyd 1 óra 30 percig kelni huzattól védett helyen.",
+  "Melegítsd elő a sütőt 165 °C-ra. Kend meg a brióst a megmaradt tojássárgájával, szórd meg csokoládépasztillával, majd süsd 25 percig."
+ ],program:["Dagasztó-/aprítókés • 35 °C • 5-ös sebesség • 3 perc","Tészta P2","Kelesztés • 1 óra 30 perc","Sütő • 165 °C • 25 perc"],note:"A csokoládés mogyorókrém helyett mandulakrém vagy lekvár is használható."
+},
+
 };
