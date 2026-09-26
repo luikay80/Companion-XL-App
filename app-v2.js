@@ -32,7 +32,7 @@ function renderAccessoryLegend(){const el=$('#accessories');if(!el)return;el.inn
 function render(){
  $('#chips').innerHTML=cats().map(c=>'<button class="chip '+(state.cat===c?'active':'')+'" data-cat="'+esc(c)+'">'+esc(c)+'</button>').join('');document.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{state.cat=b.dataset.cat;state.topCat=null;state.home=false;render()});
  const list=filtered();if($('#count'))$('#count').textContent=list.length+' recept';$('#sub').textContent=state.home?'Válassz egy kategóriát':'Kategória receptjei';
- const section=$('#recipeSection');if(section)section.hidden=state.home;
+ const section=$('#recipeSection');if(section){section.hidden=state.home;section.classList.toggle('is-visible',!state.home);}
  $('#grid').innerHTML=state.home?'':(list.length?list.map(r=>'<article class="card" data-id="'+r.id+'"><div class="art">'+(r.image?'<img src="'+recipeImg(r)+'" alt="'+esc(r.title)+'">':'<div class="art-placeholder"><span>📖</span><small>Az eredeti recept fotója</small></div>')+'</div><div class="card-body"><button class="heart '+(state.favorites.has(r.id)?'on':'')+'" data-heart="'+r.id+'">'+(state.favorites.has(r.id)?'♥':'♡')+'</button><h4>'+esc(r.title)+'</h4><div class="meta"><span>👥 '+esc(r.servings||'—')+'</span><span>⏱ '+esc(r.total||'—')+'</span></div><div class="mini-acc">'+r.accessories.map(id=>accHtml(id)).join('')+'</div></div></article>').join(''):'<div class="empty" style="grid-column:1/-1">Nincs találat.</div>');
  document.querySelectorAll('.card').forEach(c=>c.onclick=()=>openDetail(c.dataset.id));document.querySelectorAll('[data-heart]').forEach(b=>b.onclick=e=>{e.stopPropagation();toggleFav(b.dataset.heart)});renderAccessoryLegend();
 }
