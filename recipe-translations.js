@@ -2919,4 +2919,241 @@ window.CompanionRecipeTranslations={
  ],program:["Tészta P3","Sütő • 180 °C • kb. 35 perc"],note:"Csokoládépasztillát is adhatsz hozzá, a mandulapürét pedig gesztenyemézzel is helyettesítheted."
 },
 
+
+"catalog-230":{
+ title:"Körtés-mogyorós sütemény",cat:"Desszertek / Sütemények",servings:"10 fő",total:"1 óra 04 perc",accessories:["kneading"],
+ ingredients:[["250 g","liszt"],["1 tasak","sütőpor (11 g)"],["175 g","puha, félsós vaj"],["3 db","tojás"],["100 g","barnacukor"],["120 g","mogyorópor"],["6 fél db","körte szirupban"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A dagasztó-/aprítókéses edénybe tedd a lisztet, a sütőport, a darabokra vágott vajat, a tojásokat, a cukrot és a mogyoróport. Indítsd el a Tészta (Pastry) P3 programot.",
+  "Bélelj ki egy kenyérformát sütőpapírral.",
+  "A körtéket vágd kockákra. A program végén add a robothoz, majd keverd 6-os sebességen 15 másodpercig.",
+  "Öntsd a tésztát a formába, és süsd 40–45 percig.",
+  "Hagyd kihűlni, borítsd ki a formából, majd szeletelve tálald."
+ ],program:["Tészta P3","6-os sebesség • 15 mp","Sütő • 180 °C • 40–45 perc"],note:"Csokoládépasztillával is elkészíthető. Készítheted alma-dió vagy sárgabarack-mandula párosítással is."
+},
+"catalog-231":{
+ title:"Répatorta",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"1 óra 19 perc",accessories:["ultrablade","kneading"],
+ ingredients:[["300 g","sárgarépa"],["3 db","tojás"],["190 g","barnacukor"],["240 g","liszt"],["½ tk","fahéj"],["½ tk","szerecsendió"],["1 tk","vaníliakivonat"],["1 csomag","sütőpor (11 g)"],["25 cl","napraforgóolaj"]],
+ stepAccessories:["ultrablade","kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A sárgarépát pucold meg, vágd kockákra, tedd az Ultrablade aprítókéses edénybe, és aprítsd 12-es sebességen 20 másodpercig. Tedd félre egy salátástálba.",
+  "A dagasztó-/aprítókéses edénybe tedd az összes többi hozzávalót, majd indítsd el a Tészta (Pastry) P3 programot 3 percre.",
+  "A program végén add hozzá a répát, és keverd 6-os sebességen 20 másodpercig. Bélelj ki egy kenyérformát sütőpapírral, öntsd bele a tésztát, és süsd körülbelül 1 órán át. A sütés ellenőrzéséhez szúrj bele kést: a késnek tisztán kell kijönnie."
+ ],program:["Ultrablade • 12-es sebesség • 20 mp","Tészta P3 • 3 perc","6-os sebesség • 20 mp","Sütő • 180 °C • kb. 1 óra"],note:"A répához ízlés szerint 50 g mazsolát vagy 50 g durvára tört diót is adhatsz. Erősebb fahéjas ízhez duplázd a fahéj mennyiségét."
+},
+"catalog-232":{
+ title:"Epres charlotte",cat:"Desszertek / Sütemények",servings:"10 fő",total:"27 perc",accessories:["kneading"],
+ ingredients:[["400 g","eper"],["8 g","zselatin"],["18 db","babapiskóta"],["15 cl","eper-szirup"],["200 g","40%-os fromage blanc"],["100 g","mascarpone"],["60 g","cukor"],["1 db","citrom leve"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A zselatint áztasd 20 percre hideg vízbe. Nyomkodd ki, és add a citromléhez. Mikrohullámú sütőben melegítsd 30 másodpercig, hogy feloldódjon. A babapiskótákat mártsd eper-szirupba, és bélelj ki velük egy charlotte-formát.",
+  "Az epret csumázd ki és vágd négyfelé. 100 grammot tegyél félre egy tálban.",
+  "A dagasztó-/aprítókéses edénybe tedd a fromage blanc-t, a mascarponét, a 300 g epret, a cukrot és a citromlevet. Keverd 5-ös sebességen 1 percig. Szükség esetén spatulával húzd középre a masszát, és keverd további 30 másodpercig.",
+  "Öntsd a krémet a formába, majd tedd legalább 4 órára hűtőbe.",
+  "Tálaláskor friss eperrel díszítsd a szeleteket."
+ ],program:["Dagasztó-/aprítókés • 5-ös sebesség • 1 perc (+30 mp szükség esetén)","Mikrohullámú sütő • 30 mp","Hűtés • legalább 4 óra"]
+},
+"catalog-233":{
+ title:"Cheesecake",cat:"Desszertek / Sütemények",servings:"10 fő",total:"45 perc",accessories:["kneading"],
+ ingredients:[["125 g","vaj"],["160 g","Bastogne jellegű keksz"],["600 g","friss sajt (Philadelphia®, St Môret)"],["130 g","cukor"],["2 db","tojásfehérje"],["5 cl","citromlé"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, és olvaszd 5-ös sebességen, 80 °C-on 3 percig. Add hozzá a darabokra tört kekszet, és aprítsd 11-es sebességen 30 másodpercig.",
+  "A keverékkel béleld ki egy 23 cm-es forma alját. Egy kanál hátuljával nyomkodd le, majd tedd hűtőbe.",
+  "Öblítsd ki a robotot, majd tedd vissza a dagasztó-/aprítókést. Add hozzá a friss sajtot, a cukrot, az enyhén felvert tojásfehérjét és a citromlevet. Aprítsd 12-es sebességen 40 másodperc–1 percig. Öntsd a formába.",
+  "Süsd 30–35 percig, amíg a krém megszilárdul. Hidegen tálald."
+ ],program:["Dagasztó-/aprítókés • 5-ös sebesség • 80 °C • 3 perc","11-es sebesség • 30 mp","12-es sebesség • 40 mp–1 perc","Sütő • 180 °C • 30–35 perc"],note:"A citrom vaníliával is helyettesíthető, és friss málnával is tálalható."
+},
+"catalog-234":{
+ title:"Rózsás-málnás cheesecake",cat:"Desszertek / Sütemények",servings:"2 fő",total:"40 perc",accessories:["kneading"],
+ ingredients:[["120 g","Philadelphia jellegű friss sajt"],["125 g","fromage blanc"],["100 g","cukor"],["50 g","Speculoos keksz"],["15 g","vaj"],["1 db","tojás"],["1 ek","rózsavíz"],["100 g","friss málna"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a vajat. Futtasd 4-es sebességen, 80 °C-on 3 percig. Add hozzá a darabokra tört Speculoost, és aprítsd 12-es sebességen 20 másodpercig. Oszd el a keveréket 2 egyedi forma alján, és alaposan nyomkodd le. Tedd hűtőbe, majd mosd el és szárítsd meg az edényt.",
+  "Melegítsd elő a sütőt 180 °C-ra. A dagasztó-/aprítókéses edénybe tedd a friss sajtot, a fromage blanc-t, a porcukrot, a rózsavizet és a tojást. Indítsd el a robotot 10-es sebességen 1 percre.",
+  "Öntsd a keveréket a kekszalapokra, és süsd körülbelül 20 percig.",
+  "Hagyd 1 órán át hűlni, majd tedd a cheesecakes-eket hűtőbe.",
+  "Tálaláskor borítsd ki a formából, díszítsd friss málnával és egy rózsaszirommal."
+ ],program:["Dagasztó-/aprítókés • 4-es sebesség • 80 °C • 3 perc","12-es sebesség • 20 mp","Dagasztó-/aprítókés • 10-es sebesség • 1 perc","Sütő • 180 °C • kb. 20 perc","Hűtés • 1 óra"],note:"Málnacoulis-val is tálalható."
+},
+"catalog-235":{
+ title:"Sárgabarackos-rozmaringos clafoutis",cat:"Desszertek / Sütemények",servings:"6 fő",total:"48 perc",accessories:["mixer","beater"],
+ ingredients:[["4 db","tojás"],["20 g","vaj"],["150 g","kristálycukor"],["2 tasak","vaníliás cukor"],["130 g","liszt"],["40 cl","tej"],["1 diónyi","vaj a formához"],["1 tk","liszt a formához"],["8 kis db","sárgabarack"],["1 ág","rozmaring"],["","porcukor"]],
+ stepAccessories:["mixer","beater"],
+ steps:[
+  "Mosd meg és vágd négyfelé a sárgabarackokat. A keverőlapáttal felszerelt edénybe tedd a vajat, és indítsd el a Lassú főzés P1 programot. 30 másodperc után add hozzá a sárgabarackokat, a rozmaringágat és 1 tasak vaníliás cukrot.",
+  "Tedd a sárgabarackokat vajazott és lisztezett gratinformába, majd mosd el és szárítsd meg az edényt.",
+  "Melegítsd elő a sütőt 210 °C-ra. A habverővel felszerelt edénybe tedd a tojásokat és a cukrot, majd dugó nélkül keverd 6-os sebességen 3 percig. 1 perc után fokozatosan add hozzá a lisztet, majd a tejet.",
+  "Öntsd a tésztát a sárgabarackokra, szórd meg a második tasak vaníliás cukorral, és süsd 25 percig.",
+  "Hagyd kihűlni, majd tálaláskor szórd meg porcukorral."
+ ],program:["Lassú főzés P1 • a forrás szerint vajjal és 30 mp után sárgabarackkal","Habverő • 6-os sebesség • 3 perc","Sütő • 210 °C • 25 perc"],note:"Minden adaghoz egy gombóc vaníliafagylalttal is tálalhatod. Hagyományos változathoz sárgabarack helyett cseresznyét használhatsz."
+},
+"catalog-236":{
+ title:"Rebarbarás clafoutis",cat:"Desszertek / Sütemények",servings:"8 fő",total:"1 óra 44 perc",accessories:["ultrablade","steam"],
+ ingredients:[["600 g","rebarbara"],["0,7 L","víz"],["300 g","cukor"],["4 db","tojás"],["10 cl","tej"],["15 cl","folyékony tejszín"],["1 ek","vaníliakivonat"],["90 g","liszt"]],
+ stepAccessories:["ultrablade","steam"],
+ steps:[
+  "A rebarbarát pucold meg, és vágd 2 cm-es darabokra. Tedd tálba, szórd meg 150 g cukorral, majd hagyd 40 percig állni.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a tojásokat, a tejet, a tejszínt, a maradék 150 g cukrot és a vaníliát. Aprítsd 10-es sebességen 2 percig. 30 másodperc után add hozzá a lisztet a fedél tetején keresztül.",
+  "Öntsd a masszát kivajazott és kilisztezett tortaformába, majd hagyd pihenni. Melegítsd elő a sütőt 180 °C-ra.",
+  "Csepegtesd le a rebarbarát, és tedd a gőzkosárba. Önts vizet az edénybe 0,7 literes szintig, tedd be a kosarat, és indítsd el a Gőz (Steam) P1 programot 12 percre, 100 °C-on.",
+  "A megpárolt rebarbarát oszd el a tésztán, majd süsd 35 percig. Hagyd kihűlni, mielőtt kiborítod."
+ ],program:["Ultrablade • 10-es sebesség • 2 perc","Gőz P1 • 100 °C • 12 perc","Sütő • 180 °C • 35 perc"]
+},
+"catalog-237":{
+ title:"Vaníliás epres szívek",cat:"Desszertek / Sütemények",servings:"4 fő",total:"1 óra 37 perc",accessories:["kneading","beater"],
+ ingredients:[["50 g","vaj"],["12 db","Palets Bretons keksz"],["250 g","eper"],["4 db","tojássárgája"],["50 g","kristálycukor"],["40 g","liszt + Maizena®"],["50 cl","félzsíros tej"],["1 db","vaníliarúd"]],
+ stepAccessories:["kneading","beater"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, és olvaszd 3-as sebességen, 50 °C-on 5 percig. Add hozzá a Palets Bretons kekszet, majd dugóval aprítsd 12-es sebességen 1 percig. Gyűjtsd középre a masszát.",
+  "Szív alakú mini tortaformákba vagy kiszúróformákba tegyél a kekszes masszából, és egyenletes, vastag rétegben nyomkodd le. Legalább 1 órára tedd hűtőbe. Mosd el és szárítsd meg az edényt.",
+  "A habverővel felszerelt edénybe tedd a tojássárgáját, a cukrot, a lisztet és a Maizenát. A félbevágott vaníliarúdból kapard ki a magokat. Keverd 6-os sebességen 1 percig, miközben fokozatosan hozzáadod a tejet.",
+  "Tedd rá a dugót, és indítsd el a Desszert programot 4-es sebességen, 90 °C-on 10 percre. A program végén keverd 9-es sebességen 10 másodpercig. Tedd a krémet tálba, és hagyd kihűlni.",
+  "Az epret mosd meg, csumázd ki, és vágd szeletekre.",
+  "Minden kekszalapra tegyél vastag réteg cukrászkrémet, majd fedd be eperszeletekkel."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 50 °C • 5 perc","Ultrablade • 12-es sebesség • 1 perc","Habverő • 6-os sebesség • 1 perc","Desszert • 4-es sebesség • 90 °C • 10 perc","9-es sebesség • 10 mp"],note:"Az eper szezonális gyümölcsökkel, például cseresznyével vagy málnával is helyettesíthető. Bluetooth-kapcsolatú Companion esetén a DESSERT program a megadott kézi beállításokkal váltható ki."
+},
+"catalog-238":{
+ title:"Almás crumble",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"52 perc",accessories:["kneading"],
+ ingredients:[["150 g","liszt"],["125 g","mandulapor"],["150 g","cukor"],["200 g","félsós vaj"],["850 g","alma"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a lisztet, a mandulaport, a cukrot és a vajat, majd keverd 8-as sebességen körülbelül 1 perc 30 másodpercig, amíg morzsás darabok képződnek. A tésztának nem kell feltétlenül gombóccá összeállnia.",
+  "Az almákat pucold meg, vágd kockákra, majd tedd sütőformába. Morzsold rá a tésztát.",
+  "Süsd 40 percig. Langyosan vagy hidegen fogyaszd."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • kb. 1 perc 30 mp","Sütő • 180 °C • 40 perc"],note:"Az alma körtével is helyettesíthető, vagy piros gyümölcsökkel keverhető."
+},
+"catalog-239":{
+ title:"Körtés-csokoládés desszert",cat:"Desszertek / Sütemények",servings:"6–8 fő",total:"34 perc",accessories:["ultrablade","kneading","beater"],
+ ingredients:[["200 g","Speculoos keksz"],["40 g","olvasztott vaj"],["3 lap","zselatin (6 g)"],["350 g","szirupban eltett körte, lecsepegtetve"],["20 cl","30%-os habtejszín"],["60 g","cukor"],["120 g","mascarpone"],["100 g","étcsokoládé"],["8 cl","tej"]],
+ stepAccessories:["ultrablade","beater","kneading"],
+ steps:[
+  "Az Ultrablade késsel felszerelt edénybe tedd a Speculoos kekszet, és aprítsd 10-es sebességen 30 másodpercig. Add hozzá az olvasztott vajat, spatulával keverd össze, majd nyomkodd a keveréket a forma aljára.",
+  "A zselatinlapokat áztasd hideg vízbe.",
+  "A körtét 2 evőkanál sziruppal együtt tedd az edénybe, és aprítsd 10-es sebességen 1 percig. Tedd félre egy tálba.",
+  "Egy lábasban melegíts fel 2 evőkanál körteszirupot, majd add hozzá a kinyomkodott zselatinlapokat.",
+  "Mosd el a robotot, és tedd be a habverőt. Öntsd bele a tejszínt, majd verd 7-es sebességen 3 percig. Add hozzá a cukrot, a pürésített körtét, a mascarponét és a zselatint. Keverd 4-es sebességen 1 perc 30 másodpercig. Öntsd a formába, és tedd hűtőbe.",
+  "Törd a csokoládét darabokra, és a dagasztó-/aprítókéses edényben a tejjel együtt olvaszd 5-ös sebességen, 70 °C-on 8 percig. Öntsd a megdermedő körtés krémre, majd legalább 3 órára tedd hűtőbe."
+ ],program:["Ultrablade • 10-es sebesség • 30 mp","Ultrablade • 10-es sebesség • 1 perc","Habverő • 7-es sebesség • 3 perc","4-es sebesség • 1 perc 30 mp","Dagasztó-/aprítókés • 5-ös sebesség • 70 °C • 8 perc","Hűtés • legalább 3 óra"]
+},
+"catalog-240":{
+ title:"Far breton",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"1 óra 12 perc",accessories:["kneading"],
+ ingredients:[["300 g","kimagozott aszalt szilva"],["20 g","olvasztott félsós vaj"],["75 cl","félzsíros tej"],["5 db","tojás"],["140 g","cukor"],["1 tasak","vaníliás cukor"],["220 g","liszt"],["5 cl","Cointreau"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. Vajazz ki egy gratinformát, majd tedd bele az aszalt szilvát.",
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, és olvaszd 5-ös sebességen, 80 °C-on 3 percig.",
+  "Add hozzá a tejet, a tojásokat, a cukrot és a vaníliás cukrot, majd keverd 8-as sebességen 4 percig. 10 másodperc után fokozatosan add hozzá a lisztet; 1 perc 30 másodperc után öntsd hozzá a Cointreau-t.",
+  "Öntsd a masszát az aszalt szilvára, majd süsd körülbelül 1 órán át.",
+  "Hagyd kihűlni, majd tálald."
+ ],program:["Dagasztó-/aprítókés • 5-ös sebesség • 80 °C • 3 perc","8-as sebesség • 4 perc","Sütő • 180 °C • kb. 1 óra"]
+},
+"catalog-241":{
+ title:"Francia vaníliás pite",cat:"Desszertek / Sütemények",servings:"10 fő",total:"1 óra 06 perc",accessories:["beater"],
+ ingredients:[["1 adag","linzer jellegű omlós tészta"],["5 db","tojás"],["180 g","cukor"],["100 g","Maizena®"],["2 tasak","vaníliás cukor"],["1 L","sovány tej"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A habverővel felszerelt edénybe tedd a tojásokat, a cukrot, a Maizenát és a vaníliás cukrot. Keverd 6-os sebességen 1 percig. 30 másodperc után add hozzá fokozatosan a tejet.",
+  "Helyezd az omlós tésztát magas falú formába, majd öntsd rá a krémet.",
+  "Indítsd el a Desszert programot 5-ös sebességen, 90 °C-on 15 percre, majd öntsd a megsűrűsödött krémet a tésztára.",
+  "Süsd 30–35 percig."
+ ],program:["Habverő • 6-os sebesség • 1 perc","Desszert • 5-ös sebesség • 90 °C • 15 perc","Sütő • 180 °C • 30–35 perc"]
+},
+"catalog-242":{
+ title:"Csokoládéfidential fondant",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"54 perc",accessories:["kneading"],
+ ingredients:[["200 g","étcsokoládé"],["100 g","puha, félsós vaj"],["3 db","tojás"],["120 g","nádcukor"],["150 g","mandulapor"],["6 g","sütőpor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A dagasztó-/aprítókéses edénybe tedd a kockákra vágott vajat és a darabokra tört csokoládét, majd olvaszd 3-as sebességen, 45 °C-on 10 percig.",
+  "Kapard le az edény falát, add hozzá a cukrot, a liszt helyett itt a mandulaport, a tojásokat és a sütőport, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "Öntsd a masszát sütőpapírral bélelt négyzetes formába, majd süsd körülbelül 20–30 percig.",
+  "Hagyd kihűlni, majd vedd ki a formából."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 45 °C • 10 perc","Tészta P3","Sütő • 180 °C • 20–30 perc"]
+},
+"catalog-243":{
+ title:"Diós fondant",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"54 perc",accessories:["kneading"],
+ ingredients:[["125 g","puha vaj"],["250 g","dió"],["300 g","barnacukor"],["80 g","liszt"],["5 db","tojás"],["2 ek","sötét rum"],["1 csomag","sütőpor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A diót a dagasztó-/aprítókéses edényben aprítsd 12-es sebességen 45 másodpercig.",
+  "Add hozzá a többi hozzávalót, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "Bélelj ki egy négyzetes formát sütőpapírral, öntsd bele a tésztát, és süsd körülbelül 40 percig."
+ ],program:["Dagasztó-/aprítókés • 12-es sebesség • 45 mp","Tészta P3","Sütő • 180 °C • kb. 40 perc"]
+},
+"catalog-244":{
+ title:"Almás-mogyorós galette des rois",cat:"Desszertek / Sütemények",servings:"6–8 fő",total:"45 perc",accessories:["kneading"],
+ ingredients:[["2 db","leveles tésztakorong"],["160 g","alma"],["140 g","vaj"],["125 g","mogyorópor"],["125 g","porcukor"],["2 db","tojás"],["1 db","tojássárgája"],["15 g","vaj az almához"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "Az almát pucold meg, vágd kockákra, majd 15 g vajon pirítsd körülbelül 5 percig.",
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, a mogyoróport, a porcukrot és a felvert tojásokat. Keverd 9-es sebességen 30 másodpercig, majd ha szükséges, kapard le a falat, és keverd újabb 30 másodpercig.",
+  "Az egyik leveles tésztakorongot tedd sütőpapírra, majd kend rá a mogyorókrémet úgy, hogy a széleken 2 cm szabadon maradjon. Oszd el rajta az almát, és ha használsz, rejtsd el benne a hagyományos figurát.",
+  "Fedd be a második tésztakoronggal, a széleket nyomkodd össze, majd kend meg tojássárgájával.",
+  "Süsd körülbelül 35 percig."
+ ],program:["Dagasztó-/aprítókés • 9-es sebesség • 30 mp + 30 mp","Sütő • 180 °C • kb. 35 perc"],note:"A forrásban szereplő figurát (fève) sütésálló, erre alkalmas darabbal használd."
+},
+"catalog-245":{
+ title:"Joghurtos sütemény aszalt gyümölcsökkel",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"44 perc",accessories:["kneading"],
+ ingredients:[["125 g","natúr joghurt"],["2 joghurtos pohár","liszt"],["2 joghurtos pohár","cukor"],["½ joghurtos pohár","olaj"],["3 db","tojás"],["1 joghurtos pohár","aszalt gyümölcs"],["1 csomag","sütőpor (11 g)"],["1 tk","vanília"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az összes hozzávalót, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "Ha azt szeretnéd, hogy az aszalt gyümölcs egyben maradjon, a program végén add hozzá, és keverd 6-os sebességen 30 másodpercig.",
+  "Öntsd a masszát formába, és süsd 30 percig 180 °C-on."
+ ],program:["Tészta P3","6-os sebesség • 30 mp","Sütő • 180 °C • 30 perc"],note:"Az aszalt gyümölcs mennyiségét a joghurtos pohárral mérd a forrás szerint."
+},
+"catalog-246":{
+ title:"Almás sütemény",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"50 perc",accessories:["kneading"],
+ ingredients:[["4 db","Golden alma"],["125 g","vaj"],["150 g","barnacukor"],["3 db","tojás"],["140 g","liszt"],["1 csomag","sütőpor"],["","fahéj"],["","rum"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A vajat kockázd fel, és a dagasztó-/aprítókéses edényben olvaszd 4-es sebességen, 70 °C-on 5 percig.",
+  "A vaj egy részével kend ki a formát.",
+  "Az almákat pucold meg, szeleteld fel, és helyezd a forma aljára.",
+  "A maradék hozzávalókat a megolvasztott vajjal együtt tedd a robotba, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "Öntsd a masszát az almákra, és süsd 45 percig 180 °C-on."
+ ],program:["Dagasztó-/aprítókés • 4-es sebesség • 70 °C • 5 perc","Tészta P3","Sütő • 180 °C • 45 perc"]
+},
+"catalog-247":{
+ title:"Búzadarából készült sütemény",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"57 perc",accessories:["beater","kneading"],
+ ingredients:[["75 cl","félzsíros tej"],["150 g","finom búzadara"],["125 g","cukor"],["1 csipet","só"],["3 db","tojás"],["15 cl","sűrű crème fraîche"],["125 g","mazsola"]],
+ stepAccessories:["beater","kneading"],
+ steps:[
+  "A habverővel felszerelt edénybe tedd a tejet, a búzadarát, a cukrot és a sót, majd indítsd el a Desszert programot 4-es sebességen, 90 °C-on 10 percre. Öntsd ki a masszát, és hagyd kihűlni.",
+  "A dagasztó-/aprítókéses edénybe tedd a tojásokat és a crème fraîche-t, majd keverd 6-os sebességen 30–40 másodpercig.",
+  "Keverd össze a tojásos masszát a kihűlt búzadarával és a mazsolával.",
+  "Öntsd a masszát formába, és süsd 30–35 percig."
+ ],program:["Desszert • 4-es sebesség • 90 °C • 10 perc","Dagasztó-/aprítókés • 6-os sebesség • 30–40 mp","Sütő • 180 °C • 30–35 perc"]
+},
+"catalog-248":{
+ title:"Márványos sütemény",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"1 óra 02 perc",accessories:["kneading"],
+ ingredients:[["175 g","liszt"],["1 csomag","sütőpor"],["200 g","cukor"],["3 db","tojás"],["175 g","félsós vaj"],["25 g","cukrozatlan kakaópor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az összes hozzávalót a kakaó kivételével, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "A massza felét öntsd formába. A maradékhoz add hozzá a kakaóport, és keverd 6-os sebességen 40 másodpercig.",
+  "Öntsd a kakaós masszát a világos masszára, majd süsd 55 percig 180 °C-on."
+ ],program:["Tészta P3","6-os sebesség • 40 mp","Sütő • 180 °C • 55 perc"]
+},
+"catalog-249":{
+ title:"Meggyes lekváros piskótatekercs",cat:"Desszertek / Sütemények",servings:"6–8 fő",total:"35 perc",accessories:["beater"],
+ ingredients:[["6 db","tojás"],["120 g","cukor"],["80 g","liszt"],["1 csipet","só"],["1 üveg","meggylekvár"],["","meggy"],["","porcukor"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 190 °C-ra.",
+  "A habverővel felszerelt edénybe tedd a tojássárgáját és a cukrot, majd keverd 7-es sebességen 3 percig.",
+  "Mosd el és szárítsd meg az edényt. A habverővel verd fel a tojásfehérjéket a sóval 7-es sebességen 8 percig.",
+  "A felvert habba óvatosan forgasd bele a lisztet és a tojássárgájás masszát.",
+  "Egy sütőpapíros tepsin formázz téglalapot a tésztából, és süsd 8 percig.",
+  "Tiszta, nedves konyharuhára borítsd, majd melegen tekerd fel. Hagyd kihűlni.",
+  "Óvatosan tekerd ki, kend meg meggylekvárral, szórd meg meggyel, majd szorosan tekerd fel. Tálaláskor szórd meg porcukorral."
+ ],program:["Habverő • 7-es sebesség • 3 perc + 8 perc","Habverő • 7-es sebesség • 8 perc","Sütő • 190 °C • 8 perc"]
+},
+
 };
