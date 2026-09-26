@@ -30,19 +30,5 @@ document.querySelector('#navRecipes')?.addEventListener('click',()=>location.hre
 document.querySelector('#navCats')?.addEventListener('click',()=>location.href='category.html');
 document.querySelector('#navFav')?.addEventListener('click',()=>location.href='category.html?cat=Kedvencek');
 
-const liveInput=document.querySelector('#q'),liveBox=document.querySelector('#liveResults');
-const liveRecipes=window.CompanionRecipes||recipes;
-const searchText=r=>(r.title+' '+(r.ingredients||[]).map(x=>Array.isArray(x)?x.join(' '):String(x)).join(' ')).toLowerCase();
-const liveRender=()=>{
- const q=(liveInput?.value||'').trim().toLowerCase();
- if(!liveBox)return;
- if(!q){liveBox.classList.remove('show');liveBox.innerHTML='';return;}
- const hits=liveRecipes.filter(r=>searchText(r).includes(q)).slice(0,8);
- liveBox.innerHTML=hits.length?hits.map(r=>'<button class="live-item" type="button" data-id="'+esc(r.id)+'"><span class="live-thumb">'+(r.image?'<img src="assets/recipes/'+esc(r.image)+'" alt="">':'<span>📖</span>')+'</span><span class="live-copy"><span class="live-title">'+esc(r.title)+'</span><span class="live-meta">'+esc(r.cat)+(r.ingredients?.length?' · '+r.ingredients.slice(0,2).map(x=>Array.isArray(x)?x[1]:x).join(', '):'')+'</span></span></button>').join(''):'<div class="live-empty">Nincs találat.</div>';
- liveBox.classList.add('show');
- liveBox.querySelectorAll('.live-item').forEach(b=>b.onclick=()=>location.href='recipe.html?id='+encodeURIComponent(b.dataset.id));
-};
-liveInput?.addEventListener('input',liveRender);
-liveInput?.addEventListener('focus',()=>{if(liveInput.value.trim())liveRender()});
-document.addEventListener('click',e=>{if(!e.target.closest('.search-wrap'))liveBox?.classList.remove('show')});
+
 })();
