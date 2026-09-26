@@ -88,7 +88,7 @@ window.CompanionRecipeTranslations={
  ],program:["3-as sebesség • 90 °C • 5 perc","5-ös sebesség • 50 °C • 3 perc","6-os sebesség • 30 mp"]
 },
 "catalog-10":{
- title:"Amerikai blini",cat:"Aperitifek",servings:"4–6 fő",total:"27 perc",accessories:["ultrablade","beater"],
+ title:"Blinik",cat:"Aperitifek",servings:"4–6 fő",total:"27 perc",accessories:["ultrablade","beater"],
  ingredients:[["2 db","tojás"],["30 cl","félzsíros tej"],["5 g","cukor"],["175 g","liszt"],["5 g","sütőpor"],["","só"],["","olaj"]],
  stepAccessories:["ultrablade","beater"],
  steps:[
@@ -143,8 +143,8 @@ window.CompanionRecipeTranslations={
  ],program:["Habverő • 7-es sebesség • 1 perc","4-es sebesség • 90 °C • 8 perc","Ultrablade • 9-es sebesség • 30 mp"]
 },
 "catalog-15":{
- title:"Empanada zöldséges-tonhalas töltelékkel",cat:"Aperitifek",servings:"10 fő",total:"1 óra 11 perc",accessories:["ultrablade","mixer"],
- ingredients:[["3 db","omós tészta"],["120 g","cukkini"],["150 g","paprika"],["60 g","hagyma"],["2 gerezd","fokhagyma"],["5 cl","olívaolaj"],["20 g","sűrített paradicsom"],["15 cl","zöldségalaplé"],["2 késhegynyi","őrölt római kömény"],["250 g","lecsepegtetett konzerv tonhal"],["","só"],["","bors"],["1 db","tojássárgája"]],
+ title:"Zöldséges-tonhalas empanada",cat:"Aperitifek",servings:"10 fő",total:"1 óra 11 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["3 db","omlós tészta"],["120 g","cukkini"],["150 g","paprika"],["60 g","hagyma"],["2 gerezd","fokhagyma"],["5 cl","olívaolaj"],["20 g","sűrített paradicsom"],["15 cl","zöldségalaplé"],["2 késhegynyi","őrölt római kömény"],["250 g","lecsepegtetett konzerv tonhal"],["","só"],["","bors"],["1 db","tojássárgája"]],
  stepAccessories:["ultrablade","mixer","mixer","ultrablade"],
  steps:[
   "Melegítsd elő a sütőt 180 °C-ra. A cukkinit és a paprikát kockázd fel. A hagymát és a fokhagymát pucold meg, nagyobb darabokra vágd, majd tedd az Ultrablade aprítókéses edénybe. Aprítsd 11-es sebességen 10 másodpercig, majd add hozzá az olívaolajat és a római köményt.",
