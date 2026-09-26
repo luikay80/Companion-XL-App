@@ -17674,4 +17674,179 @@ window.CompanionRecipeTranslations={
       "Lassú főzés P2 • 95 °C • 25 perc"
     ]
   }
+
+"catalog-16":{
+ title:"Cukkinitekercsek friss kecskesajttal és szegfűszegvirággal",cat:"Aperitifek",servings:"4 fő",total:"30 perc",accessories:["steam","ultrablade"],
+ ingredients:[["2 nagy db","cukkini"],["200 g","friss kecskesajt"],["3 szál","turbolya"],["10 szál","snidling"],["10 szál","petrezselyem"],["2 db","újhagyma"],["1 csipet","Espelette-i csilipaprika"],["1 csipet","őrölt római kömény"],["4 ek","olívaolaj"],["2 ek","citromlé"],["12 db","ehető szegfűszegvirág"],["","só"],["","bors"],["","víz"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "Mosd meg a cukkiniket.",
+  "Mandolinnal vagy éles késsel vágj nagyon vékony, körülbelül 1 mm-es cukkiniszeleteket, a közepét eltávolítva.",
+  "Önts 0,7 liter vizet a gép edényébe, majd a cukkiniszeleteket tedd a sütőpapírral kibélelt gőzkosárba.",
+  "Helyezd a gőzkosarat az edénybe, és indítsd el a Gőz (Steam) P1 programot 10 percre.",
+  "A program végén óvatosan tedd a szeleteket papírtörlőre, és hagyd kihűlni.",
+  "Pucold meg az újhagymát, majd vágd ketté.",
+  "Az Ultrablade aprítókéses edénybe tedd az újhagymát és a zöldfűszereket, majd aprítsd 8-as sebességen 30 másodpercig. Add hozzá a friss kecskesajtot, az Espelette-i paprikát, a római köményt és 4 virágot. Sózd, borsozd, majd aprítsd 8-as sebességen 20 másodpercig.",
+  "Minden cukkiniszalag egyik végére tegyél egy jó teáskanálnyi kecskesajtos tölteléket.",
+  "Tekerd fel a cukkinit.",
+  "Ismételd meg a műveletet a többi hozzávalóval.",
+  "Egy tálban keverd össze a citromlevet az olívaolajjal.",
+  "Sózd és borsozd.",
+  "Tányéronként helyezz el néhány tekercset, díszítsd szegfűszegvirággal, majd locsold meg a citromos vinaigrette-tel."
+ ],program:["Gőz P1 • 10 perc","Ultrablade • 8-as sebesség • 30 + 20 mp"]
+},
+"catalog-17":{
+ title:"Húsos szamósza",cat:"Aperitifek",servings:"4 fő",total:"43 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["250 g","marhahús"],["250 g","sárgarépa"],["1 gerezd","fokhagyma"],["1 db","hagyma"],["5 cl","olívaolaj"],["1 tk","őrölt csilipaprika"],["1 tk","római kömény"],["1 tk","őrölt koriander"],["10 cl","alaplé"],["6 db","brick tésztalap"],["","só"],["","bors"],["2 db","tojásfehérje"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A húst kockázd fel, tedd az Ultrablade aprítókéses edénybe, és aprítsd 12-es sebességen 10 másodpercig. Tedd félre.",
+  "Pucold meg a répát, a fokhagymát és a hagymát, majd vágd kockákra. Tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 30 másodpercig. Cseréld le az Ultrablade kést keverőlapátra, add hozzá az olajat és a fűszereket, majd dugó nélkül indítsd el a Lassú főzés (Slow cook) P1 programot 130 °C-on 5 percre. Ezután add hozzá a húst és az alaplevet, sózd, borsozd, majd indítsd újra a Lassú főzés P1 programot 130 °C-on 12 percre.",
+  "Minden brick tésztalapot vágj 4 csíkra. Tegyél egy kevés tölteléket az egyik végükre. Hajtsd háromszög alakúra, majd hajtogasd végig a csíkon. Kevés tojásfehérjével ragaszd le. Ismételd meg a többi darabbal is.",
+  "Süsd őket 5 percig magas lángon kevés olajon egy serpenyőben, vagy 150 °C-os sütőben 15 percig. Tálald."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Ultrablade • 11-es sebesség • 30 mp","Lassú főzés P1 • 130 °C • 5 + 12 perc","Sütő • 150 °C • 15 perc vagy serpenyő • 5 perc"]
+},
+"catalog-286":{
+ title:"Édesburgonya-püré sonkával",cat:"Gyerekreceptek",servings:"4 fő",total:"36 perc",accessories:["steam","ultrablade"],
+ ingredients:[["600 g","édesburgonya"],["0,7 L","víz"],["100 g","főtt sonka"],["100 g","vaj"],["","só"],["","bors"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "Pucold meg az édesburgonyát, vágd nagyobb darabokra, és tedd a gőzkosárba. Önts 0,7 liter vizet a robot edényébe, majd indítsd el a Gőz (Steam) P1 programot 30 percre.",
+  "A főzés végén öntsd ki a vizet.",
+  "Az Ultrablade késsel felszerelt edénybe tedd az édesburgonyát, add hozzá a sonkát és a vajat, majd sózd, borsozd. Aprítsd 11-es sebességen 1 percig. Sima püréhez turmixold tovább."
+ ],program:["Gőz P1 • 30 perc","Ultrablade • 11-es sebesség • 1 perc"],note:"Hígabb püréhez 5 cl alaplevet is adhatsz hozzá."
+},
+"catalog-287":{
+ title:"Paradicsomleves",cat:"Gyerekreceptek",servings:"4 fő",total:"36 perc",accessories:["ultrablade"],
+ ingredients:[["1 db","hagyma"],["1 gerezd","fokhagyma"],["600 g","fürtös paradicsom"],["3 szár","szárzeller"],["500 ml","víz"],["1 ek","instant zöldségalaplé"],["2 ek","sűrített paradicsom"],["1 ek","cukor"],["","só"],["","frissen őrölt bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A hagymát és a fokhagymát tedd az Ultrablade késsel felszerelt edénybe, majd aprítsd 12-es sebességen 10 másodpercig.",
+  "Add hozzá a paradicsomnegyedeket és a zellert. Spatulával húzd vissza a hagymát és a fokhagymát az edény faláról középre. Add hozzá a vizet, a zöldségalaplevet, a paradicsomsűrítményt, a cukrot, a sót és a borsot.",
+  "Indítsd el a Leves (Soup) P1 programot 20 percre.",
+  "A program végén igazítsd a fűszerezést, és poharakban vagy tányérokban tálald."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Leves P1 • 20 perc"],note:"Egy kanál crème fraîche-sal vagy könnyű tejszínhabbal is díszíthető."
+},
+"catalog-288":{
+ title:"Gluténmentes kukoricás-mazsolás keksz",cat:"Gluténmentes",servings:"12 fő",total:"29 perc",accessories:["kneading"],
+ ingredients:[["200 g","kukoricaliszt"],["2 db","tojássárgája"],["45 g","nádcukor"],["75 g","magolaj"],["60 ml","víz"],["70 g","mazsola"],["20 g","fenyőmag"],["1 tk","sütőpor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a kukoricalisztet, a tojássárgáját, a cukrot, az olajat és a vizet. Indítsd el a Tészta (Pastry) P3 programot. 1 perc után add hozzá a mazsolát, a fenyőmagot és a sütőport.",
+  "Két teáskanál segítségével formázz kis golyókat, és tedd őket sütőpapírral bélelt tepsire.",
+  "180 °C-ra előmelegített sütőben süsd 20 percig. Hagyd kihűlni."
+ ],program:["Tészta P3","Sütő • 180 °C • 20 perc"]
+},
+"catalog-289":{
+ title:"Gluténmentes zöldséges clafoutis",cat:"Gluténmentes",servings:"4 fő",total:"56 perc",accessories:["steam","ultrablade"],
+ ingredients:[["150 g","piros paprika"],["150 g","zöld paprika"],["150 g","cukkini"],["150 g","fehérhagyma"],["1 tk","őrölt római kömény (opcionális)"],["150 g","zöldborsó"],["1 gerezd","aprított fokhagyma"],["1 ek","aprított bazsalikom"],["15 cl","tej"],["15 cl","folyékony tejszín"],["3 db","tojás"],["45 g","kukorica- vagy burgonyakeményítő"],["50 g","reszelt parmezán"],["","só"],["","bors"],["0,7 L","víz"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra légkeveréses fokozaton.",
+  "Önts 0,7 liter vizet a robot edényébe. Tedd a paprikát, a hagymát és a cukkinit a gőzkosárba, helyezd be a kosarat, zárd le a fedelet és a dugót, majd indítsd el a Gőz (Steam) P1 programot 15 percre.",
+  "A főzés végén vedd ki a gőzkosarat, öntsd ki a vizet, és szárítsd meg az edényt. Helyezd be az Ultrablade kést, add hozzá a tojásokat, a tejszínt, a tejet, a római köményt, a keményítőt, a parmezánt, a sót és a borsot. Aprítsd 11-es sebességen 35 másodpercig, majd add hozzá a bazsalikomot és a fokhagymát.",
+  "A párolt zöldségeket és a zöldborsót tedd gratinformába vagy tortaformába, öntsd rá a masszát, és süsd 30 percig.",
+  "Hidegen, langyosan vagy melegen tálald."
+ ],program:["Gőz P1 • 15 perc","Ultrablade • 11-es sebesség • 35 mp","Sütő • 180 °C • 30 perc"],note:"Aszalt paradicsommal vagy kecskesajttal is gazdagítható."
+},
+"catalog-290":{
+ title:"Anya gluténmentes étcsokoládétortája",cat:"Gluténmentes",servings:"6 fő",total:"1 óra 15 perc",accessories:["kneading","beater"],
+ ingredients:[["200 g","70%-os étcsokoládé"],["125 g","vaj vagy 80 g kókuszolaj + kevés a formához"],["100 g","rizsliszt"],["1 tasak","gluténmentes sütőpor"],["4 db","tojás"],["200 g","kristálycukor"],["1 csipet","só"],["1 tk","porcukor"]],
+ stepAccessories:["kneading","beater"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a vajat és a darabokra tört csokoládét. Olvaszd 3-as sebességen, 45 °C-on 10 percig.",
+  "Válaszd szét a tojássárgáját és a tojásfehérjét.",
+  "A robotba add a tojássárgáját, a cukrot, a rizslisztet és a sütőport. Indítsd el a Tészta (Pastry) P3 programot.",
+  "Öntsd a masszát egy tálba, majd mosd el és szárítsd meg az edényt.",
+  "A habverővel felszerelt edénybe tedd a tojásfehérjéket egy csipet sóval, és dugó nélkül verd 7-es sebességen 6 percig.",
+  "Spatulával óvatosan forgasd a tojásfehérjehabot a csokoládés masszába.",
+  "Öntsd kivajazott és porcukorral megszórt tortaformába, majd süsd 25–30 percig. Egyedi süteményekhez 15–20 perc sütési idő elegendő."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 45 °C • 10 perc","Tészta P3","Habverő • 7-es sebesség • 6 perc","Sütő • 180 °C • 25–30 perc"],note:"Tálald angolkrémmel egy gazdagabb változathoz."
+},
+"catalog-291":{
+ title:"Gluténmentes magvas kenyér zöldborsós hummusszal",cat:"Gluténmentes",servings:"6 fő",total:"3 óra 10 perc",accessories:["kneading","ultrablade"],
+ ingredients:[["120 g","hajdinaliszt"],["120 g","rizsliszt"],["120 g","kukoricaliszt"],["1 tasak","sütőélesztő"],["55 cl","víz"],["1 tk","só"],["1 tk","méz"],["80 g","magkeverék"],["2 ek","olívaolaj"],["250 g","kiolvasztott zöldborsó"],["1 gerezd","fokhagyma"],["4 levél","menta"],["5 ek","olívaolaj"],["1 tk","citromlé"],["","só"],["","bors"]],
+ stepAccessories:["kneading","kneading","kneading","ultrablade"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a vizet és az élesztőt. Indítsd el 3-as sebességen, 40 °C-on 3 percre.",
+  "Hagyd 10 percig pihenni az edényben. Add hozzá a liszteket, a sót, az olívaolajat és a mézet, majd indítsd el a Tészta (Pastry) P1 programot.",
+  "A program végén hagyd a tésztát az edényben, fedővel, 40 °C-on 40 percig.",
+  "Add hozzá a magokat, majd indítsd el újra a Tészta P1 programot. A végén ismét hagyd pihenni körülbelül 20 percig.",
+  "Öntsd a tésztát olajozott és lisztezett sütőformába, a felületét enyhén szórd meg hajdinaliszttel. Melegítsd elő a sütőt 180 °C-ra, és süsd körülbelül 1 órán át. Hagyd langyosra hűlni, majd rácson hűtsd ki.",
+  "A zöldborsóhummuszhoz az Ultrablade késsel aprítsd a félbevágott fokhagymagerezdet 12-es sebességen 10 másodpercig. Add hozzá a zöldborsót, a citromlevet, az olívaolajat és a mentát. Sózd, borsozd, majd aprítsd 12-es sebességen 1 percig.",
+  "A kenyeret a zöldborsós hummusszal tálald."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 40 °C • 3 perc","Tészta P1 • 40 perc","Tészta P1 • 20 perc pihentetéssel","Sütő • 180 °C • kb. 1 óra","Ultrablade • 12-es sebesség • 10 mp + 1 perc"],note:"A hummuszba 1 teáskanál tahinit is adhatsz a turmixolás előtt."
+},
+"catalog-292":{
+ title:"Gluténmentes karfiolpizza",cat:"Gluténmentes",servings:"6 fő",total:"1 óra 16 perc",accessories:["ultrablade"],
+ ingredients:[["500 g","karfiol"],["1 db","tojás"],["50 g","reszelt parmezán"],["2 ek","mustár"],["1 csipet","provence-i fűszerkeverék"],["","só"],["","bors"],["150 g","főtt paradicsomszósz"],["125 g","mozzarella"],["","néhány bazsalikomlevél"],["1 kevés","olívaolaj"],["1 csipet","oregánó"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "Szedd rózsáira a karfiolt, távolítsd el a vastag szárakat. Az Ultrablade késsel aprítsd 10-es sebességen 30 másodpercig.",
+  "Add hozzá a tojást, a mustárt és a parmezánt. Sózd, borsozd, add hozzá a provence-i fűszert, majd keverd 5-ös sebességen 30 másodpercig.",
+  "A kapott masszát sütőpapírral bélelt tepsire terítsd korong alakban, majd süsd 30 percig.",
+  "Vedd ki a sütőből, kend meg paradicsomszósszal, tedd rá a szeletelt mozzarellát és kevés olívaolajat. Szórd meg oregánóval, majd süsd további 15 percig.",
+  "Forrón, friss bazsalikomlevelekkel tálald."
+ ],program:["Ultrablade • 10-es sebesség • 30 mp","5-ös sebesség • 30 mp","Sütő • 180 °C • 30 + 15 perc"],note:"Egyadagos változathoz formázz kisebb korongokat pogácsaszaggatóval."
+},
+"catalog-293":{
+ title:"Gluténmentes lazacrilette friss sajttal és zöldfűszerekkel",cat:"Gluténmentes",servings:"4 fő",total:"18 perc",accessories:["steam","ultrablade"],
+ ingredients:[["300 g","lazacdarab"],["50 g","füstölt lazac"],["1 ek","curry"],["½ db","citrom leve"],["80 g","friss sajt"],["3 ek","aprított snidling"],["","só"],["","bors"],["0,7 L","víz"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+  "Önts 0,7 liter vizet a gép edényébe, és helyezd be a gőzkosarat a lazacdarabokkal. Zárd le a fedelet és a dugót, majd indítsd el a Gőz (Steam) P1 programot 10 percre.",
+  "Vedd ki a gőzkosarat, öntsd ki a vizet, és hagyd a lazacot kihűlni. Az Ultrablade késsel felszerelt edénybe tedd a bőrétől megfosztott főtt lazacot, a füstölt lazacot, a curryt, a citromlevet és a friss sajtot. Aprítsd 10-es sebességen 20 másodpercig; finomabb állaghoz néhány másodperccel tovább.",
+  "Ellenőrizd a fűszerezést. Add hozzá a snidlinget, majd aprítsd 5-ös sebességen további 5 másodpercig. Hidegen tálald."
+ ],program:["Gőz P1 • 10 perc","Ultrablade • 10-es sebesség • 20 mp","5-ös sebesség • 5 mp"],note:"Fűszerezett salátával, olajos-citromos vinaigrette-tel tálald."
+},
+"catalog-294":{
+ title:"Gluténmentes kagylós-garnélás Szent Jakab-kagylós rizottó",cat:"Gluténmentes",servings:"4 fő",total:"1 óra 29 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["500 g","friss, megmosott kagyló"],["1 db","hagyma"],["4 ág","petrezselyem"],["100 ml","víz"],["300 g","Arborio rizs"],["3 db","salotta"],["1 adag","sáfrány"],["3 ek","olívaolaj"],["250 g","megtisztított kis garnéla"],["150 g","Szent Jakab-kagyló"],["1 L","forró folyadék (kagylólé + víz)"],["3 ek","aprított petrezselyem"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A hagymát és a petrezselyemágakat tedd az Ultrablade késsel felszerelt edénybe, majd aprítsd 11-es sebességen 10 másodpercig.",
+  "Vedd ki az Ultrablade kést. Add hozzá a vizet és a kagylókat, majd zárd le a fedelet és a dugót. Indítsd el a Lassú főzés (Slow cook) P2 programot 12 percre.",
+  "A főzés végén szedd ki a kagylókat, szűrd át a főzőlevet, fejtsd ki a kagylókat, és öblítsd ki az edényt.",
+  "Tedd a salottát az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le a kést keverőlapátra. Öntsd hozzá az olívaolajat, és dugó nélkül indítsd el a Lassú főzés P1 programot 130 °C-on 6 percre. Amikor 3 perc van hátra, add hozzá a rizst.",
+  "A ciklus végén add hozzá a sáfrányt és az 1 liter forró folyadékot. Indítsd el a Lassú főzés P3 programot 95 °C-on 17 percre, zárt dugóval. 8 perccel a program vége előtt add hozzá a kagylót, a garnélát és a Szent Jakab-kagylót.",
+  "Tálalás előtt add hozzá az aprított petrezselymet, és igazítsd a fűszerezést."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P2 • 12 perc","Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 6 perc","Lassú főzés P3 • 95 °C • 17 perc"],note:"A vizet gluténmentes halalaplével is helyettesítheted; a recepthez cukkinikockákat is adhatsz."
+},
+"catalog-295":{
+ title:"Gluténmentes omlós keksz",cat:"Gluténmentes",servings:"4–6 fő",total:"1 óra 15 perc",accessories:["kneading"],
+ ingredients:[["200 g","rizsliszt"],["120 g","barnacukor"],["125 g","sós vaj, puha"],["3 db","tojássárgája"],["1 db","narancs reszelt héja"],["","porcukor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a rizslisztet, a barnacukrot, a darabokra vágott vajat, a tojássárgáját és a narancshéjat. Keverd 8-as sebességen 3 percig. Spatulával húzd középre a masszát, majd keverd újabb 30 másodpercig.",
+  "Formázz a tésztából golyót, csomagold ételfóliába, és pihentesd 1 órán át hűtőben. Melegítsd elő a sütőt 180 °C-ra, bélelj ki egy tepsit sütőpapírral. Nyújtsd ki a tésztát, szaggass kekszeket, és tedd a tepsire.",
+  "Süsd 15 percig. A sütés végén a kekszek még puhák lesznek, hűlés közben megszilárdulnak. Tálalás előtt szórd meg porcukorral."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • 3 perc + 30 mp","Hűtés • 1 óra","Sütő • 180 °C • 15 perc"]
+},
+"catalog-296":{
+ title:"Gluténmentes articsóka-krémleves szójatejjel, bazsalikommal és parmezánnal",cat:"Gluténmentes",servings:"4 fő",total:"50 perc",accessories:["ultrablade"],
+ ingredients:[["10 db","szép articsókaalj"],["1 ek","olívaolaj"],["1 db","fehérhagyma"],["50 cl","gluténmentes szárnyasleves"],["1 ek","kukoricaliszt (opcionális)"],["50 g","reszelt parmezán"],["25 cl","szójatej"],["2 db","olajos szardellafilé (opcionális)"],["","néhány friss bazsalikomlevél"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Az Ultrablade késsel felszerelt edénybe tedd a hagymát, és aprítsd 11-es sebességen 5 másodpercig.",
+  "Add hozzá az olajat, az articsókaaljat és a kukoricalisztet. Indítsd el a Lassú főzés P1 programot 5 percre.",
+  "Add hozzá a gluténmentes szárnyasalaplevet és a friss bazsalikomot. Indítsd el a Leves (Soup) P1 programot 100 °C-on 40 percre, zárt dugóval.",
+  "A program végén add hozzá a szójatejet, a reszelt parmezánt és a szardellafiléket, majd aprítsd 11-es sebességen 30 másodpercig.",
+  "Ellenőrizd a fűszerezést és az állagot, majd forrón tálald."
+ ],program:["Ultrablade • 11-es sebesség • 5 mp","Lassú főzés P1 • 5 perc","Leves P1 • 100 °C • 40 perc","Ultrablade • 11-es sebesség • 30 mp"],note:"Rizslisztből készült kekszekkel tálald. A szárnyasalaplét házi zöldségalaplére cserélheted."
+},
+"catalog-297":{
+ title:"Ananászos-paprikás szárnyas",cat:"Gluténmentes",servings:"4 fő",total:"40 perc",accessories:["mixer"],
+ ingredients:[["600 g","szárnyasfilé"],["1 ek","kukorica- vagy burgonyakeményítő"],["2 ek","növényi olaj"],["½ ek","curry"],["250 g","friss ananász kockákra vágva"],["1 nagy db","fehérhagyma"],["1 nagy db","piros kaliforniai paprika"],["1 gerezd","zúzott fokhagyma"],["1 ek","vörösborecet (opcionális)"],["150 ml","ananászlé"],["150 ml","gluténmentes szárnyasalaplé"],["","só"],["","bors"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "A keverőlapáttal felszerelt edénybe tedd az olajat, a hagymát, a zúzott fokhagymát és a kockázott paprikát. Indítsd el a Lassú főzés (Slow cook) P1 programot 10 percre.",
+  "Közben a szárnyast ízesítsd curryvel, sóval és borssal, majd 5 perc elteltével add a robothoz. Főzd a program végéig.",
+  "Keverd el a keményítőt az ananászlében, majd add a robothoz a szárnyasalaplével, az ananászkockákkal és a vörösborecettel együtt. Indítsd el a Lassú főzés P2 programot 95 °C-on 20 percre, zárt fedéllel és dugóval.",
+  "Ellenőrizd a fűszerezést, és forrón tálald."
+ ],program:["Lassú főzés P1 • 10 perc","Lassú főzés P2 • 95 °C • 20 perc"],note:"Friss gyömbérrel és korianderrel is kiegészíthető. Párolt basmati rizzsel tálald."
+},
+
 };
