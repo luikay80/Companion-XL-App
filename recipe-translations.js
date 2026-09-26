@@ -2584,4 +2584,118 @@ window.CompanionRecipeTranslations={
  ],program:["Ultrablade • Pulse • 1 perc","Habverő • 6-os sebesség • 90 °C • 6 perc"],note:"A Gorgonzola bármilyen kéksajttal helyettesíthető. Bluetooth- vagy Wi-Fi-kapcsolatú gépen a Pulse helyett 13-as sebesség használható."
 },
 
+
+"catalog-200":{
+ title:"Béarnaise mártás",cat:"Szószok",servings:"6 fő",total:"33 perc",accessories:["ultrablade","mixer","beater"],
+ ingredients:[["2 db","salotta"],["30 levél","tárkony"],["6 cl","fehérbor"],["4 cl","ecet"],["6 cl","víz"],["4 db","tojássárgája"],["170 g","vaj"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer","beater"],
+ steps:[
+  "A megpucolt salottát és a tárkonyleveleket tedd az Ultrablade késsel felszerelt edénybe, majd Turbo fokozaton aprítsd 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, add hozzá a fehérbort és az ecetet, majd főzd 3-as sebességen, 95 °C-on 15 percig.",
+  "Amikor a salotta megfőtt, cseréld le a keverőlapátot habverőre. Add hozzá a 6 cl vizet, a tojássárgájákat és a darabokra vágott vajat. Sózd, borsozd, majd indítsd el a Sauce programot 6-os sebességen, 70 °C-on 8 percre, dugóval."
+ ],program:["Ultrablade • Turbo • 10 mp","3-as sebesség • 95 °C • 15 perc","Sauce • habverő • 6-os sebesség • 70 °C • 8 perc"],note:"Bluetooth-kapcsolatú Companion esetén a SAUCE program helyett kézi módban a megadott beállítások használhatók; a Turbo helyett 12-es sebesség."
+},
+"catalog-201":{
+ title:"Mustáros mártás sertéssülthöz",cat:"Szószok",servings:"6 fő",total:"31 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["2 db","salotta"],["2 cl","olaj"],["1 ek","szárított borjúalap"],["1 tk","Maizena®"],["125 g","sűrű crème fraîche"],["1 ek","mustár"],["25 cl","víz"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A megpucolt salottát tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra, kapard le a falat, add hozzá az olajat. Indítsd el a Lassú főzés P1 programot. Közben oldd fel a szárított borjúalapot és a Maizenát 25 cl vízben, majd öntsd a robotba.",
+  "Főzd 4-es sebességen, 90 °C-on 8 percig. Ezután add hozzá a sűrű crème fraîche-t és a mustárt, majd indítsd el a Sauce programot 6-os sebességen, 90 °C-on 8 percre."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1","4-es sebesség • 90 °C • 8 perc","Sauce • 6-os sebesség • 90 °C • 8 perc"],note:"Bluetooth-kapcsolatú Companion esetén a SAUCE program helyett a megadott kézi beállítások használhatók."
+},
+"catalog-202":{
+ title:"Chouquette – cukros égetett tésztafalatok",cat:"Desszertek / Egyadagos",servings:"4–6 fő",total:"57 perc",accessories:["kneading"],
+ ingredients:[["80 g","vaj"],["25 cl","víz"],["150 g","liszt"],["4 db","tojás"],["100 g","gyöngycukor"],["","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A dagasztó-/aprítókéses edénybe tedd a 25 cl vizet, a darabokra vágott vajat és a sót. Futtasd 3-as sebességen, 90 °C-on 8 percig.",
+  "A program végén add hozzá a lisztet, és keverd 6-os sebességen 2 percig.",
+  "Tedd a tésztát tálba, az edényt pedig hideg vízzel mosd ki, hogy lehűljön. Tedd vissza a tésztát a dagasztó-/aprítókéses edénybe, állítsd 6-os sebességre, és a tojásokat egyenként add hozzá a fedél nyílásán át. Járasd 2 percig.",
+  "Sütőpapíros tepsire kanalazz kis halmokat, szórd meg gyöngycukorral, és süsd 25–30 percig."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 90 °C • 8 perc","6-os sebesség • 2 perc","6-os sebesség • 2 perc","Sütő • 180 °C • 25–30 perc"],note:"Pisztáciadarabokkal, pralinéval vagy mogyoróval is díszíthető."
+},
+"catalog-203":{
+ title:"Churros csokoládészósszal",cat:"Desszertek / Egyadagos",servings:"4 fő",total:"40 perc",accessories:["kneading"],
+ ingredients:[["30 cl","félzsíros tej"],["15 cl","víz"],["200 g","liszt"],["10 g","sütőpor"],["3 g","só"],["1 db","tojásfehérje"],["165 g","étcsokoládé"],["1 tk","vaníliaaroma"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a 15 cl tejet és 15 cl vizet. Főzd 6-os sebességen, 100 °C-on 4 percig. Add hozzá a lisztet, a tojásfehérjét, a sütőport és a sót, majd dugóval keverd 4-es sebességen 30 másodpercig.",
+  "Lisztezett munkafelületen sodorj rudakat a tésztából, majd süsd ki fritőzben. Papírtörlőn csepegtesd le.",
+  "A dagasztó-/aprítókéses edénybe tedd a darabokra tört csokoládét, a maradék tejet és a vaníliát. Főzd dugóval 5-ös sebességen, 80 °C-on 8 percig, majd turmixold 10-es sebességen 20 másodpercig. Öntsd tálba, és a churrost a csokoládészószba mártva tálald."
+ ],program:["Dagasztó-/aprítókés • 6-os sebesség • 100 °C • 4 perc","4-es sebesség • 30 mp","5-ös sebesség • 80 °C • 8 perc","10-es sebesség • 20 mp"],note:"A recepthez ideális churrosnyomó, amellyel egyenletes rudakat készíthetsz."
+},
+"catalog-204":{
+ title:"Gyümölcsös trifle",cat:"Desszertek / Egyadagos",servings:"4 fő",total:"1 óra",accessories:["beater"],
+ ingredients:[["125 g","cukor"],["4 db","tojás"],["125 g","liszt"],["1 tk","sütőpor"],["50 cl","tej"],["80 g","kristálycukor"],["1 db","vaníliarúd"],["6 db","tojássárgája"],["3 db","kiwi"],["1 db","banán"],["100 g","eper"]],
+ stepAccessories:["beater","beater"],
+ steps:[
+  "A piskótához melegítsd elő a sütőt 190 °C-ra. A habverővel felszerelt edénybe tedd a tojásokat és a cukrot, majd keverd 6-os sebességen, 50 °C-on 8 percig. Add hozzá a lisztet és a sütőport, majd keverd 5-ös sebességen 2 percig. Öntsd a tésztát sütőpapíros tepsire, és süsd 12 percig. Hagyd kihűlni, majd fóliával fedd le, hogy ne száradjon ki.",
+  "Az angolkrémhez a habverővel felszerelt edénybe tedd a tojássárgáját és a cukrot. Keverd 6-os sebességen 1 percig. 20 másodperc után fokozatosan add hozzá a tejet a dugón keresztül. Ezután add hozzá a félbevágott vaníliarudat, majd keverd 4-es sebességen, 85 °C-on 12 percig. A kész krémet tedd tálba, hagyd kihűlni, majd hűtsd le. Az edényt mosd el.",
+  "Pucold meg a kiwit és a banánt, majd vágd kockákra. Az epret mosd meg és vágd kockákra.",
+  "Piskótaszaggatóval vagy pohárral vágj a piskótából a poharak méretének megfelelő köröket.",
+  "Minden pohárba tegyél egy réteg piskótát, néhány darab gyümölcsöt, angolkrémet, végül újabb gyümölcsdarabokat. A tetejére kevés tejszínhabot is tehetsz."
+ ],program:["Habverő • 6-os sebesség • 50 °C • 8 perc","5-ös sebesség • 2 perc","Habverő • 6-os sebesség • 1 perc","4-es sebesség • 85 °C • 12 perc","Sütő • 190 °C • 12 perc"]
+},
+"catalog-205":{
+ title:"Citromkrém",cat:"Desszertek / Egyadagos",servings:"6 fő",total:"18 perc",accessories:["beater"],
+ ingredients:[["3 db","tojás"],["150 g","cukor"],["20 g","Maizena®"],["50 cl","félzsíros tej"],["18 cl","citromlé"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt edénybe tedd a tojásokat és a cukrot, majd keverd 6-os sebességen 1 percig.",
+  "Add hozzá a Maizenát, a tejet és a citromlevet, majd dugó nélkül főzd 5-ös sebességen, 90 °C-on 12 percig.",
+  "Oszd szét a krémet ramekinformákba. Fedd le fóliával, és tedd 3–4 órára hűtőbe. Jól lehűtve tálald."
+ ],program:["Habverő • 6-os sebesség • 1 perc","5-ös sebesség • 90 °C • 12 perc"],note:"Más citrusfélékkel is variálható; kandírozott héjjal is díszíthető."
+},
+"catalog-206":{
+ title:"Vaníliás crème brûlée",cat:"Desszertek / Egyadagos",servings:"4–6 fő",total:"43 perc",accessories:["beater"],
+ ingredients:[["4 db","tojássárgája"],["50 g","cukor"],["40 cl","folyékony teljes tejszín"],["1 tk","vanília (por vagy aroma)"],["100 g","barna cukor"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 120 °C-ra. A habverővel felszerelt edénybe tedd a tojássárgáját, a cukrot és a vaníliát, majd keverd 7-es sebességen 1 percig. 30 másodperc után add hozzá a tejszínt a fedélen keresztül.",
+  "Oszd el a masszát egyedi sütőformákban.",
+  "Vízfürdőben süsd a sütőben 35 percig. Hagyd kihűlni, majd tedd hűtőbe.",
+  "Szórd meg barna cukorral, és karamellizáld szakácsfáklyával vagy a sütő grillje alatt körülbelül 2 percig."
+ ],program:["Habverő • 7-es sebesség • 1 perc","Sütő • 120 °C • 35 perc","Grill • kb. 2 perc"],note:"Tálalás előtt durvára tört pisztáciával is megszórható."
+},
+"catalog-207":{
+ title:"Katalán krém",cat:"Desszertek / Egyadagos",servings:"6 fő",total:"36 perc",accessories:["mixer","beater"],
+ ingredients:[["1 db","kezeletlen narancs"],["1 db","kezeletlen citrom"],["70 cl","tej"],["120 g","cukor"],["1 db","fahéjrúd"],["2 db","tojás"],["3 db","tojássárgája"],["20 g","liszt"],["20 g","Maizena®"],["","barna cukor a karamellizáláshoz"]],
+ stepAccessories:["mixer","beater"],
+ steps:[
+  "A narancsot és a citromot mosd meg, majd hámozóval készíts héjat.",
+  "A keverőlapáttal felszerelt edénybe tedd a tejet, 60 g cukrot, a fahéjat és a citrusok héját. Indítsd el a Desszert programot 3-as sebességen, 90 °C-on 15 percre. Szűrd át.",
+  "Mosd el az edényt, és tedd be a habverőt. Tedd bele a tojásokat, a tojássárgáját, a lisztet, a Maizenát és a maradék cukrot, majd keverd 6-os sebességen 1 percig. 30 másodperc után add hozzá az átpasszírozott tejet a fedélen keresztül.",
+  "Főzd 5-ös sebességen, 90 °C-on 15 percig, majd a végén keverd 7-es sebességen 30 másodpercig, hogy homogén krémet kapj.",
+  "Töltsd 6 ramekinformába, és tedd 1 órára hűtőbe. Tálalás előtt szórd meg barna cukorral, és karamellizáld szakácsfáklyával."
+ ],program:["Desszert • 3-as sebesség • 90 °C • 15 perc","Habverő • 6-os sebesség • 1 perc","5-ös sebesség • 90 °C • 15 perc","7-es sebesség • 30 mp"],note:"Bluetooth-kapcsolatú Companion esetén a DESSERT program helyett kézi módban is beállíthatók a recept paraméterei."
+},
+"catalog-208":{
+ title:"Palacsinta",cat:"Desszertek / Egyadagos",servings:"4–6 fő",total:"14 perc",accessories:["kneading"],
+ ingredients:[["100 g","vaj"],["75 cl","félzsíros tej"],["4 db","tojás"],["50 g","cukor"],["375 g","liszt"],["1 ek","narancsvirágvíz"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, majd melegítsd 5-ös sebességen, 80 °C-on 3 percig.",
+  "Add hozzá a tejet, a tojásokat és a cukrot, majd keverd 10-es sebességen.",
+  "10 másodperc után fokozatosan add hozzá a lisztet. 1 perc 30 másodperc után add hozzá a narancsvirágvizet, majd járasd még 2 percig.",
+  "Forrósíts fel egy tapadásmentes serpenyőt, és enyhén vajazd ki. Önts bele egy merőkanálnyi tésztát, majd néhány perc után fordítsd meg, és süsd még 1–2 percig. Folytasd, amíg elfogy a tészta."
+ ],program:["Dagasztó-/aprítókés • 5-ös sebesség • 80 °C • 3 perc","10-es sebesség","Sütés serpenyőben • 1–2 perc oldalanként"],note:"A tej növényi tejre, például rizs- vagy mandulatejre is cserélhető."
+},
+"catalog-209":{
+ title:"Csokoládés éclair",cat:"Desszertek / Egyadagos",servings:"10 fő",total:"1 óra 42 perc",accessories:["beater","kneading"],
+ ingredients:[["4 db","tojás"],["2 db","tojás"],["3 db","tojássárgája"],["70 cl","tej"],["100 g","cukor"],["40 g","liszt"],["150 g","liszt"],["30 g","Maizena®"],["1 tk","vanília"],["2 ek","cukrozott kakaó"],["120 g","70%-os étcsokoládé"],["80 g","vaj"],["100 g","csokoládé a bevonathoz"],["25 cl","víz"],["","só"]],
+ stepAccessories:["beater","kneading"],
+ steps:[
+  "A habverővel felszerelt robotba tedd a 4 tojást, a 3 tojássárgáját, a cukrot, 40 g lisztet és a Maizenát. Dugó nélkül keverd 6-os sebességen 1 percig, miközben hozzáadod a tejet.",
+  "Helyezd be a dugót, és indítsd el a Desszert programot 4-es sebességen, 90 °C-on 12 percre. A végén add hozzá a vaníliát, majd keverd 7-es sebességen 1 percig. Tedd a krémet tálba, hagyd langyosra hűlni, majd töltsd habzsákba.",
+  "Mosd el az edényt.",
+  "A dagasztó-/aprítókéses edénybe tedd a 25 cl vizet, a vajat és a sót, majd főzd 3-as sebességen, 95 °C-on 8 percig.",
+  "Add hozzá a 150 g lisztet és a kakaót, majd keverd 6-os sebességen 2 percig.",
+  "Tedd a tésztát tálba, hideg vízzel mosd ki az edényt, majd tedd vissza a tésztát. 7-es sebességen add hozzá egyenként a maradék 2 tojást, majd járasd 2 percig.",
+  "Sütőpapíros tepsire nyomj 10 egyforma éclair-t. Süsd a sütőben 180 °C-on körülbelül 30 percig, majd hagyd kihűlni.",
+  "Töltsd meg az éclair-eket a krémmel, majd mártsd vagy kend meg a csokoládébevonattal."
+ ],program:["Desszert • 4-es sebesség • 90 °C • 12 perc","7-es sebesség • 1 perc","Dagasztó-/aprítókés • 3-as sebesség • 95 °C • 8 perc","6-os sebesség • 2 perc","7-es sebesség • 2 perc","Sütő • 180 °C • kb. 30 perc"],note:"A forrásban a krém és a tészta hozzávalói egy közös felsorolásban szerepelnek; a recept lépései alapján két külön komponens készül."
+},
+
 };
