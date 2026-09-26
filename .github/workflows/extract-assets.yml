@@ -16,11 +16,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
       - name: Download original Moulinex PDF
         run: |
           python - <<'PY'
@@ -46,8 +41,6 @@ jobs:
 
           doc = fitz.open(PDF)
 
-          # The four sample recipe spreads in the prototype:
-          # PDF pages 26–29 each contain two original recipe photographs.
           recipe_pages = {
               26: ["gougeres", "guacamole"],
               27: ["houmous", "salmon"],
@@ -69,42 +62,45 @@ jobs:
                       candidates.append((bbox[0], bbox, xref))
               candidates.sort(key=lambda x: x[0])
               if len(candidates) != 2:
-                  raise RuntimeError(f"Expected 2 recipe images on page {page_no}, found {len(candidates)}")
+                  raise RuntimeError(f"Expected 2 recipe photos on PDF page {page_no}, found {len(candidates)}")
               for name, (_, bbox, xref) in zip(names, candidates):
                   data = doc.extract_image(xref)
                   ext = data.get("ext", "jpg")
                   with open(f"{out}/recipes/{name}.{ext}", "wb") as f:
                       f.write(data["image"])
 
-          # Original six accessory illustrations from PDF page 9 (printed page 11).
-          # Select the six small image objects by their positions.
+          # Page 9 of the PDF contains the six accessory illustrations.
           page = doc[8]
-          targets = [
-              ("ultrablade", (600, 180, 710, 275)),
-              ("kneading",   (750, 180, 865, 275)),
-              ("beater",     (900, 180, 1035, 275)),
-              ("mixer",      (595, 325, 710, 440)),
-              ("steam",      (755, 335, 850, 430)),
-              ("fondxl",     (935, 345, 1000, 430)),
-          ]
+          accessory_targets = {
+              "ultrablade": (648, 225),
+              "kneading": (804, 226),
+              "beater": (968, 225),
+              "mixer": (648, 382),
+              "steam": (804, 385),
+              "fondxl": (950, 390),
+          }
           infos = [i for i in page.get_image_info(xrefs=True) if i.get("xref")]
-          for name, region in targets:
-              rx1, ry1, rx2, ry2 = region
+          for name, (cx0, cy0) in accessory_targets.items():
               found = None
+              best = 1e9
               for info in infos:
                   x1,y1,x2,y2 = info["bbox"]
+                  # Ignore the full-page background image.
+                  if (x2-x1) > 300 or (y2-y1) > 300:
+                      continue
                   cx, cy = (x1+x2)/2, (y1+y2)/2
-                  if rx1 <= cx <= rx2 and ry1 <= cy <= ry2:
+                  d2 = (cx-cx0)**2 + (cy-cy0)**2
+                  if d2 < best:
+                      best = d2
                       found = info
-                      break
-              if not found:
-                  raise RuntimeError(f"Accessory not found: {name}")
+              if not found or best > 2500:
+                  raise RuntimeError(f"Accessory illustration not found: {name}")
               data = doc.extract_image(found["xref"])
               ext = data.get("ext", "jpg")
               with open(f"{out}/accessories/{name}.{ext}", "wb") as f:
                   f.write(data["image"])
 
-          print("Extracted assets:")
+          print("Assets extracted successfully.")
           for root, _, fs in os.walk(out):
               for fn in sorted(fs):
                   p=os.path.join(root,fn)
