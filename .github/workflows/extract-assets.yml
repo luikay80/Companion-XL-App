@@ -1,4 +1,4 @@
-name: Extract original Companion XL assets
+name: Import original Companion XL assets
 
 on:
   workflow_dispatch:
@@ -9,113 +9,45 @@ permissions:
   contents: write
 
 jobs:
-  extract-assets:
+  import-assets:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download original Moulinex PDF
+      - name: Import uploaded asset package
         run: |
           set -euo pipefail
-          curl -fL --retry 4 --retry-delay 2 \
-            "https://www.moulinex.fr/medias/Companion-XL-Landingpage-Recipebook-FR.pdf" \
-            -o "Companion-XL-Landingpage-Recipebook-FR.pdf"
-          ls -lh "Companion-XL-Landingpage-Recipebook-FR.pdf"
+          if [ ! -f "CompanionXL_original_assets.zip" ]; then
+            echo "No CompanionXL_original_assets.zip found; nothing to import."
+            exit 0
+          fi
+          unzip -o "CompanionXL_original_assets.zip" -d .
+          rm "CompanionXL_original_assets.zip"
+          test -f assets/recipes/gougeres.jpg
+          test -f assets/recipes/guacamole.jpg
+          test -f assets/recipes/houmous.jpg
+          test -f assets/recipes/salmon.jpg
+          test -f assets/recipes/zucchini.jpg
+          test -f assets/recipes/samosas.jpg
+          test -f assets/recipes/scones.jpg
+          test -f assets/recipes/pumpkin.jpg
+          test -f assets/accessories/ultrablade.jpg
+          test -f assets/accessories/kneading.jpg
+          test -f assets/accessories/beater.jpg
+          test -f assets/accessories/mixer.jpg
+          test -f assets/accessories/steam.jpg
+          test -f assets/accessories/fondxl.jpg
+          echo "All original images imported successfully."
 
-      - name: Install PDF tooling
-        run: python -m pip install --disable-pip-version-check --no-input PyMuPDF
-
-      - name: Extract original recipe photos and accessory icons
-        run: |
-          python - <<'PY'
-          import fitz, os, shutil
-
-          PDF = "Companion-XL-Landingpage-Recipebook-FR.pdf"
-          out = "assets"
-          shutil.rmtree(out, ignore_errors=True)
-          os.makedirs(out + "/recipes", exist_ok=True)
-          os.makedirs(out + "/accessories", exist_ok=True)
-
-          doc = fitz.open(PDF)
-
-          # The prototype currently contains the first 8 recipes shown on PDF pages 26–29.
-          recipe_pages = {
-              26: ["gougeres", "guacamole"],
-              27: ["houmous", "salmon"],
-              28: ["zucchini", "samosas"],
-              29: ["scones", "pumpkin"],
-          }
-
-          for page_no, names in recipe_pages.items():
-              page = doc[page_no - 1]
-              candidates = []
-              for info in page.get_image_info(xrefs=True):
-                  xref = info.get("xref", 0)
-                  bbox = info.get("bbox")
-                  if not xref or not bbox:
-                      continue
-                  x1, y1, x2, y2 = bbox
-                  w, h = x2-x1, y2-y1
-                  # Recipe photos are the two 300×212/213 px images near the top.
-                  if 250 <= w <= 350 and 180 <= h <= 250 and y1 < 120:
-                      candidates.append((x1, bbox, xref))
-              candidates.sort(key=lambda t: t[0])
-              if len(candidates) != 2:
-                  raise RuntimeError(f"Expected 2 recipe photos on PDF page {page_no}, found {len(candidates)}")
-              for name, (_, bbox, xref) in zip(names, candidates):
-                  data = doc.extract_image(xref)
-                  ext = data.get("ext", "jpg")
-                  with open(f"{out}/recipes/{name}.{ext}", "wb") as f:
-                      f.write(data["image"])
-
-          # PDF page 9 (printed page 11) contains the six original accessory illustrations.
-          page = doc[8]
-          target_centers = {
-              "ultrablade": (648, 226),
-              "kneading":   (804, 226),
-              "beater":     (968, 225),
-              "mixer":      (648, 382),
-              "steam":      (804, 385),
-              "fondxl":     (950, 390),
-          }
-
-          infos = [i for i in page.get_image_info(xrefs=True) if i.get("xref")]
-          candidates = []
-          for info in infos:
-              x1,y1,x2,y2 = info["bbox"]
-              w,h=x2-x1,y2-y1
-              if w>300 or h>300:
-                  continue
-              cx,cy=(x1+x2)/2,(y1+y2)/2
-              candidates.append((cx,cy,info))
-
-          for name,(tx,ty) in target_centers.items():
-              found=min(candidates,key=lambda t:(t[0]-tx)**2+(t[1]-ty)**2)
-              dist=(found[0]-tx)**2+(found[1]-ty)**2
-              if dist>2500:
-                  raise RuntimeError(f"Accessory {name} is too far from expected position: {dist}")
-              info=found[2]
-              data=doc.extract_image(info["xref"])
-              ext=data.get("ext","jpg")
-              with open(f"{out}/accessories/{name}.{ext}","wb") as f:
-                  f.write(data["image"])
-
-          print("Extracted assets:")
-          for root,_,files in os.walk(out):
-              for fn in sorted(files):
-                  p=os.path.join(root,fn)
-                  print(p, os.path.getsize(p))
-          PY
-
-      - name: Commit assets
+      - name: Commit imported assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets
+          git add assets CompanionXL_original_assets.zip
           if git diff --cached --quiet; then
-            echo "No asset changes."
+            echo "No changes to commit."
           else
             git commit -m "Add original Companion XL recipe photos and accessory icons"
             git push
