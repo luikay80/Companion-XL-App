@@ -3156,4 +3156,246 @@ window.CompanionRecipeTranslations={
  ],program:["Habverő • 7-es sebesség • 3 perc + 8 perc","Habverő • 7-es sebesség • 8 perc","Sütő • 190 °C • 8 perc"]
 },
 
+
+"catalog-250":{
+ title:"Naked cake piros bogyós gyümölcsökkel",cat:"Desszertek / Sütemények",servings:"6 fő",total:"1 óra 07 perc",accessories:["beater","mixer"],
+ ingredients:[["Piskóta","4 db tojás"],["120 g","cukor"],["120 g","liszt"],["Szirup","20 cl víz"],["50 g","cukor"],["½ tk","vaníliakivonat"],["Krém","20 cl habtejszín"],["250 g","mascarpone"],["5 ek","porcukor"],["Garnírung","400 g eper"],["100 g","áfonya"],["100 g","málna"],["100 g","szeder"]],
+ stepAccessories:["beater","mixer"],
+ steps:[
+  "Melegítsd elő a sütőt 160 °C-ra. Vajazz és lisztezz ki egy 20 cm átmérőjű tortaformát. A habverővel felszerelt edénybe tedd a tojásokat és a cukrot, majd keverd 7-es sebességen, 40 °C-on 8 percig.",
+  "Add hozzá a lisztet, és keverd 2-es sebességen 2 percig.",
+  "Öntsd a masszát a formába, és süsd 30 percig. Borítsd ki rácsra, és hagyd kihűlni.",
+  "A sziruphoz a keverőlapáttal felszerelt edénybe öntsd a vizet és add hozzá a cukrot. Futtasd 1-es sebességen, 115 °C-on 10 percig, majd hagyd kihűlni.",
+  "A tejszínhez a habverővel felszerelt edénybe tedd a habtejszínt és a mascarponét. Keverd 8-as sebességen 1 percig, majd add hozzá a porcukrot, és keverd 6-os sebességen 30 másodpercig. Tedd tálba, fedd le fóliával, és tartsd hűtőben.",
+  "Az epret csumázd ki és vágd félbe.",
+  "A kihűlt piskótát vágd három egyforma korongra. Az alsó korongot ecsettel itasd át sziruppal, fedd be a mascarponekrém egyharmadával, és szórd meg piros bogyós gyümölcsökkel.",
+  "Tedd rá a középső korongot, itasd át sziruppal, kend meg a krém második harmadával, és szórd meg gyümölcsökkel.",
+  "Az utolsó korong vágott felét is itasd át sziruppal, majd helyezd a tortára. Fedd be a maradék mascarponekrémmel.",
+  "Tedd a tortát 1 órára hűtőbe. Tálalás előtt díszítsd a maradék piros bogyós gyümölcsökkel."
+ ],program:["Habverő • 7-es sebesség • 40 °C • 8 perc","2-es sebesség • 2 perc","Sütő • 160 °C • 30 perc","Keverőlapát • 1-es sebesség • 115 °C • 10 perc","Habverő • 8-as sebesség • 1 perc","6-os sebesség • 30 mp","Hűtés • 1 óra"]
+},
+"catalog-251":{
+ title:"Paris-Brest",cat:"Desszertek / Sütemények",servings:"8 fő",total:"4 óra 28 perc",accessories:["beater","kneading"],
+ ingredients:[["Égetett tészta","125 g","tej"],["40 g","félsós vaj"],["20 g","cukor"],["75 g","liszt"],["2 db","tojás"],["Pralinékrém","2 db","tojás"],["2 db","tojássárgája"],["60 g","cukor"],["30 g","liszt"],["20 g","Maizena®"],["50 cl","félzsíros tej"],["100 g","sós vaj"],["120 g","praliné"],["2 lap","zselatin"],["Díszítés","1 db","tojássárgája"],["20 g","szeletelt mandula"],["","porcukor"]],
+ stepAccessories:["beater","kneading","beater","kneading"],
+ steps:[
+  "A pralinékrémhez a 2 zselatinlapot áztasd hideg vízbe.",
+  "A habverővel felszerelt edénybe tedd a tojásokat, a tojássárgájákat, a cukrot, a lisztet és a Maizenát. Keverd 6-os sebességen 1 percig, közben add hozzá a tejet.",
+  "Tedd rá a dugót, és indítsd el 4-es sebességen, 90 °C-on 12 percre.",
+  "A főzés végén add hozzá a vajat, a pralinét és a kinyomkodott zselatint, majd keverd 7-es sebességen 1 percig, hogy sima krémet kapj.",
+  "Tedd át a krémet, hagyd langyosra hűlni, majd legalább 3 órára tedd hűtőbe.",
+  "A francia égetett tészta receptjét az Alapreceptek között találd meg, a mennyiségeket a forrás szerint felezve. Melegítsd elő a sütőt 180 °C-ra.",
+  "Habzsákkal, sima csővel nyomj két egymáshoz érő, 20–22 cm átmérőjű kört, majd egy harmadik kört a tetejükre. Kend meg tojássárgájával, szórd meg szeletelt mandulával, és süsd 30 percig.",
+  "A sütő ajtaját kinyitás nélkül csökkentsd a hőmérsékletet 170 °C-ra, és süsd további 20 percig. A sütőt kapcsold ki, és a karikát a sütőben hagyd kihűlni, az ajtót továbbra se nyisd ki.",
+  "Amikor a pralinékrém teljesen hideg, fogazott késsel vízszintesen vágd ketté az égetett tésztakarikát.",
+  "Töltsd a krémet csillagcsöves habzsákba, és nyomj nagyobb adagokat az alsó részre. Helyezd rá a felső részt, szórd meg porcukorral, majd hagyd 20 percig szobahőmérsékleten állni."
+ ],program:["Habverő • 6-os sebesség • 1 perc","4-es sebesség • 90 °C • 12 perc","7-es sebesség • 1 perc","Égetett tészta • Sütő 180 °C • 30 perc + 170 °C • 20 perc","Hűtés • legalább 3 óra","Hűtés • 20 perc"]
+},
+"catalog-252":{
+ title:"Grand Marnier-soufflé",cat:"Desszertek / Sütemények",servings:"6 fő",total:"37 perc",accessories:["beater"],
+ ingredients:[["4 db","tojás"],["5 cl","Grand Marnier®"],["1 ek (15 g)","liszt"],["120 g","cukor"],["20 g","vaj"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 200 °C-ra. Válaszd szét a tojásfehérjéket a sárgájuktól. A habverővel felszerelt robotba tedd a tojássárgáját, a Grand Marnier-t és a lisztet, majd dugóval keverd 7-es sebességen 3 percig. Tedd át egy nagy tálba, és öblítsd ki az edényt.",
+  "A habverővel felszerelt robotba tedd a tojásfehérjéket és 80 g cukrot. Dugó nélkül keverd 7-es sebességen 6 percig. A 6 egyedi souffléformát vajazd ki, majd szórd meg a maradék cukorral.",
+  "A felvert tojásfehérje egyharmadát erőteljesen keverd a tojássárgás masszához, majd a maradék habot spatulával, óvatosan forgasd bele.",
+  "Töltsd a masszát a formákba a peremig, simítsd el a tetejét, és tisztítsd meg a forma szélét. Süsd 8 percig, és azonnal tálald."
+ ],program:["Habverő • 7-es sebesség • 3 perc","Habverő • 7-es sebesség • 6 perc","Sütő • 200 °C • 8 perc"]
+},
+"catalog-253":{
+ title:"Mandulakrémes szilvás pite",cat:"Desszertek / Sütemények",servings:"6 fő",total:"1 óra 31 perc",accessories:["kneading"],
+ ingredients:[["Tészta","250 g","búzaliszt"],["50 g","gesztenyeliszt"],["180 g","puha vaj"],["100 g","porcukor"],["1 db","tojás"],["1 csipet","só"],["700 g","szilva (pl. ringló, Reine Claude, mirabella)"],["Krém","60 g","puha vaj"],["100 g","kristálycukor"],["80 g","mandulapor"],["2 db","tojás"],["1 tasak","vaníliás cukor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a búzalisztet, a gesztenyelisztet, a darabokra vágott vajat, a porcukrot és a sót. Keverd 8-as sebességen 1 percig. Add hozzá a tojást, majd keverd újra 6-os sebességen 1 percig. Vedd ki, formázz golyót, csomagold fóliába, és pihentesd 30 percig hűtőben. Mosd el és szárítsd meg az edényt.",
+  "A dagasztó-/aprítókéses edénybe tedd az enyhén felvert tojásokat, a darabokra vágott puha vajat, a mandulaport és a cukrot. Indítsd el a Tészta (Pastry) P3 programot.",
+  "Melegítsd elő a sütőt 180 °C-ra. A szilvát mosd meg, szárítsd meg, vágd félbe és magozd ki.",
+  "Lisztezett felületen nyújtsd ki az omlós tésztát, és bélelj ki vele kivajazott és lisztezett piteformát. Öntsd rá a mandulakrémet, majd sűrűn helyezd rá a félbevágott szilvákat. Szórd meg vaníliás cukorral.",
+  "Süsd 35 percig. Tálalás előtt hagyd langyosra hűlni."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • 1 perc","6-os sebesség • 1 perc","Tészta P3","Sütő • 180 °C • 35 perc"]
+},
+"catalog-254":{
+ title:"Csokoládétorta",cat:"Desszertek / Sütemények",servings:"4 fő",total:"41 perc",accessories:["kneading"],
+ ingredients:[["1 adag","linzer jellegű omlós tészta"],["250 g","étcsokoládé"],["20 cl","nagyon hideg folyékony tejszín"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 210 °C-ra. Nyújtsd ki a tésztát, tedd vajazott piteformába, majd fedd le sütőpapírral és szórd meg száraz hüvelyesekkel. Süsd 15 percig, majd távolítsd el a sütőpapírt és a nehezéket, és süsd újabb 10 percig. Hagyd kihűlni.",
+  "A dagasztó-/aprítókéses edénybe tedd a hideg tejszínt, majd melegítsd 4-es sebességen, 70 °C-on 5 percig.",
+  "2 perc 30 másodperc után add hozzá a darabokra tört csokoládét.",
+  "A program végén keverd 5-ös sebességen 30 másodpercig. Öntsd a csokoládés keveréket a kihűlt tésztára, majd legalább 2 órára tedd hűtőbe."
+ ],program:["Sütő • 210 °C • 15 + 10 perc","Dagasztó-/aprítókés • 4-es sebesség • 70 °C • 5 perc","5-ös sebesség • 30 mp","Hűtés • 2 óra"],note:"Tálaláskor kandírozott narancshéjjal vagy friss málnával is díszíthető."
+},
+"catalog-255":{
+ title:"Mirabellás pite",cat:"Desszertek / Sütemények",servings:"4–6 fő",total:"37 perc",accessories:["kneading"],
+ ingredients:[["1 adag","linzer jellegű omlós tészta"],["3 db","egész tojás"],["125 g","mandulapor"],["70 g","barnacukor"],["125 g","puha vaj"],["500 g","kimagozott mirabella"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. Nyújtsd ki a tésztát, majd tedd vajazott piteformába.",
+  "A dagasztó-/aprítókéses edénybe tedd az enyhén felvert tojásokat, a mandulaport, a barnacukrot és a darabokra vágott vajat. Indítsd el a Tészta (Pastry) P3 programot 1 perc 40 másodpercre.",
+  "Kend a mandulakrémet a pitealapra, majd a mirabellákat sűrűn, függőlegesen helyezd rá.",
+  "Süsd körülbelül 25 percig. Langyosan vagy hidegen tálald."
+ ],program:["Tészta P3 • 1 perc 40 mp","Sütő • 180 °C • kb. 25 perc"],note:"A mirabella körtével is helyettesíthető."
+},
+"catalog-256":{
+ title:"Amaretti",cat:"Desszertek / Aprósütemények",servings:"4 fő",total:"34 perc",accessories:["beater"],
+ ingredients:[["3 db","tojásfehérje"],["150 g","cukor"],["250 g","mandulapor"],["2 csepp","keserűmandula-kivonat"],["","porcukor"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 160 °C-ra.",
+  "A habverővel felszerelt edénybe tedd a tojásfehérjéket, és dugó nélkül keverd 7-es sebességen 6 percig.",
+  "Add hozzá a cukrot, majd keverd 6-os sebességen 2 percig.",
+  "Kapard le az edény falát, add hozzá a mandulaport és a keserűmandula-kivonatot, majd keverd 6-os sebességen 20 másodpercig.",
+  "Sütőpapíros tepsire kanállal tegyél kis halmokat. Süsd 20 percig. Hagyd kihűlni, majd szórd meg porcukorral."
+ ],program:["Habverő • 7-es sebesség • 6 perc","6-os sebesség • 2 perc + 20 mp","Sütő • 160 °C • 20 perc"],note:"1 evőkanál Amaretto vagy Limoncello is adható hozzá; a mandulapor mogyoróporra is cserélhető."
+},
+"catalog-257":{
+ title:"Financier",cat:"Desszertek / Aprósütemények",servings:"12 db",total:"53 perc",accessories:["beater"],
+ ingredients:[["130 g","vaj"],["90 g","cukor"],["1 késhegynyi","vaníliapor"],["125 g","mandulapor"],["4 db","tojásfehérje"],["50 g","liszt"],["15 g","méz"],["1 késhegynyi","sütőpor"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 200 °C-ra.",
+  "A habverővel felszerelt robotba tedd a kockára vágott vajat, és olvaszd 1-es sebességen, 130 °C-on 10 percig.",
+  "A hangjelzéskor add hozzá a cukrot, a vaníliaport, a mézet és a mandulaport, majd keverd 6-os sebességen 30 másodpercig.",
+  "Add hozzá a tojásfehérjéket, a sütőport és a lisztet, majd keverd 6-os sebességen 15 másodpercig. Kapard le az edény falát, és keverd további 2 percig 8-as sebességen.",
+  "Töltsd a masszát téglalap alakú, 10 × 4 cm-es mélyedésekkel rendelkező formába, és süsd 20 percig 190 °C-on. Hagyd kihűlni, mielőtt kiborítod."
+ ],program:["Habverő • 1-es sebesség • 130 °C • 10 perc","6-os sebesség • 30 mp","6-os sebesség • 15 mp","8-as sebesség • 2 perc","Sütő • 190 °C • 20 perc"],note:"A mandulaport mogyoró- vagy pisztáciaporra is cserélheted."
+},
+"catalog-258":{
+ title:"Macskanyelv keksz",cat:"Desszertek / Aprósütemények",servings:"60 db",total:"18 perc 30 mp",accessories:["kneading"],
+ ingredients:[["125 g","vaj"],["125 g","cukor"],["3 db","tojás"],["150 g","liszt"],["1 késhegynyi","vaníliapor"],["","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 200 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, és olvaszd 4-es sebességen, 80 °C-on 3 percig. Add hozzá a cukrot, a vaníliát és a sót, majd keverd nagy sebességen.",
+  "Add hozzá a tojásokat egyenként. Amikor teljesen beépültek, a lisztet kanállal, a fedél nyílásán keresztül fokozatosan add hozzá. Kapard le az edény falát, és keverd további 30 másodpercig.",
+  "Sütőpapíros tepsire tegyél kis adagokat a tésztából, majd formázd őket hosszúkásra. Süsd 10 percig, amíg a szélek kezdenek színeződni. Válaszd le, és hagyd kihűlni."
+ ],program:["Dagasztó-/aprítókés • 4-es sebesség • 80 °C • 3 perc","Tojások és liszt fokozatos hozzáadása","Sütő • 200 °C • 10 perc"],note:"Mandulaforgáccsal megszórva mandulás tuiles is készíthető."
+},
+"catalog-259":{
+ title:"Madeleine",cat:"Desszertek / Aprósütemények",servings:"4–6 fő",total:"2 óra 30 perc",accessories:["kneading"],
+ ingredients:[["130 g","félsós vaj"],["3 db","tojás"],["10 g","folyékony méz"],["125 g","cukor"],["130 g","liszt"],["4 g","sütőpor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A vajat tedd a dagasztó-/aprítókéses edénybe, és olvaszd 5-ös sebességen, 130 °C-on 3 percig.",
+  "Add hozzá az összes többi hozzávalót, majd indítsd el a Tészta (Pastry) P3 programot 2 percre.",
+  "Legalább 2 órára tedd hűtőbe a tésztát.",
+  "Melegítsd elő a sütőt 180 °C-ra. Vajazz ki egy madeleine-formát, és töltsd háromnegyedig, mert sütés közben megemelkedik.",
+  "Süsd 15 percig. Hagyd kihűlni, mielőtt kiborítod."
+ ],program:["Dagasztó-/aprítókés • 5-ös sebesség • 130 °C • 3 perc","Tészta P3 • 2 perc","Hűtés • legalább 2 óra","Sütő • 180 °C • 15 perc"],note:"Vaníliával, citrommal vagy rózsakivonattal is ízesíthető."
+},
+"catalog-260":{
+ title:"Habcsók",cat:"Desszertek / Aprósütemények",servings:"4–6 fő",total:"1 óra 50 perc",accessories:["beater"],
+ ingredients:[["3 db","tojásfehérje"],["125 g","kristálycukor"],["1 csipet","só"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 110 °C-ra.",
+  "A habverővel felszerelt edénybe tedd a tojásfehérjéket, a cukrot és a sót. Dugó nélkül indítsd el 8-as sebességen, 40 °C-on 10 percre.",
+  "Sütőpapíros tepsire kanállal óvatosan tegyél kis halmokat a habcsókból. Süsd 1 óra 30 percig.",
+  "A sütés végén vedd ki a tepsit, és hagyd kihűlni a habcsókokat."
+ ],program:["Habverő • 8-as sebesség • 40 °C • 10 perc","Sütő • 110 °C • 1 óra 30 perc"],note:"Sütés előtt pisztáciadarabokkal vagy pralinéval is megszórható. Néhány napig eltartható."
+},
+"catalog-261":{
+ title:"Panellets – katalán mandulás sütemény",cat:"Desszertek / Aprósütemények",servings:"4 fő",total:"23 perc",accessories:["kneading"],
+ ingredients:[["350 g","mandula"],["3 db","tojás"],["350 g","cukor"],["200 g","fenyőmag"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a mandulát, majd aprítsd 12-es sebességen 40 másodpercig. Tedd félre.",
+  "Válaszd szét a tojásfehérjéket a sárgájuktól. A fehérjéket tedd a dagasztó-/aprítókéses edénybe, és keverd 6-os sebességen 40 másodpercig.",
+  "Add hozzá a mandulaport és a cukrot, majd keverd 8-as sebességen 30 másodpercig. Spatulával húzd középre a masszát, majd keverd további 20–30 másodpercig.",
+  "A tojássárgáját keverd össze a fenyőmaggal. Formázz kis golyókat a tésztából, és forgasd meg a tojássárgájás-fenyőmagos keverékben. Tedd sütőpapíros tepsire, és süsd 10–15 percig.",
+  "Hagyd kihűlni, majd hidegen tálald."
+ ],program:["Dagasztó-/aprítókés • 12-es sebesség • 40 mp","6-os sebesség • 40 mp","8-as sebesség • 30 + 20–30 mp","Sütő • 180 °C • 10–15 perc"],note:"A tojásfehérje 100 g édesburgonyapürével is helyettesíthető."
+},
+"catalog-262":{
+ title:"Kókuszcsók",cat:"Desszertek / Aprósütemények",servings:"4–6 fő",total:"20 perc",accessories:["beater"],
+ ingredients:[["200 g","reszelt kókusz"],["4 db","tojásfehérje"],["120 g","kristálycukor"],["½ tk","vaníliakivonat"]],
+ stepAccessories:["beater"],
+ steps:[
+  "Melegítsd elő a sütőt 210 °C-ra.",
+  "A habverővel felszerelt edénybe tedd a tojásfehérjéket, és dugó nélkül keverd 6-os sebességen 5 percig.",
+  "Add hozzá a cukrot, a reszelt kókuszt és a vaníliát, majd keverd 4-es sebességen 30 másodpercig. Ha nem homogén, spatulával húzd középre, és keverd újra.",
+  "Sütőpapíros tepsire formázz kis golyókat, és süsd 5–10 percig. A kókuszcsókok a sütőből kivéve még puhák lesznek, kihűlve megszilárdulnak."
+ ],program:["Habverő • 6-os sebesség • 5 perc","4-es sebesség • 30 mp","Sütő • 210 °C • 5–10 perc"],note:"Hermetikusan zárt dobozban több napig jól eltartható."
+},
+"catalog-263":{
+ title:"Karácsonyi omlós keksz",cat:"Desszertek / Aprósütemények",servings:"4–6 fő",total:"1 óra 21 perc",accessories:["kneading"],
+ ingredients:[["300 g","liszt"],["100 g","mandulapor"],["100 g","cukor"],["2 db","tojás"],["150 g","puha vaj"],["2 tk","sütőpor"],["1 tasak","vaníliás cukor"],["1 ek","őrölt fahéj"],["1 ek","őrölt gyömbér"],["","porcukor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a lisztet, a mandulaport, a cukrot, a tojásokat, a darabokra vágott vajat, a sütőport, a vaníliás cukrot és a fűszereket. Keverd 8-as sebességen 1 percig.",
+  "Gyűjtsd össze a tésztát, formázz golyót, majd csomagold fóliába. Pihentesd 1 órán át hűtőben.",
+  "Melegítsd elő a sütőt 180 °C-ra. Bélelj ki egy tepsit sütőpapírral. Nyújtsd ki a tésztát sodrófával, majd szaggasd ki formával vagy pohárral. Tedd a kekszeket a tepsire.",
+  "Süsd 10 percig. A kekszek ekkor még puhák lesznek, kihűlve megszilárdulnak. Tálalás előtt szórd meg porcukorral."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • 1 perc","Hűtés • 1 óra","Sütő • 180 °C • 10 perc"],note:"Jól záródó dobozban több napig eltartható."
+},
+"catalog-264":{
+ title:"Speculoos",cat:"Desszertek / Aprósütemények",servings:"40 db",total:"2 óra 23 perc",accessories:["kneading"],
+ ingredients:[["250 g","liszt"],["175 g","puha vaj"],["175 g","barna kandiscukor (vergeoise)"],["1 db","tojás"],["1 tk","sütőpor"],["1 ek","fahéj"],["½ ek","őrölt gyömbér"],["","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az összes hozzávalót, majd keverd 8-as sebességen 2 perc 30 másodpercig. Gyűjtsd össze a tésztát, formázz rudat, és csomagold fóliába. Pihentesd 2 órán át hűtőben.",
+  "Melegítsd elő a sütőt 160 °C-ra, és bélelj ki egy tepsit sütőpapírral.",
+  "A tészta felét nyújtsd ki sodrófával, vágd kis négyzetekre, és helyezd a tepsire egymástól kellő távolságra, mert sütés közben terülnek. Süsd 15 percig.",
+  "Sütés után a speculoos még puha, kihűlve megszilárdul. Ismételd meg a műveletet a maradék tésztával."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • 2 perc 30 mp","Hűtés • 2 óra","Sütő • 160 °C • 15 perc"],note:"A fahéj felét nég fűszer-keverékkel is helyettesítheted."
+},
+"catalog-265":{
+ title:"Csokoládé-gesztenyetrüffel",cat:"Desszertek / Aprósütemények",servings:"50 db",total:"2 óra 20 perc",accessories:["kneading"],
+ ingredients:[["200 g","étcsokoládé"],["100 g","félsós vaj"],["300 g","gesztenyekrém"],["40 g","kakaópor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A csokoládét törd darabokra, és a vajjal együtt tedd a dagasztó-/aprítókéses edénybe. Melegítsd 3-as sebességen, 45 °C-on 10 percig.",
+  "Add hozzá a gesztenyekrémet, és keverd 10-es sebességen 30 másodpercig.",
+  "Öntsd a masszát szilikon kenyérformába, és legalább 2 órára tedd hűtőbe.",
+  "Kis kanállal vegyél a masszából, forgasd meg kakaóporban, majd a tenyered között formálj golyót. Tartsd hűtőben."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 45 °C • 10 perc","10-es sebesség • 30 mp","Hűtés • legalább 2 óra"],note:"A kakaó helyett reszelt kókusz vagy kekszmorzsa is használható."
+},
+"catalog-266":{
+ title:"Egyszerű csokoládétrüffel",cat:"Desszertek / Aprósütemények",servings:"4–6 fő",total:"1 óra 20 perc",accessories:["kneading"],
+ ingredients:[["200 g","étcsokoládé"],["100 g","félsós vaj"],["15 g","porcukor"],["80 g","kakaópor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a vajat és a darabokra tört csokoládét. Melegítsd 3-as sebességen, 45 °C-on 10 percig. Add hozzá a porcukrot, és keverd 8-as sebességen 20 másodpercig.",
+  "Tedd a masszát egy tálba, fedd le fóliával, és legalább 1 órára tedd hűtőbe.",
+  "A kakaóport tedd tányérba. Kiskanállal vegyél a masszából, formázz golyót a kezeid között, majd forgasd meg kakaóban. Ismételd, amíg elfogy a massza."
+ ],program:["Dagasztó-/aprítókés • 3-as sebesség • 45 °C • 10 perc","8-as sebesség • 20 mp","Hűtés • legalább 1 óra"],note:"2 teáskanál alkoholt is adhatsz a masszához. A trüffelek néhány napig jól tárolhatók hűtőben."
+},
+"catalog-267":{
+ title:"Málnás fagyasztott joghurt",cat:"Desszertek / Fagylalt és sorbet",servings:"2 fő",total:"3 perc",accessories:["kneading"],
+ ingredients:[["300 g","fagyasztott málna"],["450 g","görög joghurt"],["2 ek","folyékony méz"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a fagyasztott málnát. Add hozzá a görög joghurtot és a mézet.",
+  "Aprítsd 12-es sebességen 1 percig.",
+  "Vedd ki a tartozékot, és azonnal tálald."
+ ],program:["Dagasztó-/aprítókés • 12-es sebesség • 1 perc"],note:"Más fagyasztott gyümölcsökkel is készíthető. Nem tárolható, azonnal fogyaszd el."
+},
+"catalog-268":{
+ title:"Ricottás fagylalt",cat:"Desszertek / Fagylalt és sorbet",servings:"6–8 fő",total:"6 óra 18 perc",accessories:["beater","kneading"],
+ ingredients:[["400 g","ricotta"],["10 cl","citromlé"],["25 cl","habtejszín"],["75 g","porcukor"],["1 db","tojásfehérje"]],
+ stepAccessories:["beater","kneading"],
+ steps:[
+  "A habverővel felszerelt edénybe tedd a ricottát, a citromlevet, a tejszínt és a porcukrot. Keverd 6-os sebességen 1 percig.",
+  "Öntsd a masszát jégkockatartókba, és fagyaszd 6 órán át.",
+  "Amikor a jégkockák teljesen kemények, mérj ki 300 g-ot, és tedd a nagyon hideg, dagasztó-/aprítókéses edénybe. Pulse fokozaton aprítsd 1 perc 30 másodpercig.",
+  "Kapard le az edény és a fedél falát, add hozzá a tojásfehérjét, majd keverd 12-es sebességen 30 másodpercig.",
+  "Azonnal fogyaszd el."
+ ],program:["Habverő • 6-os sebesség • 1 perc","Fagyasztás • 6 óra","Pulse • 1 perc 30 mp","12-es sebesség • 30 mp"],note:"Friss málnával is tálalható. Bluetooth- vagy Wi-Fi-kapcsolatú gépnél a Pulse helyett 13-as sebesség használható."
+},
+"catalog-269":{
+ title:"Piros gyümölcsös sorbet",cat:"Desszertek / Fagylalt és sorbet",servings:"10 fő",total:"6 óra 08 perc",accessories:["kneading"],
+ ingredients:[["600 g","piros bogyós gyümölcs"],["4 ek","porcukor"],["2 db","tojásfehérje"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A gyümölcsöket mosd meg és vágd fel, majd tedd fagyasztóba alkalmas edénybe.",
+  "Fagyaszd 6 órán át. Amikor a gyümölcs teljesen megkeményedett, tedd a nagyon hideg, dagasztó-/aprítókéses edénybe.",
+  "Aprítsd Pulse fokozaton 1 perc 30 másodpercig, vagy i-Companion esetén 13-as sebességen.",
+  "Kapard le az edény és a fedél falát, add hozzá a porcukrot és a tojásfehérjét, majd keverd 12-es sebességen 30 másodpercig.",
+  "Húzd vissza a masszát az edény aljára, és indítsd újra 12-es sebességen 30 másodpercig.",
+  "Ismételd meg az előző lépést még egyszer.",
+  "Azonnal fogyaszd el."
+ ],program:["Pulse • 1 perc 30 mp","12-es sebesség • 30 mp + 30 mp + 30 mp","Fagyasztás • 6 óra"],note:"Mentát vagy bazsalikomot is adhatsz hozzá. A sorbetet a turmixolás után azonnal el kell fogyasztani, nem fagyasztható vissza. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
+},
+
 };
