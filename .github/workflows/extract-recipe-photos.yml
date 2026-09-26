@@ -79,7 +79,7 @@ jobs:
                   raise SystemExit(f"Duplicate title key: {r['title']}")
               mp[k]='source/'+os.path.basename(r['file'])
           with open('recipe-image-map.js','w',encoding='utf-8') as f:
-              f.write('window.CompanionRecipeImageMap='+json.dumps(mp,ensure_ascii=False,indent=2)+';\\n')
+              f.write('window.CompanionRecipeImageMap='+json.dumps(mp,ensure_ascii=False,indent=2)+';\n')
           print('Extracted',len(rows),'photos')
           PY
 
