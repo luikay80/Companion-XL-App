@@ -16649,7 +16649,7 @@ window.CompanionRecipeTranslations={
     "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
   },
   "catalog-266": {
-    "title": "Őszibarackkompót",
+    "title": "Alma-fahéj kompót",
     "cat": "Desszertek / Kompót, lekvár, krém",
     "servings": "4 fő",
     "total": "30 perc",
@@ -16659,491 +16659,519 @@ window.CompanionRecipeTranslations={
     "ingredients": [
       [
         "800 g",
-        "őszibarack"
+        "alma"
       ],
       [
         "10 cl",
         "víz"
       ],
       [
-        "1 ek",
-        "citromlé"
-      ],
-      [
         "50 g",
         "cukor"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "1 tk",
+        "őrölt fahéj"
       ]
     ],
     "stepAccessories": [
       "mixer"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Az almákat pucold meg, vágd negyedekre, távolítsd el a magházukat, majd vágd darabokra.",
+      "Tedd az almát, a vizet, a cukrot és a fahéjat a keverőlapáttal felszerelt edénybe.",
+      "Indítsd el a Lassú főzés P1 programot 100 °C-on 20 percre.",
+      "A főzés végén tálald melegen, vagy hagyd kihűlni és fogyaszd hidegen."
     ],
     "program": [
       "Lassú főzés P1 • 100 °C • 20 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "Az alma részben körtével is helyettesíthető."
   },
   "catalog-267": {
-    "title": "Őszibarackkompót",
+    "title": "Piros gyümölcsös lekvár",
     "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "servings": "4–6 fő",
+    "total": "45 perc",
     "accessories": [
+      "ultrablade",
       "mixer"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "500 g",
+        "piros bogyós gyümölcs"
       ],
       [
-        "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
+        "250 g",
         "cukor"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "1 db",
+        "citrom leve"
+      ],
+      [
+        "1 csomag",
+        "pektin (opcionális)"
       ]
     ],
     "stepAccessories": [
+      "ultrablade",
       "mixer"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A gyümölcsöket mosd meg, szükség szerint tisztítsd meg és darabold fel.",
+      "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket, a cukrot és a citromlevet, majd aprítsd 12-es sebességen 10 másodpercig.",
+      "Cseréld le a kést keverőlapátra, és indítsd el a Lassú főzés P1 programot 100 °C-on 35 percre.",
+      "Ha sűrűbb lekvárt szeretnél, a főzés végén add hozzá a pektint a gyártó útmutatója szerint, majd keverd össze. Töltsd sterilizált üvegekbe."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 12-es sebesség • 10 mp",
+      "Lassú főzés P1 • 100 °C • 35 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A forrás receptje hosszú tároláshoz sterilizált üvegeket javasol."
   },
   "catalog-268": {
-    "title": "Őszibarackkompót",
+    "title": "Körtés zselé",
     "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "servings": "4–6 fő",
+    "total": "1 óra",
     "accessories": [
+      "ultrablade",
       "mixer"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "1 kg",
+        "körte"
       ],
       [
-        "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
+        "500 g",
         "cukor"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "1 db",
+        "citrom leve"
+      ],
+      [
+        "1 tasak",
+        "pektin"
       ]
     ],
     "stepAccessories": [
+      "ultrablade",
       "mixer"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A körtét pucold meg, távolítsd el a magházát, majd vágd darabokra.",
+      "Az Ultrablade késsel felszerelt edénybe tedd a körtét, és aprítsd 12-es sebességen 20 másodpercig.",
+      "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá a cukrot és a citromlevet, majd indítsd el a Lassú főzés P2 programot 100 °C-on 45 percre.",
+      "A főzés végén add hozzá a pektint a csomagolás utasítása szerint. Töltsd sterilizált üvegekbe, és hagyd kihűlni."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 12-es sebesség • 20 mp",
+      "Lassú főzés P2 • 100 °C • 45 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A zselét pirítóssal vagy sajtok mellé is tálalhatod."
   },
   "catalog-269": {
-    "title": "Őszibarackkompót",
+    "title": "Aszalt gyümölcsös müzli",
     "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "servings": "8 fő",
+    "total": "20 perc",
     "accessories": [
-      "mixer"
+      "ultrablade"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "300 g",
+        "zabpehely"
       ],
       [
-        "10 cl",
-        "víz"
+        "100 g",
+        "diófélék"
       ],
       [
-        "1 ek",
-        "citromlé"
+        "100 g",
+        "aszalt gyümölcs"
       ],
       [
         "50 g",
-        "cukor"
+        "méz"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "1 tk",
+        "fahéj"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "ultrablade"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A dióféléket az Ultrablade késsel felszerelt edényben aprítsd 10-es sebességen 20 másodpercig. Tedd félre.",
+      "Az aszalt gyümölcsöket vágd kisebb darabokra.",
+      "Keverd össze a zabpelyhet, a dióféléket, az aszalt gyümölcsöt, a mézet és a fahéjat. Szárítsd 150 °C-os sütőben körülbelül 10–15 percig, közben többször keverd át.",
+      "Hagyd teljesen kihűlni, majd légmentesen záródó dobozban tárold."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 10-es sebesség • 20 mp",
+      "Sütő • 150 °C • 10–15 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A recept szerint a hozzávalók szabadon variálhatók."
   },
   "catalog-270": {
-    "title": "Őszibarackkompót",
+    "title": "Mogyorós csokoládékrém",
     "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "servings": "4–6 fő",
+    "total": "25 perc",
     "accessories": [
+      "ultrablade",
       "mixer"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "150 g",
+        "mogyoró"
       ],
       [
-        "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
+        "100 g",
         "cukor"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "100 g",
+        "tejcsokoládé"
+      ],
+      [
+        "100 g",
+        "étcsokoládé"
+      ],
+      [
+        "15 cl",
+        "tej"
+      ],
+      [
+        "50 g",
+        "vaj"
       ]
     ],
     "stepAccessories": [
+      "ultrablade",
       "mixer"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A mogyorót az Ultrablade késsel felszerelt edényben aprítsd 12-es sebességen 30 másodpercig.",
+      "Cseréld le a kést keverőlapátra. Add hozzá a cukrot, a csokoládékat, a tejet és a vajat. Indítsd el a Dessert programot 70 °C-on 15 percre.",
+      "A program végén keverd 7-es sebességen 1 percig, hogy sima krémet kapj. Töltsd üvegbe, és hagyd kihűlni."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 12-es sebesség • 30 mp",
+      "Desszert • 70 °C • 15 perc",
+      "7-es sebesség • 1 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "Bluetooth-kapcsolatú Companion esetén a DESSERT program helyett a recept kézi beállításokkal is elkészíthető."
   },
   "catalog-271": {
-    "title": "Őszibarackkompót",
+    "title": "Csokoládés mogyorókrém",
     "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "servings": "4–6 fő",
+    "total": "25 perc",
     "accessories": [
+      "ultrablade",
       "mixer"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "100 g",
+        "törökmogyoró"
       ],
       [
-        "10 cl",
-        "víz"
+        "100 g",
+        "étcsokoládé"
       ],
       [
-        "1 ek",
-        "citromlé"
+        "100 g",
+        "tejcsokoládé"
+      ],
+      [
+        "150 ml",
+        "tej"
+      ],
+      [
+        "50 g",
+        "vaj"
       ],
       [
         "50 g",
         "cukor"
-      ],
-      [
-        "1 csipet",
-        "vanília"
       ]
     ],
     "stepAccessories": [
+      "ultrablade",
       "mixer"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A mogyorót az Ultrablade késsel aprítsd 12-es sebességen 30 másodpercig.",
+      "Cseréld le a kést keverőlapátra, add hozzá a csokoládékat, a tejet, a vajat és a cukrot, majd melegítsd 70 °C-on 15 percig.",
+      "A főzés végén keverd 7-es sebességen 1 percig. Töltsd üvegbe, és hagyd kihűlni."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 12-es sebesség • 30 mp",
+      "70 °C • 15 perc",
+      "7-es sebesség • 1 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A forrás csokoládé- és mogyorókrémként, kenyérre kenve javasolja."
   },
   "catalog-272": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
+    "title": "Forró csokoládé",
+    "cat": "Italok",
     "servings": "4 fő",
-    "total": "30 perc",
+    "total": "10 perc",
     "accessories": [
-      "mixer"
+      "beater"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "50 cl",
+        "tej"
       ],
       [
-        "10 cl",
-        "víz"
+        "100 g",
+        "étcsokoládé"
       ],
       [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
+        "20 g",
         "cukor"
       ],
       [
         "1 csipet",
-        "vanília"
+        "fahéj"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "beater"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A habverővel felszerelt edénybe tedd a tejet és a darabokra tört csokoládét.",
+      "Indítsd el 5-ös sebességen, 80 °C-on 8 percre.",
+      "Add hozzá a cukrot és a fahéjat, majd keverd 6-os sebességen 30 másodpercig. Azonnal tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Habverő • 5-ös sebesség • 80 °C • 8 perc",
+      "6-os sebesség • 30 mp"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "Tejszínhabbal vagy kevés kakaóporral is tálalható."
   },
   "catalog-273": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Mangós smoothie",
+    "cat": "Italok",
+    "servings": "2 fő",
+    "total": "3 perc",
     "accessories": [
-      "mixer"
+      "ultrablade"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "1 db",
+        "érett mangó"
+      ],
+      [
+        "1 db",
+        "banán"
+      ],
+      [
+        "20 cl",
+        "narancslé"
       ],
       [
         "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
-        "cukor"
-      ],
-      [
-        "1 csipet",
-        "vanília"
+        "natúr joghurt"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "ultrablade"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A mangót és a banánt pucold meg, majd vágd darabokra.",
+      "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket, a narancslevet és a joghurtot.",
+      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 12-es sebesség • 1 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A forrás szerint jégkockával is frissítőbbé tehető."
   },
   "catalog-274": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Avokádós-kiwis smoothie",
+    "cat": "Italok",
+    "servings": "2 fő",
+    "total": "3 perc",
     "accessories": [
-      "mixer"
+      "ultrablade"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "2 db",
+        "kiwi"
+      ],
+      [
+        "1 db",
+        "avokádó"
+      ],
+      [
+        "20 cl",
+        "almalé"
       ],
       [
         "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
-        "cukor"
-      ],
-      [
-        "1 csipet",
-        "vanília"
+        "natúr joghurt"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "ultrablade"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Pucold meg a kiwit és az avokádót, majd vágd darabokra.",
+      "Tedd az Ultrablade késsel felszerelt edénybe az almalevet és a joghurtot is.",
+      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Ultrablade • 12-es sebesség • 1 perc"
+    ]
   },
   "catalog-275": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Banános-kókusztejes smoothie",
+    "cat": "Italok",
+    "servings": "2 fő",
+    "total": "3 perc",
     "accessories": [
-      "mixer"
+      "ultrablade"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "2 db",
+        "banán"
+      ],
+      [
+        "25 cl",
+        "kókusztej"
       ],
       [
         "10 cl",
-        "víz"
+        "tej"
       ],
       [
         "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
-        "cukor"
-      ],
-      [
-        "1 csipet",
-        "vanília"
+        "méz"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "ultrablade"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A banánt pucold meg és vágd darabokra.",
+      "Az Ultrablade késsel felszerelt edénybe tedd a banánt, a kókusztejet, a tejet és a mézet.",
+      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Ultrablade • 12-es sebesség • 1 perc"
+    ]
   },
   "catalog-276": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
+    "title": "Céklás-répás-áfonyás smoothie zabkeksszel",
+    "cat": "Italok",
     "servings": "4 fő",
     "total": "30 perc",
     "accessories": [
-      "mixer"
+      "ultrablade",
+      "kneading"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "1 db",
+        "főtt cékla"
       ],
       [
-        "10 cl",
-        "víz"
+        "2 db",
+        "sárgarépa"
       ],
       [
-        "1 ek",
-        "citromlé"
+        "125 g",
+        "áfonya"
+      ],
+      [
+        "20 cl",
+        "almalé"
+      ],
+      [
+        "1 db",
+        "narancs"
+      ],
+      [
+        "Keksz",
+        "100 g zabpehely"
       ],
       [
         "50 g",
-        "cukor"
+        "liszt"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "40 g",
+        "vaj"
+      ],
+      [
+        "30 g",
+        "méz"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "ultrablade",
+      "kneading"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A céklát és a répát darabold fel, a narancsot pucold meg.",
+      "Az Ultrablade késsel felszerelt edénybe tedd a zöldségeket, az áfonyát, az almalevet és a narancsot, majd turmixold 12-es sebességen 1 percig.",
+      "A kekszhez a dagasztó-/aprítókéses edénybe tedd a zabpelyhet, a lisztet, a vajat és a mézet, majd keverd 8-as sebességen 1 percig. Formázz kis kekszeket, és süsd 180 °C-on 12–15 percig.",
+      "A smoothie-t a kekszekkel tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Ultrablade • 12-es sebesség • 1 perc",
+      "Dagasztó-/aprítókés • 8-as sebesség • 1 perc",
+      "Sütő • 180 °C • 12–15 perc"
+    ]
   },
   "catalog-277": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
+    "title": "Marhahúsgolyók",
+    "cat": "Gyerekreceptek",
     "servings": "4 fő",
-    "total": "30 perc",
+    "total": "31 perc",
     "accessories": [
+      "ultrablade",
       "mixer"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "400 g",
+        "darált marhahús"
+      ],
+      [
+        "1 db",
+        "hagyma"
+      ],
+      [
+        "1 gerezd",
+        "fokhagyma"
+      ],
+      [
+        "1 db",
+        "tojás"
+      ],
+      [
+        "50 g",
+        "zsemlemorzsa"
+      ],
+      [
+        "200 g",
+        "paradicsompép"
       ],
       [
         "10 cl",
@@ -17151,206 +17179,264 @@ window.CompanionRecipeTranslations={
       ],
       [
         "1 ek",
-        "citromlé"
+        "olívaolaj"
       ],
       [
-        "50 g",
-        "cukor"
+        "",
+        "só"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "",
+        "bors"
       ]
     ],
     "stepAccessories": [
+      "ultrablade",
       "mixer"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Pucold meg a hagymát és a fokhagymát. Az Ultrablade késsel felszerelt edényben aprítsd 11-es sebességen 10 másodpercig.",
+      "Add hozzá a darált húst, a tojást és a zsemlemorzsát, majd keverd össze. Formázz kis húsgolyókat.",
+      "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olajat és a húsgolyókat, majd pirítsd 130 °C-on 5 percig.",
+      "Add hozzá a paradicsompépet és a vizet, majd indítsd el a Lassú főzés P2 programot 95 °C-on 15 percre. Azonnal tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Ultrablade • 11-es sebesség • 10 mp",
+      "Lassú főzés P1 • 130 °C • 5 perc",
+      "Lassú főzés P2 • 95 °C • 15 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "Gyerekeknek kisebb húsgolyókat formázz."
   },
   "catalog-278": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Sós karamelles sütemény",
+    "cat": "Gyerekreceptek",
+    "servings": "6 fő",
+    "total": "55 perc",
     "accessories": [
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "150 g",
+        "liszt"
+      ],
+      [
+        "100 g",
+        "vaj"
+      ],
+      [
+        "100 g",
+        "barna cukor"
+      ],
+      [
+        "2 db",
+        "tojás"
       ],
       [
         "10 cl",
-        "víz"
+        "tej"
       ],
       [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
-        "cukor"
+        "1 csomag",
+        "sütőpor"
       ],
       [
         "1 csipet",
-        "vanília"
+        "só"
+      ],
+      [
+        "100 g",
+        "sós karamell"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Melegítsd elő a sütőt 180 °C-ra.",
+      "A dagasztó-/aprítókéses edénybe tedd a lisztet, a sütőport, a cukrot, a vajat, a tojásokat, a tejet és a sót. Indítsd el a Tészta (Pastry) P3 programot.",
+      "A sós karamellt vágd kisebb darabokra, majd a program végén add a tésztához, és keverd 6-os sebességen 20 másodpercig.",
+      "Öntsd a masszát kenyérformába, és süsd körülbelül 35–40 percig. Hagyd kihűlni."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Tészta P3",
+      "6-os sebesség • 20 mp",
+      "Sütő • 180 °C • 35–40 perc"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A karamell helyett csokoládédarabokkal is készíthető."
   },
   "catalog-279": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Lazacrillettes choux-ban",
+    "cat": "Gyerekreceptek",
+    "servings": "6 fő",
+    "total": "1 óra 02 perc",
     "accessories": [
-      "mixer"
+      "kneading",
+      "ultrablade"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "60 g",
+        "tej"
       ],
       [
-        "10 cl",
+        "40 g",
         "víz"
+      ],
+      [
+        "30 g",
+        "vaj"
+      ],
+      [
+        "75 g",
+        "liszt"
+      ],
+      [
+        "2 db",
+        "tojás"
+      ],
+      [
+        "200 g",
+        "friss lazac"
+      ],
+      [
+        "100 g",
+        "kenhető friss sajt"
       ],
       [
         "1 ek",
         "citromlé"
       ],
       [
-        "50 g",
-        "cukor"
+        "1 ek",
+        "snidling"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "",
+        "só"
+      ],
+      [
+        "",
+        "bors"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "kneading",
+      "ultrablade"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A choux-hoz a dagasztó-/aprítókéses edénybe tedd a tejet, a vizet és a vajat, majd főzd 90 °C-on 8 percig.",
+      "Add hozzá a lisztet, és keverd 6-os sebességen 2 percig. Tedd a tésztát tálba.",
+      "Tedd vissza a tésztát az edénybe, add hozzá a tojásokat egyenként, és keverd 7-es sebességen 2 percig.",
+      "Habzsákkal nyomj kis choux-kat sütőpapíros tepsire, és süsd 180 °C-on 25–30 percig. Hagyd kihűlni.",
+      "A friss lazacot vágd darabokra. Az Ultrablade késsel aprítsd 10-es sebességen 20 másodpercig. Add hozzá a friss sajtot, a citromlevet és a snidlinget, sózd, borsozd, majd keverd 8-as sebességen 30 másodpercig.",
+      "Vágd be a choux-kat, és töltsd meg lazacrilett-tel."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Dagasztó-/aprítókés • 90 °C • 8 perc",
+      "6-os sebesség • 2 perc",
+      "7-es sebesség • 2 perc",
+      "Sütő • 180 °C • 25–30 perc",
+      "Ultrablade • 10-es sebesség • 20 mp",
+      "8-as sebesség • 30 mp"
+    ]
   },
   "catalog-280": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Csokoládés cookie",
+    "cat": "Gyerekreceptek",
+    "servings": "8–10 fő",
+    "total": "35 perc",
     "accessories": [
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "150 g",
+        "liszt"
       ],
       [
-        "10 cl",
-        "víz"
+        "100 g",
+        "vaj"
       ],
       [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
+        "100 g",
         "cukor"
       ],
       [
-        "1 csipet",
+        "1 db",
+        "tojás"
+      ],
+      [
+        "100 g",
+        "csokoládépasztilla"
+      ],
+      [
+        "½ csomag",
+        "sütőpor"
+      ],
+      [
+        "1 tk",
         "vanília"
+      ],
+      [
+        "1 csipet",
+        "só"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Melegítsd elő a sütőt 180 °C-ra.",
+      "A dagasztó-/aprítókéses robotba tedd a vajat, a cukrot és a tojást, majd keverd 6-os sebességen 1 percig.",
+      "Add hozzá a lisztet, a sütőport, a vaníliát és a sót, majd keverd 8-as sebességen 1 percig.",
+      "Add hozzá a csokoládépasztillákat, és keverd 6-os sebességen 20 másodpercig.",
+      "Formázz kis golyókat, tedd sütőpapíros tepsire, kissé lapítsd el, és süsd 10–12 percig."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Dagasztó-/aprítókés • 6-os sebesség • 1 perc",
+      "8-as sebesség • 1 perc",
+      "6-os sebesség • 20 mp",
+      "Sütő • 180 °C • 10–12 perc"
+    ]
   },
   "catalog-281": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Banános-vaníliás turmix",
+    "cat": "Gyerekreceptek",
+    "servings": "2 fő",
+    "total": "3 perc",
     "accessories": [
-      "mixer"
+      "ultrablade"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "2 db",
+        "banán"
       ],
       [
-        "10 cl",
-        "víz"
+        "30 cl",
+        "tej"
+      ],
+      [
+        "1 tk",
+        "vanília"
       ],
       [
         "1 ek",
-        "citromlé"
-      ],
-      [
-        "50 g",
-        "cukor"
-      ],
-      [
-        "1 csipet",
-        "vanília"
+        "méz"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "ultrablade"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "A banánt pucold meg és vágd darabokra.",
+      "Tedd az Ultrablade késsel felszerelt edénybe a banánt, a tejet, a vaníliát és a mézet.",
+      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Ultrablade • 12-es sebesség • 1 perc"
+    ]
   },
   "catalog-282": {
     "title": "Csokoládémousse",
@@ -17407,48 +17493,69 @@ window.CompanionRecipeTranslations={
     "note": "Nyers tojást tartalmaz, ezért rövid ideig tárold. A forrás javaslata szerint a kész mousse-t rögtön adagold poharakba a hűtés előtt."
   },
   "catalog-283": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4 fő",
-    "total": "30 perc",
+    "title": "Zöldséges muffin",
+    "cat": "Gyerekreceptek",
+    "servings": "6 fő",
+    "total": "45 perc",
     "accessories": [
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "150 g",
+        "cukkini"
+      ],
+      [
+        "100 g",
+        "sárgarépa"
+      ],
+      [
+        "2 db",
+        "tojás"
+      ],
+      [
+        "150 g",
+        "liszt"
       ],
       [
         "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "citromlé"
+        "tej"
       ],
       [
         "50 g",
-        "cukor"
+        "reszelt sajt"
       ],
       [
-        "1 csipet",
-        "vanília"
+        "1 csomag",
+        "sütőpor"
+      ],
+      [
+        "2 ek",
+        "olívaolaj"
+      ],
+      [
+        "",
+        "só"
+      ],
+      [
+        "",
+        "bors"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Melegítsd elő a sütőt 180 °C-ra. A cukkinit és a répát reszeld le.",
+      "A dagasztó-/aprítókéses edénybe tedd a tojásokat, a lisztet, a tejet, az olívaolajat és a sütőport, majd indítsd el a Tészta P3 programot.",
+      "Add hozzá a reszelt zöldségeket és a sajtot, sózd, borsozd, majd keverd 6-os sebességen 30 másodpercig.",
+      "Oszd el muffinformákba, és süsd 25 percig."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
-    ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+      "Tészta P3",
+      "6-os sebesség • 30 mp",
+      "Sütő • 180 °C • 25 perc"
+    ]
   },
   "catalog-284": {
     "title": "Gabonás csirkefalatok",
