@@ -1,4 +1,4 @@
-const CACHE='companion-xl-v4';
+const CACHE='companion-xl-v5';
 const CORE=['./','./index.html','./app-v2.js','./manifest.webmanifest'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
