@@ -1,4 +1,4 @@
-name: Extract recipe photos
+name: Extract recipe photos # extractor-v2
 
 on:
   push:
