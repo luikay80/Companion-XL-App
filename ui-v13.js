@@ -1,5 +1,5 @@
 (function(){
-const topCategory=c=>c.startsWith('Főételek /')?'Főételek':c.startsWith('Desszertek /')?'Desszertek':c;
+const topCategory=c=>c.startsWith('Főételek /')?'Főételek':c.startsWith('Desszertek /')?'Desszertek':c; window.topCategory=topCategory;
 const order=['Alapreceptek','Aperitifek','Előételek','Levesek','Főételek','Köretek','Kenyerek, briósok, sós sütemények','Szószok','Desszertek','Italok','Gyerekreceptek','Gluténmentes'];
 const imgs={Alapreceptek:'gougeres.jpg',Aperitifek:'guacamole.jpg',Előételek:'salmon.jpg',Levesek:'pumpkin.jpg',Főételek:'samosas.jpg',Köretek:'zucchini.jpg','Kenyerek, briósok, sós sütemények':'scones.jpg',Szószok:'houmous.jpg',Desszertek:'scones.jpg',Italok:'salmon.jpg',Gyerekreceptek:'pumpkin.jpg',Gluténmentes:'zucchini.jpg'};
 function drawCategories(){
@@ -9,11 +9,10 @@ function drawCategories(){
  el.querySelectorAll('.category-card').forEach(card=>card.onclick=()=>showTop(card.dataset.cat));
 }
 function showTop(name){
- const list=recipes.filter(r=>topCategory(r.cat)===name);
- document.querySelector('#sub').textContent=list.length+' recept';
- document.querySelector('#grid').innerHTML=list.map(r=>'<article class="card" data-id="'+r.id+'"><div class="art">'+(r.image?'<img src="'+recipeImg(r)+'" alt="'+esc(r.title)+'">':'<div class="art-placeholder"><span>📖</span><small>Az eredeti recept fotója</small></div>')+'</div><div class="card-body"><button class="heart" data-heart="'+r.id+'">♡</button><h4>'+esc(r.title)+'</h4><div class="meta"><span>👥 '+esc(r.servings||'—')+'</span><span>⏱ '+esc(r.total||'—')+'</span></div></div></article>').join('');
- document.querySelectorAll('.card').forEach(c=>c.onclick=()=>openDetail(c.dataset.id));
- document.querySelector('#grid').scrollIntoView({behavior:'smooth'});
+ state.home=false;state.topCat=name;state.cat='Mind';
+ render();
+ const title=document.querySelector('#recipeSection h3');if(title)title.textContent=name;
+ document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'});
 }
 
 const translated={
@@ -32,8 +31,8 @@ Object.keys(translated).forEach(id=>{const r=recipes.find(x=>x.id===id);if(r)Obj
 
 drawCategories();
 document.querySelector('#allCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navHome')?.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
-document.querySelector('#navRecipes')?.addEventListener('click',()=>document.querySelector('#grid')?.scrollIntoView({behavior:'smooth'}));
+document.querySelector('#navHome')?.addEventListener('click',()=>{state.home=true;state.topCat=null;state.cat='Mind';state.q='';const q=document.querySelector('#q');if(q)q.value='';render();window.scrollTo({top:0,behavior:'smooth'})});
+document.querySelector('#navRecipes')?.addEventListener('click',()=>{if(state.home)document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth',block:'start'});else document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'});});
 document.querySelector('#navCats')?.addEventListener('click',()=>document.querySelector('#categoryGrid')?.scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navFav')?.addEventListener('click',()=>{state.cat='Kedvencek';render();document.querySelector('#grid')?.scrollIntoView({behavior:'smooth'})});
+document.querySelector('#navFav')?.addEventListener('click',()=>{state.home=false;state.topCat=null;state.cat='Kedvencek';render();const t=document.querySelector('#recipeSection h3');if(t)t.textContent='Kedvencek';document.querySelector('#recipeSection')?.scrollIntoView({behavior:'smooth',block:'start'})});
 })();
