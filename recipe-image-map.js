@@ -293,4 +293,4 @@ window.CompanionRecipeImageMap={
   "sables sans gluten": "source/photo-292.jpg",
   "lait de soja basilic parmesan": "source/photo-293.jpg",
   "et poivron rouge": "source/photo-294.jpg"
-};\n
+};
