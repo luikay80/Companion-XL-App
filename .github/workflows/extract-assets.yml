@@ -1,0 +1,44 @@
+name: Import Companion XL image assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  import-assets:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Import improved image package
+        run: |
+          set -euo pipefail
+          ZIP=""
+          for f in CompanionXL_assets_v3.zip CompanionXL_assets_v2.zip CompanionXL_original_assets.zip; do
+            if [ -f "$f" ]; then ZIP="$f"; break; fi
+          done
+          if [ -z "$ZIP" ]; then
+            echo "No image package found."
+            exit 0
+          fi
+          unzip -o "$ZIP" -d .
+          rm -f "$ZIP"
+          echo "Imported images:"
+          find assets -type f | sort
+
+      - name: Commit imported assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets CompanionXL_assets_v*.zip CompanionXL_original_assets.zip 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No asset changes."
+          else
+            git commit -m "Update Companion XL recipe and accessory images"
+            git push
+          fi
