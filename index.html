@@ -14,4 +14,89 @@
   }
  }catch(e){}
 })();
-</script></head><body data-page="home"><div class="app"><header class="top"><div class="brand"><div class="logo">C+</div><div><h1>Companion XL</h1><span>magyar receptapp • eredeti fotókkal</span></div></div><div class="search-wrap"><div class="search"><input id="q" autocomplete="off" placeholder="Keresés receptre vagy hozzávalóra…"><button id="random" type="button">🎲</button></div><div id="liveResults" class="live-results"></div></div></header><main><section class="hero"><h2>Főzzünk Companionnal.</h2><p>Eredeti receptfotók, magyar leírások és a recepthez szükséges Companion tartozékok egy helyen.</p><div class="hero-actions"><button class="pill light" id="goFav">❤️ Kedvencek</button><button class="pill ghost" id="today">🎲 Mit főzzek ma?</button></div></section><div class="section-title"><h3>Receptkategóriák</h3><button class="all-link" id="allCats">Összes kategória ›</button></div><div class="category-grid" id="categoryGrid"></div><div class="chips" id="chips" style="display:none"></div><div class="section-title"><h3>Companion tartozékok</h3><small>6 fő tartozék</small></div><div class="accessories" id="accessories"></div></main><nav class="bottom-nav"><button id="navHome" class="active"><b>⌂</b>Kezdőlap</button><button id="navRecipes"><b>▤</b>Receptek</button><button id="navCats" type="button"><b>▦</b>Kategóriák</button><button id="navFav"><b>♡</b>Kedvencek</button><button id="navSettings"><b>⚙</b>Beállítások</button></nav></div><div class="detail" id="detail"><div class="sheet"><div class="sheet-head"><b>Recept</b><button class="close" id="close">✕</button></div><div id="detailBody"></div></div></div><div class="cook" id="cook"><div class="cook-top"><b id="cookTitle">Főzési mód</b><button class="close" id="cookClose">✕</button></div><div class="cook-content"><div class="cook-card"><div class="cook-step" id="cookStepNo"></div><h2 id="cookStepTitle"></h2><p id="cookStepText"></p><div class="cook-accessory" id="cookAccessory"></div><div class="progress"><span id="bar"></span></div><div class="cook-actions"><button class="back" id="prev">Előző</button><button class="next" id="next">Következő</button></div></div></div></div><script src="catalog.js"></script><script src="app-v2.js?v=31"></script><script src="ui-v13.js?v=16"></script><script src="live-search.js?v=1"></script></body></html>
+</script></head><body data-page="home"><div class="app"><header class="top"><div class="brand"><div class="logo">C+</div><div><h1>Companion XL</h1><span>magyar receptapp • eredeti fotókkal</span></div></div><div class="search-wrap"><div class="search"><input id="q" autocomplete="off" placeholder="Keresés receptre vagy hozzávalóra…"><button id="random" type="button">🎲</button></div><div id="liveResults" class="live-results"></div></div></header><main><section class="hero"><h2>Főzzünk Companionnal.</h2><p>Eredeti receptfotók, magyar leírások és a recepthez szükséges Companion tartozékok egy helyen.</p><div class="hero-actions"><button class="pill light" id="goFav">❤️ Kedvencek</button><button class="pill ghost" id="today">🎲 Mit főzzek ma?</button></div></section><div class="section-title"><h3>Receptkategóriák</h3><button class="all-link" id="allCats">Összes kategória ›</button></div><div class="category-grid" id="categoryGrid"></div><div class="chips" id="chips" style="display:none"></div><div class="section-title"><h3>Companion tartozékok</h3><small>6 fő tartozék</small></div><div class="accessories" id="accessories"></div></main><nav class="bottom-nav"><button id="navHome" class="active"><b>⌂</b>Kezdőlap</button><button id="navRecipes"><b>▤</b>Receptek</button><button id="navCats" type="button"><b>▦</b>Kategóriák</button><button id="navFav"><b>♡</b>Kedvencek</button><button id="navSettings"><b>⚙</b>Beállítások</button></nav></div><div class="detail" id="detail"><div class="sheet"><div class="sheet-head"><b>Recept</b><button class="close" id="close">✕</button></div><div id="detailBody"></div></div></div><div class="cook" id="cook"><div class="cook-top"><b id="cookTitle">Főzési mód</b><button class="close" id="cookClose">✕</button></div><div class="cook-content"><div class="cook-card"><div class="cook-step" id="cookStepNo"></div><h2 id="cookStepTitle"></h2><p id="cookStepText"></p><div class="cook-accessory" id="cookAccessory"></div><div class="progress"><span id="bar"></span></div><div class="cook-actions"><button class="back" id="prev">Előző</button><button class="next" id="next">Következő</button></div></div></div></div><script src="catalog.js"></script><script src="app-v2.js?v=32"></script><script src="ui-v13.js?v=17"></script><script>
+(function(){
+  function initLiveSearch(){
+    var input=document.getElementById('q');
+    var box=document.getElementById('liveResults');
+    if(!input||!box){return;}
+
+    var source=window.CompanionRecipes||[];
+    function norm(value){
+      return String(value==null?'':value)
+        .normalize('NFD')
+        .replace(/[\\u0300-\\u036f]/g,'')
+        .toLowerCase();
+    }
+    function escapeHtml(value){
+      return String(value==null?'':value).replace(/[&<>"']/g,function(ch){
+        return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch];
+      });
+    }
+    function searchable(recipe){
+      var parts=[recipe.title||'',recipe.cat||''];
+      (recipe.ingredients||[]).forEach(function(x){
+        if(Array.isArray(x)){parts.push(x.join(' '));}
+        else{parts.push(String(x));}
+      });
+      (recipe.steps||[]).forEach(function(x){parts.push(String(x));});
+      return norm(parts.join(' '));
+    }
+    function render(){
+      var q=norm(input.value.trim());
+      if(!q){
+        box.innerHTML='';
+        box.classList.remove('show');
+        return;
+      }
+
+      var hits=source.filter(function(r){
+        return searchable(r).indexOf(q)!==-1;
+      }).slice(0,10);
+
+      if(!hits.length){
+        box.innerHTML='<div class="live-empty">Nincs találat.</div>';
+      }else{
+        box.innerHTML=hits.map(function(r){
+          var ingredients=(r.ingredients||[]).slice(0,3).map(function(x){
+            return Array.isArray(x)?x[1]:x;
+          }).join(', ');
+          return '<button class="live-item" type="button" data-id="'+escapeHtml(r.id)+'">'+
+            '<span class="live-thumb">'+
+              (r.image?'<img src="assets/recipes/'+escapeHtml(r.image)+'" alt="">':'<span>📖</span>')+
+            '</span>'+
+            '<span class="live-copy">'+
+              '<span class="live-title">'+escapeHtml(r.title)+'</span>'+
+              '<span class="live-meta">'+escapeHtml(r.cat||'')+
+                (ingredients?' · '+escapeHtml(ingredients):'')+
+              '</span>'+
+            '</span>'+
+          '</button>';
+        }).join('');
+      }
+
+      box.classList.add('show');
+
+      Array.prototype.forEach.call(box.querySelectorAll('.live-item'),function(item){
+        item.onclick=function(){
+          window.location.href='recipe.html?id='+encodeURIComponent(item.getAttribute('data-id'));
+        };
+      });
+    }
+
+    input.addEventListener('input',render);
+    input.addEventListener('focus',render);
+    document.addEventListener('click',function(e){
+      if(!e.target.closest('.search-wrap')){
+        box.classList.remove('show');
+      }
+    });
+  }
+
+  if(document.readyState==='loading'){
+    document.addEventListener('DOMContentLoaded',initLiveSearch);
+  }else{
+    initLiveSearch();
+  }
+})();
+</script></body></html>
