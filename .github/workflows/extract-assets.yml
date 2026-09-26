@@ -1,0 +1,124 @@
+name: Extract original Companion XL assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  extract-assets:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download original Moulinex PDF
+        run: |
+          python - <<'PY'
+          import urllib.request
+          url = "https://www.moulinex.fr/medias/Companion-XL-Landingpage-Recipebook-FR.pdf?context=bWFzdGVyfHJvb3R8NzYyNjgyMnxhcHBsaWNhdGlvbi9wZGZ8aDFkL2g5MC8xNDI3MTIwNTgzNDc4Mi5wZGZ8MmM0MDk1MjNiMzg5ZTE3ZTU5NmIzMjY1NDUwZDE5YmRlYjlkZWJlMzBlNDA3Y2QxZDI5ODk1MjM4ODk4NmUwZg"
+          urllib.request.urlretrieve(url, "Companion-XL-Landingpage-Recipebook-FR.pdf")
+          print("Downloaded original PDF")
+          PY
+
+      - name: Install PDF tooling
+        run: python -m pip install --disable-pip-version-check PyMuPDF
+
+      - name: Extract original recipe photos and accessory icons
+        run: |
+          python - <<'PY'
+          import fitz, os, shutil
+
+          PDF = "Companion-XL-Landingpage-Recipebook-FR.pdf"
+          out = "assets"
+          shutil.rmtree(out, ignore_errors=True)
+          os.makedirs(out + "/recipes", exist_ok=True)
+          os.makedirs(out + "/accessories", exist_ok=True)
+
+          doc = fitz.open(PDF)
+
+          # The four sample recipe spreads in the prototype:
+          # PDF pages 26–29 each contain two original recipe photographs.
+          recipe_pages = {
+              26: ["gougeres", "guacamole"],
+              27: ["houmous", "salmon"],
+              28: ["zucchini", "samosas"],
+              29: ["scones", "pumpkin"],
+          }
+
+          for page_no, names in recipe_pages.items():
+              page = doc[page_no - 1]
+              candidates = []
+              for info in page.get_image_info(xrefs=True):
+                  xref = info.get("xref", 0)
+                  bbox = info.get("bbox")
+                  if not xref or not bbox:
+                      continue
+                  w = bbox[2] - bbox[0]
+                  h = bbox[3] - bbox[1]
+                  if w > 250 and h > 150:
+                      candidates.append((bbox[0], bbox, xref))
+              candidates.sort(key=lambda x: x[0])
+              if len(candidates) != 2:
+                  raise RuntimeError(f"Expected 2 recipe images on page {page_no}, found {len(candidates)}")
+              for name, (_, bbox, xref) in zip(names, candidates):
+                  data = doc.extract_image(xref)
+                  ext = data.get("ext", "jpg")
+                  with open(f"{out}/recipes/{name}.{ext}", "wb") as f:
+                      f.write(data["image"])
+
+          # Original six accessory illustrations from PDF page 9 (printed page 11).
+          # Select the six small image objects by their positions.
+          page = doc[8]
+          targets = [
+              ("ultrablade", (600, 180, 710, 275)),
+              ("kneading",   (750, 180, 865, 275)),
+              ("beater",     (900, 180, 1035, 275)),
+              ("mixer",      (595, 325, 710, 440)),
+              ("steam",      (755, 335, 850, 430)),
+              ("fondxl",     (935, 345, 1000, 430)),
+          ]
+          infos = [i for i in page.get_image_info(xrefs=True) if i.get("xref")]
+          for name, region in targets:
+              rx1, ry1, rx2, ry2 = region
+              found = None
+              for info in infos:
+                  x1,y1,x2,y2 = info["bbox"]
+                  cx, cy = (x1+x2)/2, (y1+y2)/2
+                  if rx1 <= cx <= rx2 and ry1 <= cy <= ry2:
+                      found = info
+                      break
+              if not found:
+                  raise RuntimeError(f"Accessory not found: {name}")
+              data = doc.extract_image(found["xref"])
+              ext = data.get("ext", "jpg")
+              with open(f"{out}/accessories/{name}.{ext}", "wb") as f:
+                  f.write(data["image"])
+
+          print("Extracted assets:")
+          for root, _, fs in os.walk(out):
+              for fn in sorted(fs):
+                  p=os.path.join(root,fn)
+                  print(p, os.path.getsize(p))
+          PY
+
+      - name: Commit assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "No asset changes."
+          else
+            git commit -m "Add original Companion XL recipe photos and accessory icons"
+            git push
+          fi
