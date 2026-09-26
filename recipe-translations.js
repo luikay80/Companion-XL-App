@@ -2371,4 +2371,217 @@ window.CompanionRecipeTranslations={
  ],program:["Dagasztó-/aprítókés • 35 °C • 5-ös sebesség • 3 perc","Tészta P2","Kelesztés • 1 óra 30 perc","Sütő • 165 °C • 25 perc"],note:"A csokoládés mogyorókrém helyett mandulakrém vagy lekvár is használható."
 },
 
+
+"catalog-180":{
+ title:"Hamburgerbuci",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"2 óra 48 perc",accessories:["kneading"],
+ ingredients:[["7 cl","tej"],["6 cl","langyos víz"],["5 g","szárított sütőélesztő"],["1 db","felvert tojás"],["300 g","liszt"],["5 g","só"],["15 g","cukor"],["20 g","vaj"],["1 db","tojássárgája"],["40 g","szezámmag"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Egy tálban keverd el a 6 cl langyos vízben az élesztőt. Add hozzá a tejet és a felvert tojást.",
+  "A dagasztó-/aprítókéses edénybe tedd a lisztet, a sót, a cukrot és a vajat. Indítsd el a Tészta (Pastry) P1 programot 2 perc 30 másodpercre. 30 másodperc után add hozzá az élesztős folyadékot.",
+  "A dagasztás után hagyd a tésztát a program 40 perces kelesztése alatt kelni. Spatulával vedd ki, oszd 4–6 egyenlő részre. Formázz golyókat, tedd sütőpapíros tepsire, lapítsd őket tenyérrel, majd keleszd további 1 óra 30 percig.",
+  "Melegítsd elő a sütőt 180 °C-ra. Kend meg a bucikat tojássárgájával, szórd meg szezámmaggal, és süsd körülbelül 15–20 percig. Rácson hűtsd ki."
+ ],program:["Tészta P1 • 2 perc 30 mp","Kelesztés • 40 perc + 1 óra 30 perc","Sütő • 180 °C • 15–20 perc"],note:"Házi hamburgerekhez ideális."
+},
+"catalog-181":{
+ title:"Fügés-sonkás-diós sós kevert sütemény",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"1 óra",accessories:["kneading"],
+ ingredients:[["100 g","aszalt füge"],["120 g","nyers sonka"],["4 db","tojás"],["170 g","liszt"],["1 csomag","sütőpor (11 g)"],["5 cl","olívaolaj"],["10 cl","fehérbor"],["2 ek","dióbél"],["80 g","érlelt kecskesajt"],["3 csipet","fleur de sel"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A fügét és a sonkát vágd kis darabokra.",
+  "A dagasztó-/aprítókéses edénybe tedd a tojásokat, a lisztet, a sütőport, az olívaolajat, a fehérbort és a sót. Indítsd el a Tészta (Pastry) P3 programot.",
+  "Bélelj ki egy kenyérformát sütőpapírral. A program végén add hozzá a fügét, a sonkát, a diót és a kecskesajtot, majd keverd 6-os sebességen 30 másodpercig.",
+  "Öntsd a tésztát a formába, és süsd körülbelül 40 percig. Ha túlságosan barnulna, takard le alufóliával vagy sütőpapírral. Hagyd kihűlni, majd tálald."
+ ],program:["Tészta P3","6-os sebesség • 30 mp","Sütő • 180 °C • kb. 40 perc"],note:"A füge olajbogyóval, a kecskesajt pedig Comté sajttal is helyettesíthető."
+},
+"catalog-182":{
+ title:"Sütőtökös-comtés-baconös sós sütemény",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"1 óra",accessories:["kneading"],
+ ingredients:[["200 g","sütőtök húsa"],["80 g","bacon"],["70 g","reszelt Comté"],["3 db","tojás"],["60 g","vaj"],["100 g","liszt"],["1 csomag","sütőpor (11 g)"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A sütőtök húsát vágd kockákra. A dagasztó-/aprítókéses edénybe tedd a sütőtököt, a bacont és a Comtét, majd aprítsd 11-es sebességen 30 másodpercig. Spatulával húzd középre.",
+  "Add hozzá a tojásokat, a vajat, a lisztet és a sütőport, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "Bélelj ki egy kenyérformát sütőpapírral. Öntsd bele a tésztát, és süsd körülbelül 45 percig. Ha túlságosan barnul, csökkentsd a sütő hőmérsékletét 160 °C-ra."
+ ],program:["Dagasztó-/aprítókés • 11-es sebesség • 30 mp","Tészta P3","Sütő • 180 °C • kb. 45 perc"],note:"A Comté kecskesajttal, a sütőtök pedig cukkinivel is helyettesíthető."
+},
+"catalog-183":{
+ title:"Aszalt paradicsomos-olívás-fetás sós sütemény",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"1 óra",accessories:["kneading"],
+ ingredients:[["150 g","aszalt paradicsom"],["4 db","tojás"],["200 g","liszt"],["1 csomag","sütőpor (11 g)"],["5 cl","olívaolaj"],["10 cl","fehérbor"],["2 ek","zöld vagy fekete olajbogyó"],["100 g","feta"],["3 csipet","fleur de sel"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a tojásokat, a lisztet, a sütőport, a fehérbort és a sót. Indítsd el a Tészta (Pastry) P3 programot.",
+  "Bélelj ki egy kenyérformát sütőpapírral.",
+  "A program végén add hozzá az aszalt paradicsomot, az olajbogyót és a fetát, majd keverd 6-os sebességen 1 percig.",
+  "Öntsd a tésztát a formába, süsd körülbelül 45 percig. Ha túlságosan barnul, csökkentsd a hőmérsékletet 160 °C-ra. Hagyd kihűlni, majd tálald."
+ ],program:["Tészta P3","6-os sebesség • 1 perc","Sütő • 180 °C • kb. 45 perc"],note:"A feta kecskesajttal vagy ementálival, az aszalt paradicsom pedig sonkakockákkal is helyettesíthető."
+},
+"catalog-184":{
+ title:"Cramique – mazsolás briós",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"15 óra 17 perc",accessories:["kneading"],
+ ingredients:[["13 cl","félzsíros tej"],["10 g","friss sütőélesztő"],["350 g","liszt"],["5 g","só"],["2 db","tojás"],["60 g","cukor"],["7,5 g","vaníliás cukor"],["70 g","vaj"],["120 g","mazsola"],["60 g","gyöngycukor (opcionális)"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Előző nap a dagasztó-/aprítókéses edénybe tedd a tejet és az élesztőt, majd melegítsd 5-ös sebességen 35 °C-on 3 percig.",
+  "Add hozzá a lisztet, a sót, 1 tojást, a cukrot, a vaníliás cukrot és a vajat, majd indítsd el a Tészta (Pastry) P2 programot.",
+  "A program 40 perces kelesztése után vedd ki a tésztát, add hozzá a mazsolát, és formázz golyót. Tedd tálba, fedd le fóliával, és pihentesd 12 órán át hűtőben. Másnap formázz 8 golyót, helyezd őket szorosan egymás mellé egy kenyérformába, és keleszd még 1 óra 30 percig huzattól védett helyen.",
+  "Melegítsd elő a sütőt 180 °C-ra. Kend meg a brióst felvert tojással, szórd meg gyöngycukorral, és süsd 40 percig. Tálalás előtt hagyd kihűlni."
+ ],program:["Dagasztó-/aprítókés • 35 °C • 5-ös sebesség • 3 perc","Tészta P2","Kelesztés • 40 perc + 12 óra + 1 óra 30 perc","Sütő • 180 °C • 40 perc"]
+},
+"catalog-185":{
+ title:"Fougasse",cat:"Kenyerek, briósok, sós sütemények",servings:"4 fő",total:"2 óra 34 perc",accessories:["kneading"],
+ ingredients:[["400 g","liszt"],["1 tasak","szárított sütőélesztő"],["7 cl","olívaolaj"],["20 db","kimagozott olajbogyó"],["1 ek","kakukkfű"],["22 cl","víz"],["7 g","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az élesztőt és 22 cl vizet, majd melegítsd 5-ös sebességen 35 °C-on 2 percig.",
+  "Add hozzá a lisztet, az olívaolajat, a sót, az olajbogyót és a kakukkfüvet. Keverd először 8-as sebességen 30 másodpercig, majd indítsd el a Tészta (Pastry) P1 programot.",
+  "A program 40 perces kelesztése után vedd ki a dagasztó-/aprítókést, és hajtsd vissza a tésztát az edénybe. Keleszd kézi módban 30 °C-on 40 percig, sebesség nélkül.",
+  "A kész tésztát lisztezett kézzel vedd ki, és tedd sütőpapíros tepsire. A tészta ragadós, ez normális; ettől lesz puhább.",
+  "Lisztezd meg, nyújtsd ki, és késsel vágj bele jellegzetes réseket. Keleszd további 30 percig 20 °C feletti, huzatmentes helyen.",
+  "15 perccel a sütés vége előtt melegítsd elő a sütőt 200 °C-ra. Süsd körülbelül 25 percig."
+ ],program:["Dagasztó-/aprítókés • 35 °C • 5-ös sebesség • 2 perc","8-as sebesség • 30 mp","Tészta P1","Kézi mód • 30 °C • 40 perc","Kelesztés • 30 perc","Sütő • 200 °C • kb. 25 perc"],note:"Tapenade-dal, pestóval, szalonnakockával vagy sajtdarabokkal is megpakolható."
+},
+"catalog-186":{
+ title:"Sajtos naan",cat:"Kenyerek, briósok, sós sütemények",servings:"6 fő",total:"31 perc",accessories:["kneading"],
+ ingredients:[["300 g","liszt"],["1 csomag","sütőpor (11 g)"],["5 g","só"],["6 cl","víz"],["1 ek","semleges ízű olaj"],["1 db","natúr joghurt (125 g)"],["6 adag","Kiri® jellegű sajt (120 g)"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses robotba tedd a lisztet, a sütőport, a sót, 6 cl vizet, az olajat és a joghurtot. Aprítsd 8-as sebességen 1 percig.",
+  "Tedd a tésztát lisztezett munkafelületre. Dolgozd át kézzel 10 másodpercig, oszd 6 egyenlő részre, és nyújtsd őket 15 cm átmérőjű körökre. Minden kör közepére tegyél egy adag sajtot, majd késsel kend el. A széleket kevés vízzel nedvesítsd, hajtsd félbe, és zárd le.",
+  "Melegíts fel egy üres serpenyőt közepes lángon. Helyezz 2–3 naant a serpenyőbe, fedd le, és süsd 3 percig mindkét oldalukon. Ismételd a többi darabbal.",
+  "Forrón tálald."
+ ],program:["Dagasztó-/aprítókés • 8-as sebesség • 1 perc","Serpenyő • 3–3 perc oldalanként"],note:"Currykhez vagy aperitifként is kiváló. Tálaláskor kevés curryvel is megszórhatod."
+},
+"catalog-187":{
+ title:"Magvas kenyér",cat:"Kenyerek, briósok, sós sütemények",servings:"4 fő",total:"3 óra 13 perc",accessories:["kneading"],
+ ingredients:[["10 g","szárított sütőélesztő"],["30 cl","langyos víz"],["300 g","T65 liszt"],["100 g","rozsliszt"],["50 g","T80 liszt"],["50 g","magkeverék"],["5 g","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az élesztőt és 30 cl langyos vizet, majd indítsd el a Tészta (Pastry) P1 programot. 30 másodperc után nyisd fel a fedelet, és add hozzá a liszteket, a magokat és a sót.",
+  "40 perc kelesztés után spatulával vedd ki a tésztát, majd kézzel dolgozd át 5 percig. Formázz golyót, tedd sütőpapíros tepsire, és hagyd további 1 óra 30 percig kelni.",
+  "Melegítsd elő a sütőt 200 °C-ra. A sütő alsó szintjére helyezz egy tál vizet, ez segíti a kéreg kialakulását. Süsd 25 percig, majd csökkentsd 180 °C-ra, és süsd további 15–20 percig."
+ ],program:["Tészta P1","Kelesztés • 40 perc + 1 óra 30 perc","Sütő • 200 °C • 25 perc + 180 °C • 15–20 perc"],note:"Kész, többgabonás lisztkeveréket is használhatsz."
+},
+"catalog-188":{
+ title:"Comtés-szalonnás kenyér",cat:"Kenyerek, briósok, sós sütemények",servings:"4 fő",total:"2 óra 50 perc",accessories:["kneading"],
+ ingredients:[["5 g","szárított sütőélesztő"],["20 cl","félzsíros tej"],["350 g","liszt"],["6 g","só"],["45 g","szobahőmérsékletű vaj"],["180 g","Comté"],["100 g","szalonnakocka"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd az élesztőt és a tejet. Melegítsd 5-ös sebességen, 40 °C-on 3 percig. Add hozzá a lisztet, a sót és a vajat, majd indítsd el a Tészta P1 programot.",
+  "Közben a Comtét vágd vékony szeletekre. Amikor a tészta elkészült, vedd ki a robotból, és tedd sütőpapíros tepsire.",
+  "Nyújtsd téglalap alakúra. A közepére tegyél a Comtéból és a szalonnából egyharmad mennyiséget, majd hajtsd rá a tésztát. Ismételd meg még kétszer, nagyon óvatosan. Fedd le konyharuhával, és hagyd 2 órán át huzattól védett helyen kelni. 1 óra 45 perc után melegítsd elő a sütőt 200 °C-ra, majd süsd körülbelül 20–30 percig."
+ ],program:["Dagasztó-/aprítókés • 40 °C • 5-ös sebesség • 3 perc","Tészta P1","Kelesztés • 2 óra","Sütő • 200 °C • 20–30 perc"]
+},
+"catalog-189":{
+ title:"Fehér kenyér paprikás vajjal",cat:"Kenyerek, briósok, sós sütemények",servings:"10 fő",total:"2 óra 08 perc",accessories:["kneading","ultrablade"],
+ ingredients:[["400 g","liszt"],["1 tasak","szárított sütőélesztő"],["25 cl","langyos víz"],["1 tk","só"],["2 ek","olívaolaj"],["200 g","vaj"],["10 g","paprika"]],
+ stepAccessories:["kneading","ultrablade"],
+ steps:[
+  "Melegítsd elő a sütőt 240 °C-ra. A dagasztó-/aprítókéses edénybe tedd a langyos vizet és az élesztőt. Indítsd el a Tészta (Pastry) P1 programot. 30 másodperc után add hozzá a lisztet, a sót és az olajat.",
+  "A program végén vedd ki a tésztát, tedd tepsire, fedd le konyharuhával, és hagyd 1 órán át pihenni.",
+  "Késsel vágj réseket a tésztagolyóba, majd süsd körülbelül 30 percig.",
+  "A vajat néhány másodpercig mikrohullámú sütőben lágyítsd meg úgy, hogy ne olvadjon fel. Az Ultrablade aprítókéses edénybe tedd a paprikával együtt, és aprítsd 11-es sebességen 10 másodpercig. Ha szükséges, spatulával húzd középre, és aprítsd újra 10 másodpercig.",
+  "A paprikás vajat a langyos kenyérre kenve tálald."
+ ],program:["Tészta P1","Kelesztés • 1 óra","Sütő • 240 °C • kb. 30 perc","Ultrablade • 11-es sebesség • 10 + 10 mp"],note:"A paprika fokhagymával és petrezselyemmel is helyettesíthető."
+},
+"catalog-190":{
+ title:"Mézeskalácskenyér",cat:"Kenyerek, briósok, sós sütemények",servings:"4–6 fő",total:"55 perc",accessories:["kneading"],
+ ingredients:[["250 g","folyékony méz"],["2 ek","víz"],["200 g","liszt"],["1 tasak","sütőpor"],["50 g","barnacukor"],["1 db","tojás"],["1 csipet","só"],["1 tk","fahéj"],["1 tk","gyömbér"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A dagasztó-/aprítókéses edénybe tedd a 2 evőkanál vizet és a mézet, majd keverd 6-os sebességen 1 percig.",
+  "Add hozzá a lisztet, a sütőport, a barnacukrot, a tojást, a sót és a fűszereket, majd indítsd el a Tészta (Pastry) P3 programot.",
+  "Bélelj ki egy kenyérformát sütőpapírral, öntsd bele a masszát, és süsd körülbelül 30–40 percig.",
+  "A sütés végén hagyd kihűlni, majd vedd ki a formából."
+ ],program:["Dagasztó-/aprítókés • 6-os sebesség • 1 perc","Tészta P3","Sütő • 180 °C • kb. 30–40 perc"],note:"Kifejezettebb ízhez a liszt felét gesztenyeliszt­re cserélheted. Kandírozott gyümölcsöt is adhatsz hozzá. Fóliába csomagolva több napig eltartható."
+},
+"catalog-191":{
+ title:"Házi szendvicskenyér",cat:"Kenyerek, briósok, sós sütemények",servings:"6 fő",total:"2 óra 47 perc",accessories:["kneading","mixer","ultrablade"],
+ ingredients:[["500 g","liszt"],["30 cl","tej"],["60 g","vaj"],["1 tasak","sütőélesztő"],["20 g","cukor"],["200 g","koktélparadicsom"],["1 gerezd","fokhagyma"],["100 g","friss sajt"],["1 db","uborka"],["6 szelet","pármai sonka"],["1 marék","rukkola"],["1 db","lilahagyma"],["","olívaolaj"],["","só"]],
+ stepAccessories:["kneading","mixer","ultrablade"],
+ steps:[
+  "A dagasztó-/aprítókéses edénybe tedd a tejet, az élesztőt és a darabokra vágott vajat. Indítsd el a robotot 3-as sebességen, 40 °C-on 3 percre. Add hozzá a lisztet, a cukrot és 10 g sót, majd indítsd el a Tészta P1 programot. A végén vedd ki a tésztát, tedd tepsire, takard le konyharuhával, és hagyd 1 órán át kelni. Ezután röviden gyúrd át, tedd kivajazott kenyérformába, és keleszd további 30 percig. Melegítsd elő a sütőt 180 °C-ra, és süsd a kenyeret 30 percig. Vedd ki a formából, és hagyd kihűlni.",
+  "A fokhagymagerezdet vágd négyfelé, tedd az Ultrablade késsel felszerelt edénybe, és aprítsd 11-es sebességen 20 másodpercig. Cseréld le a kést keverőlapátra, add hozzá a félbevágott koktélparadicsomokat, egy csipet sót és 1 evőkanál olívaolajat, majd indítsd el a Lassú főzés P1 programot 10 percre dugó nélkül. Hagyd langyosra hűlni, cseréld le a keverőlapátot Ultrablade késre, add hozzá a friss sajtot, és aprítsd 8-as sebességen 1 percig.",
+  "A kihűlt kenyeret vágd 18 szeletre. Az uborkát vékonyan, a lilahagymát finomra szeleteld. A 18 szeletből 12-t kenj meg paradicsomos szósszal. 6 szeletre tegyél hagymakarikát és egy szelet pármai sonkát, a másik 6-ra uborkakarikát és kevés rukkolát. Zárd le a maradék 6 szelettel, enyhén nyomd össze, majd vágd félbe háromszögekre. Fa nyárssal rögzítsd."
+ ],program:["Dagasztó-/aprítókés • 40 °C • 3-as sebesség • 3 perc","Tészta P1","Kelesztés • 1 óra + 30 perc","Sütő • 180 °C • 30 perc","Ultrablade • 11-es sebesség • 20 mp","Lassú főzés P1 • 10 perc","Ultrablade • 8-as sebesség • 1 perc"]
+},
+"catalog-192":{
+ title:"Piros gyümölcsös coulis",cat:"Szószok",servings:"6 fő",total:"20 perc",accessories:["ultrablade"],
+ ingredients:[["200 g","eper"],["200 g","meggy"],["5 cl","víz"],["50 g","cukor"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Mosd meg a gyümölcsöket. Az epret vágd félbe, a meggyet magozd ki.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket 5 cl vízzel és a cukorral.",
+  "Főzd 7-es sebességen, 80 °C-on 15 percig.",
+  "Turbo fokozaton aprítsd 10 másodpercig, majd hagyd kihűlni és tálald."
+ ],program:["Ultrablade • 7-es sebesség • 80 °C • 15 perc","Turbo • 10 mp"],note:"Nagyon jól fagyasztható; nagyobb adagot is készíthetsz. Bluetooth- vagy Wi-Fi-kapcsolatú gépen a Turbo helyett 12-es sebesség használható."
+},
+"catalog-193":{
+ title:"Koktélrák ezerszigetmártással",cat:"Szószok",servings:"4 fő",total:"9 perc",accessories:["beater"],
+ ingredients:[["350 g","főtt, megtisztított garnéla"],["1 db","tojássárgája"],["1 tk","mustár"],["1 tk","fehérborecet"],["1 ek","ketchup"],["1 ek","konyak"],["25 cl","semleges ízű olaj"],["néhány csepp","Tabasco®"],["","só"],["","bors"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt robotba tedd a tojássárgáját, a mustárt és az ecetet. Sózd, borsozd. Indítsd el 6-os sebességen 2 perc 30 másodpercre, és fokozatosan öntsd hozzá az olajat.",
+  "Amikor a majonéz elkészült, add hozzá a ketchupot, a konyakot és a Tabascót, majd járasd még 1 percig.",
+  "A mártást a garnélával tálald."
+ ],program:["Habverő • 6-os sebesség • 2 perc 30 mp + 1 perc"],note:"A ketchup sűrített paradicsommal is helyettesíthető."
+},
+"catalog-194":{
+ title:"Majonéz",cat:"Szószok",servings:"4–6 fő",total:"12 perc 30 mp",accessories:["beater"],
+ ingredients:[["1 db","tojássárgája"],["1 ek","mustár"],["1 tk","fehérborecet"],["25 cl","semleges ízű olaj"],["","só"],["","bors"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt robotba tedd a tojássárgáját, a mustárt és az ecetet. Sózd, borsozd.",
+  "Állítsd a robotot 6-os sebességre 2 perc 30 másodpercre, és fokozatosan öntsd hozzá az olajat. Amikor a majonéz elkészült, állítsd le a robotot."
+ ],program:["Habverő • 6-os sebesség • 2 perc 30 mp"],note:"Nyers tojássárgáját tartalmaz, ezért gyorsan fogyaszd el. Zeller-rémoulade készítéséhez 80 g majonézt keverj 400 g reszelt zellergumóhoz és kevés snidlinghez."
+},
+"catalog-195":{
+ title:"Könnyített majonéz",cat:"Szószok",servings:"4 fő",total:"13 perc",accessories:["beater"],
+ ingredients:[["1 db","tojássárgája"],["1 tk","mustár"],["1 tk","ecet"],["10 cl","repceolaj"],["200 g","0%-os fromage blanc"],["","só"],["","bors"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt robotba tedd a tojássárgáját, a mustárt és az ecetet. Sózd, borsozd. Állítsd 7-es sebességre 2 perc 30 másodpercre, és fokozatosan öntsd hozzá az olajat. Amikor a majonéz elkészült, állítsd le a robotot.",
+  "Add hozzá a fromage blanc-t, és keverd 7-es sebességen 30 másodperc–1 percig.",
+  "Felhasználásig tartsd hűtőben."
+ ],program:["Habverő • 7-es sebesség • 2 perc 30 mp + 30 mp–1 perc"],note:"Nyers tojássárgáját tartalmaz, ezért gyorsan fogyaszd el. Fűszerekkel, például paprikával vagy curryvel, illetve friss zöldfűszerekkel is ízesíthető."
+},
+"catalog-196":{
+ title:"Pesto",cat:"Szószok",servings:"4–6 fő",total:"5 perc 20 mp",accessories:["ultrablade"],
+ ingredients:[["80 g","bazsalikomlevél"],["3 gerezd","fokhagyma"],["50 g","parmezán"],["50 g","fenyőmag"],["20 cl","olívaolaj"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Pucold meg a fokhagymagerezdeket. Az Ultrablade késsel felszerelt edénybe tedd őket az összes többi hozzávalóval együtt.",
+  "Aprítsd 12-es sebességen 10 másodpercig. Spatulával kapard le az edény falát, húzd középre a masszát, majd aprítsd újabb 10 másodpercig. Ha nagyon sima állagot szeretnél, ismételd meg.",
+  "Tedd a pestót üvegbe, és tartsd hűtőben."
+ ],program:["Ultrablade • 12-es sebesség • 10 + 10 mp"],note:"A bazsalikom felét pisztáciával vagy rukkolával is helyettesítheted."
+},
+"catalog-197":{
+ title:"Vörös pesto",cat:"Szószok",servings:"4–6 fő",total:"10 perc 20 mp",accessories:["ultrablade"],
+ ingredients:[["200 g","aszalt paradicsom"],["2 gerezd","fokhagyma"],["30 g","fenyőmag"],["25 cl","olívaolaj"],["40 g","bazsalikom"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Pucold meg a fokhagymagerezdeket. Az Ultrablade késsel felszerelt edénybe tedd az összes hozzávalót, majd aprítsd 12-es sebességen 10 másodpercig.",
+  "Spatulával kapard le az edény falát, húzd középre a masszát, majd aprítsd újabb 10 másodpercig. Nagyon sima állaghoz ismételd meg.",
+  "Tedd üvegbe, fedd be a felületét olívaolajjal, és legalább 3 hétig hűtőben tárolható. Kenyérre kenve vagy tésztával tálald."
+ ],program:["Ultrablade • 12-es sebesség • 10 + 10 mp"]
+},
+"catalog-198":{
+ title:"Borsmártás",cat:"Szószok",servings:"6 fő",total:"17 perc",accessories:["beater"],
+ ingredients:[["1 tk","durvára tört bors"],["1 cl","konyak"],["10 cl","folyékony tejszín"],["1 tk","borjúalap"],["1 tk","liszt"],["15 cl","víz"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt robotba tedd a borsot, a konyakot, a tejszínt, a borjúalapot és a lisztet. Add hozzá a 15 cl vizet, keverd 6-os sebességen 10 másodpercig, majd főzd 4-es sebességen, 90 °C-on 12 percig.",
+  "Steak mellé tálald."
+ ],program:["Habverő • 6-os sebesség • 10 mp","4-es sebesség • 90 °C • 12 perc"]
+},
+"catalog-199":{
+ title:"Négysajtos mártás",cat:"Szószok",servings:"4 fő",total:"12 perc",accessories:["ultrablade","beater"],
+ ingredients:[["50 g","parmezán"],["50 g","pecorino"],["50 g","Comté"],["50 g","Gorgonzola"],["2 db","tojássárgája"],["30 cl","folyékony tejszín"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","beater"],
+ steps:[
+  "Távolítsd el a sajtok kérgét. Az Ultrablade késsel felszerelt edénybe tedd a parmezánt, a pecorinót és a Comtét, majd Pulse fokozaton aprítsd 1 percig. A Gorgonzolát vágd kis darabokra, és add hozzá.",
+  "Cseréld le az Ultrablade kést habverőre. Add hozzá a felvert tojássárgáját és a tejszínt, sózd, borsozd, majd főzd 6-os sebességen, 90 °C-on 6 percig.",
+  "A mártást öntsd tésztára, keverd össze, és tálald."
+ ],program:["Ultrablade • Pulse • 1 perc","Habverő • 6-os sebesség • 90 °C • 6 perc"],note:"A Gorgonzola bármilyen kéksajttal helyettesíthető. Bluetooth- vagy Wi-Fi-kapcsolatú gépen a Pulse helyett 13-as sebesség használható."
+},
+
 };
