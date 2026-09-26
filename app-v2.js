@@ -21,7 +21,8 @@ const applyTranslation=r=>{
   const base=image?Object.assign({},r,{image:image}):r;
   return translated[r.id]?Object.assign({},base,translated[r.id],{sourceOnly:false}):base;
 };
-const allRecipes=[...baseRecipes.map(applyTranslation),...catalog.map(applyTranslation)];
+const baseForFinal=baseRecipes.filter(r=>r.id!=='zucchini'&&r.id!=='samosas');
+const allRecipes=[...baseForFinal.map(applyTranslation),...catalog.map(applyTranslation)];
 const seenRecipes={};
 const recipes=allRecipes.filter(r=>{
   const key=normRecipeKey(r.title);
