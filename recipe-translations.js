@@ -16564,1019 +16564,849 @@ window.CompanionRecipeTranslations={
     "note": "Mentát vagy bazsalikomot is adhatsz hozzá. A sorbetet a turmixolás után azonnal el kell fogyasztani, nem fagyasztható vissza. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-264": {
-    "title": "Őszibarackkompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
     "servings": "4 fő",
-    "total": "30 perc",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "800 g",
-        "őszibarack"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "10 cl",
-        "víz"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "1 ek",
-        "citromlé"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "50 g",
-        "cukor"
-      ],
-      [
-        "1 csipet",
-        "vanília"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
-      "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
-      "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
-      "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-265": {
-    "title": "Alma-fahéj kompót",
-    "cat": "Desszertek / Kompót, lekvár, krém",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
     "servings": "4 fő",
-    "total": "30 perc",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "800 g",
-        "alma"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "10 cl",
-        "víz"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "50 g",
-        "cukor"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "1 tk",
-        "őrölt fahéj"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "Az almákat pucold meg, vágd negyedekre, távolítsd el a magházukat, majd vágd darabokra.",
-      "Tedd az almát, a vizet, a cukrot és a fahéjat a keverőlapáttal felszerelt edénybe.",
-      "Indítsd el a Lassú főzés P1 programot 100 °C-on 20 percre.",
-      "A főzés végén tálald melegen, vagy hagyd kihűlni és fogyaszd hidegen."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Lassú főzés P1 • 100 °C • 20 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "Az alma részben körtével is helyettesíthető."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-266": {
-    "title": "Piros gyümölcsös lekvár",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4–6 fő",
-    "total": "45 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "500 g",
-        "piros bogyós gyümölcs"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "250 g",
-        "cukor"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "1 db",
-        "citrom leve"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "1 csomag",
-        "pektin (opcionális)"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "A gyümölcsöket mosd meg, szükség szerint tisztítsd meg és darabold fel.",
-      "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket, a cukrot és a citromlevet, majd aprítsd 12-es sebességen 10 másodpercig.",
-      "Cseréld le a kést keverőlapátra, és indítsd el a Lassú főzés P1 programot 100 °C-on 35 percre.",
-      "Ha sűrűbb lekvárt szeretnél, a főzés végén add hozzá a pektint a gyártó útmutatója szerint, majd keverd össze. Töltsd sterilizált üvegekbe."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 10 mp",
-      "Lassú főzés P1 • 100 °C • 35 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "A forrás receptje hosszú tároláshoz sterilizált üvegeket javasol."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-267": {
-    "title": "Körtés zselé",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4–6 fő",
-    "total": "1 óra",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "1 kg",
-        "körte"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "500 g",
-        "cukor"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "1 db",
-        "citrom leve"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "1 tasak",
-        "pektin"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "A körtét pucold meg, távolítsd el a magházát, majd vágd darabokra.",
-      "Az Ultrablade késsel felszerelt edénybe tedd a körtét, és aprítsd 12-es sebességen 20 másodpercig.",
-      "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá a cukrot és a citromlevet, majd indítsd el a Lassú főzés P2 programot 100 °C-on 45 percre.",
-      "A főzés végén add hozzá a pektint a csomagolás utasítása szerint. Töltsd sterilizált üvegekbe, és hagyd kihűlni."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 20 mp",
-      "Lassú főzés P2 • 100 °C • 45 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "A zselét pirítóssal vagy sajtok mellé is tálalhatod."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-268": {
-    "title": "Aszalt gyümölcsös müzli",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "8 fő",
-    "total": "20 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade"
+      "kneading"
     ],
     "ingredients": [
       [
-        "300 g",
-        "zabpehely"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "100 g",
-        "diófélék"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "100 g",
-        "aszalt gyümölcs"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "50 g",
-        "méz"
-      ],
-      [
-        "1 tk",
-        "fahéj"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade"
+      "kneading"
     ],
     "steps": [
-      "A dióféléket az Ultrablade késsel felszerelt edényben aprítsd 10-es sebességen 20 másodpercig. Tedd félre.",
-      "Az aszalt gyümölcsöket vágd kisebb darabokra.",
-      "Keverd össze a zabpelyhet, a dióféléket, az aszalt gyümölcsöt, a mézet és a fahéjat. Szárítsd 150 °C-os sütőben körülbelül 10–15 percig, közben többször keverd át.",
-      "Hagyd teljesen kihűlni, majd légmentesen záródó dobozban tárold."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 10-es sebesség • 20 mp",
-      "Sütő • 150 °C • 10–15 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "A recept szerint a hozzávalók szabadon variálhatók."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-269": {
-    "title": "Mogyorós csokoládékrém",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4–6 fő",
-    "total": "25 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "150 g",
-        "mogyoró"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "100 g",
-        "cukor"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "100 g",
-        "tejcsokoládé"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "100 g",
-        "étcsokoládé"
-      ],
-      [
-        "15 cl",
-        "tej"
-      ],
-      [
-        "50 g",
-        "vaj"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "A mogyorót az Ultrablade késsel felszerelt edényben aprítsd 12-es sebességen 30 másodpercig.",
-      "Cseréld le a kést keverőlapátra. Add hozzá a cukrot, a csokoládékat, a tejet és a vajat. Indítsd el a Dessert programot 70 °C-on 15 percre.",
-      "A program végén keverd 7-es sebességen 1 percig, hogy sima krémet kapj. Töltsd üvegbe, és hagyd kihűlni."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 30 mp",
-      "Desszert • 70 °C • 15 perc",
-      "7-es sebesség • 1 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "Bluetooth-kapcsolatú Companion esetén a DESSERT program helyett a recept kézi beállításokkal is elkészíthető."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-270": {
-    "title": "Csokoládés mogyorókrém",
-    "cat": "Desszertek / Kompót, lekvár, krém",
-    "servings": "4–6 fő",
-    "total": "25 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "100 g",
-        "törökmogyoró"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "100 g",
-        "étcsokoládé"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "100 g",
-        "tejcsokoládé"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "150 ml",
-        "tej"
-      ],
-      [
-        "50 g",
-        "vaj"
-      ],
-      [
-        "50 g",
-        "cukor"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "A mogyorót az Ultrablade késsel aprítsd 12-es sebességen 30 másodpercig.",
-      "Cseréld le a kést keverőlapátra, add hozzá a csokoládékat, a tejet, a vajat és a cukrot, majd melegítsd 70 °C-on 15 percig.",
-      "A főzés végén keverd 7-es sebességen 1 percig. Töltsd üvegbe, és hagyd kihűlni."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 30 mp",
-      "70 °C • 15 perc",
-      "7-es sebesség • 1 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "A forrás csokoládé- és mogyorókrémként, kenyérre kenve javasolja."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-271": {
-    "title": "Forró csokoládé",
-    "cat": "Italok",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
     "servings": "4 fő",
-    "total": "10 perc",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "beater"
+      "kneading"
     ],
     "ingredients": [
       [
-        "50 cl",
-        "tej"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "100 g",
-        "étcsokoládé"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "20 g",
-        "cukor"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "1 csipet",
-        "fahéj"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "beater"
+      "kneading"
     ],
     "steps": [
-      "A habverővel felszerelt edénybe tedd a tejet és a darabokra tört csokoládét.",
-      "Indítsd el 5-ös sebességen, 80 °C-on 8 percre.",
-      "Add hozzá a cukrot és a fahéjat, majd keverd 6-os sebességen 30 másodpercig. Azonnal tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Habverő • 5-ös sebesség • 80 °C • 8 perc",
-      "6-os sebesség • 30 mp"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "Tejszínhabbal vagy kevés kakaóporral is tálalható."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-272": {
-    "title": "Mangós smoothie",
-    "cat": "Italok",
-    "servings": "2 fő",
-    "total": "3 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade"
+      "kneading"
     ],
     "ingredients": [
       [
-        "1 db",
-        "érett mangó"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "1 db",
-        "banán"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "20 cl",
-        "narancslé"
+        "2 db",
+        "tojásfehérje"
       ],
       [
-        "10 cl",
-        "natúr joghurt"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade"
+      "kneading"
     ],
     "steps": [
-      "A mangót és a banánt pucold meg, majd vágd darabokra.",
-      "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket, a narancslevet és a joghurtot.",
-      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 1 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "A forrás szerint jégkockával is frissítőbbé tehető."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-273": {
-    "title": "Avokádós-kiwis smoothie",
-    "cat": "Italok",
-    "servings": "2 fő",
-    "total": "3 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade"
+      "kneading"
     ],
     "ingredients": [
       [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
         "2 db",
-        "kiwi"
+        "tojásfehérje"
       ],
       [
-        "1 db",
-        "avokádó"
-      ],
-      [
-        "20 cl",
-        "almalé"
-      ],
-      [
-        "10 cl",
-        "natúr joghurt"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade"
+      "kneading"
     ],
     "steps": [
-      "Pucold meg a kiwit és az avokádót, majd vágd darabokra.",
-      "Tedd az Ultrablade késsel felszerelt edénybe az almalevet és a joghurtot is.",
-      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 1 perc"
-    ]
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-274": {
-    "title": "Banános-kókusztejes smoothie",
-    "cat": "Italok",
-    "servings": "2 fő",
-    "total": "3 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade"
+      "kneading"
     ],
     "ingredients": [
       [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
         "2 db",
-        "banán"
+        "tojásfehérje"
       ],
       [
-        "25 cl",
-        "kókusztej"
-      ],
-      [
-        "10 cl",
-        "tej"
-      ],
-      [
-        "1 ek",
-        "méz"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade"
+      "kneading"
     ],
     "steps": [
-      "A banánt pucold meg és vágd darabokra.",
-      "Az Ultrablade késsel felszerelt edénybe tedd a banánt, a kókusztejet, a tejet és a mézet.",
-      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 1 perc"
-    ]
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-275": {
-    "title": "Céklás-répás-áfonyás smoothie zabkeksszel",
-    "cat": "Italok",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
     "servings": "4 fő",
-    "total": "30 perc",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade",
       "kneading"
     ],
     "ingredients": [
       [
-        "1 db",
-        "főtt cékla"
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
       ],
       [
         "2 db",
-        "sárgarépa"
+        "tojásfehérje"
       ],
       [
-        "125 g",
-        "áfonya"
-      ],
-      [
-        "20 cl",
-        "almalé"
-      ],
-      [
-        "1 db",
-        "narancs"
-      ],
-      [
-        "Keksz",
-        "100 g zabpehely"
-      ],
-      [
-        "50 g",
-        "liszt"
-      ],
-      [
-        "40 g",
-        "vaj"
-      ],
-      [
-        "30 g",
-        "méz"
+        "",
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
       "kneading"
     ],
     "steps": [
-      "A céklát és a répát darabold fel, a narancsot pucold meg.",
-      "Az Ultrablade késsel felszerelt edénybe tedd a zöldségeket, az áfonyát, az almalevet és a narancsot, majd turmixold 12-es sebességen 1 percig.",
-      "A kekszhez a dagasztó-/aprítókéses edénybe tedd a zabpelyhet, a lisztet, a vajat és a mézet, majd keverd 8-as sebességen 1 percig. Formázz kis kekszeket, és süsd 180 °C-on 12–15 percig.",
-      "A smoothie-t a kekszekkel tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 12-es sebesség • 1 perc",
-      "Dagasztó-/aprítókés • 8-as sebesség • 1 perc",
-      "Sütő • 180 °C • 12–15 perc"
-    ]
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-276": {
-    "title": "Marhahúsgolyók",
-    "cat": "Gyerekreceptek",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
     "servings": "4 fő",
-    "total": "31 perc",
+    "total": "12 óra 22 perc",
     "accessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "ingredients": [
       [
-        "400 g",
-        "darált marhahús"
+        "3 db",
+        "rózsaszín grapefruit"
       ],
       [
-        "1 db",
-        "hagyma"
+        "4 ek",
+        "porcukor"
       ],
       [
-        "1 gerezd",
-        "fokhagyma"
-      ],
-      [
-        "1 db",
-        "tojás"
-      ],
-      [
-        "50 g",
-        "zsemlemorzsa"
-      ],
-      [
-        "200 g",
-        "paradicsompép"
-      ],
-      [
-        "10 cl",
-        "víz"
-      ],
-      [
-        "1 ek",
-        "olívaolaj"
+        "2 db",
+        "tojásfehérje"
       ],
       [
         "",
-        "só"
-      ],
-      [
-        "",
-        "bors"
+        "néhány levél friss menta"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
-      "mixer"
+      "kneading"
     ],
     "steps": [
-      "Pucold meg a hagymát és a fokhagymát. Az Ultrablade késsel felszerelt edényben aprítsd 11-es sebességen 10 másodpercig.",
-      "Add hozzá a darált húst, a tojást és a zsemlemorzsát, majd keverd össze. Formázz kis húsgolyókat.",
-      "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olajat és a húsgolyókat, majd pirítsd 130 °C-on 5 percig.",
-      "Add hozzá a paradicsompépet és a vizet, majd indítsd el a Lassú főzés P2 programot 95 °C-on 15 percre. Azonnal tálald."
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
     ],
     "program": [
-      "Ultrablade • 11-es sebesség • 10 mp",
-      "Lassú főzés P1 • 130 °C • 5 perc",
-      "Lassú főzés P2 • 95 °C • 15 perc"
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
     ],
-    "note": "Gyerekeknek kisebb húsgolyókat formázz."
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
   },
   "catalog-277": {
-    "title": "Sós karamelles sütemény",
-    "cat": "Gyerekreceptek",
-    "servings": "6 fő",
-    "total": "55 perc",
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
     "accessories": [
       "kneading"
+    ],
+    "ingredients": [
+      [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
+        "2 db",
+        "tojásfehérje"
+      ],
+      [
+        "",
+        "néhány levél friss menta"
+      ]
+    ],
+    "stepAccessories": [
+      "kneading"
+    ],
+    "steps": [
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
+    ],
+    "program": [
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
+  },
+  "catalog-278": {
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
+    "accessories": [
+      "kneading"
+    ],
+    "ingredients": [
+      [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
+        "2 db",
+        "tojásfehérje"
+      ],
+      [
+        "",
+        "néhány levél friss menta"
+      ]
+    ],
+    "stepAccessories": [
+      "kneading"
+    ],
+    "steps": [
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
+    ],
+    "program": [
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
+  },
+  "catalog-279": {
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
+    "accessories": [
+      "kneading"
+    ],
+    "ingredients": [
+      [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
+        "2 db",
+        "tojásfehérje"
+      ],
+      [
+        "",
+        "néhány levél friss menta"
+      ]
+    ],
+    "stepAccessories": [
+      "kneading"
+    ],
+    "steps": [
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
+    ],
+    "program": [
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
+  },
+  "catalog-280": {
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
+    "accessories": [
+      "kneading"
+    ],
+    "ingredients": [
+      [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
+        "2 db",
+        "tojásfehérje"
+      ],
+      [
+        "",
+        "néhány levél friss menta"
+      ]
+    ],
+    "stepAccessories": [
+      "kneading"
+    ],
+    "steps": [
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
+    ],
+    "program": [
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
+  },
+  "catalog-281": {
+    "title": "Grapefruitos sorbet",
+    "cat": "Desszertek / Fagylalt és sorbet",
+    "servings": "4 fő",
+    "total": "12 óra 22 perc",
+    "accessories": [
+      "kneading"
+    ],
+    "ingredients": [
+      [
+        "3 db",
+        "rózsaszín grapefruit"
+      ],
+      [
+        "4 ek",
+        "porcukor"
+      ],
+      [
+        "2 db",
+        "tojásfehérje"
+      ],
+      [
+        "",
+        "néhány levél friss menta"
+      ]
+    ],
+    "stepAccessories": [
+      "kneading"
+    ],
+    "steps": [
+      "Hámozd meg a grapefruitokat élő módon, távolítsd el a gerezdeket és a hártyákat. A gyümölcshúst vágd darabokra, és ha lehet, jégkockatartóban fagyaszd le egy éjszakán át úgy, hogy a levét is megőrzöd.",
+      "A dagasztó-/aprítókéses edénybe tedd a fagyasztott grapefruitdarabokat, majd Pulse fokozaton turmixold 1 percig.",
+      "Húzd középre a masszát, add hozzá a tojásfehérjéket és a porcukrot, majd turmixold 12-es sebességen 30 másodpercig.",
+      "Azonnal tálald finomra vágott mentával."
+    ],
+    "program": [
+      "Dagasztó-/aprítókés • Pulse • 1 perc",
+      "12-es sebesség • 30 mp"
+    ],
+    "note": "A grapefruit helyett naranccsal vagy citrommal is elkészíthető. Ha nem azonnal fogyasztod, fagyaszd le, majd tálalás előtt néhány másodpercig turmixold át. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
+  },
+  "catalog-282": {
+    "title": "Csokoládémousse",
+    "cat": "Desszertek / Gyerekreceptek",
+    "servings": "4 fő",
+    "total": "2 óra 26 perc",
+    "accessories": [
+      "mixer",
+      "beater"
     ],
     "ingredients": [
       [
         "150 g",
-        "liszt"
-      ],
-      [
-        "100 g",
-        "vaj"
-      ],
-      [
-        "100 g",
-        "barna cukor"
-      ],
-      [
-        "2 db",
-        "tojás"
-      ],
-      [
-        "10 cl",
-        "tej"
-      ],
-      [
-        "1 csomag",
-        "sütőpor"
-      ],
-      [
-        "1 csipet",
-        "só"
-      ],
-      [
-        "100 g",
-        "sós karamell"
-      ]
-    ],
-    "stepAccessories": [
-      "kneading"
-    ],
-    "steps": [
-      "Melegítsd elő a sütőt 180 °C-ra.",
-      "A dagasztó-/aprítókéses edénybe tedd a lisztet, a sütőport, a cukrot, a vajat, a tojásokat, a tejet és a sót. Indítsd el a Tészta (Pastry) P3 programot.",
-      "A sós karamellt vágd kisebb darabokra, majd a program végén add a tésztához, és keverd 6-os sebességen 20 másodpercig.",
-      "Öntsd a masszát kenyérformába, és süsd körülbelül 35–40 percig. Hagyd kihűlni."
-    ],
-    "program": [
-      "Tészta P3",
-      "6-os sebesség • 20 mp",
-      "Sütő • 180 °C • 35–40 perc"
-    ],
-    "note": "A karamell helyett csokoládédarabokkal is készíthető."
-  },
-  "catalog-278": {
-    "title": "Lazacrillettes choux-ban",
-    "cat": "Gyerekreceptek",
-    "servings": "6 fő",
-    "total": "1 óra 02 perc",
-    "accessories": [
-      "kneading",
-      "ultrablade"
-    ],
-    "ingredients": [
-      [
-        "60 g",
-        "tej"
+        "70%-os kakaótartalmú étcsokoládé"
       ],
       [
         "40 g",
-        "víz"
-      ],
-      [
-        "30 g",
         "vaj"
       ],
       [
-        "75 g",
-        "liszt"
+        "40 g",
+        "tej"
       ],
       [
-        "2 db",
-        "tojás"
-      ],
-      [
-        "200 g",
-        "friss lazac"
-      ],
-      [
-        "100 g",
-        "kenhető friss sajt"
-      ],
-      [
-        "1 ek",
-        "citromlé"
-      ],
-      [
-        "1 ek",
-        "snidling"
-      ],
-      [
-        "",
-        "só"
-      ],
-      [
-        "",
-        "bors"
-      ]
-    ],
-    "stepAccessories": [
-      "kneading",
-      "ultrablade"
-    ],
-    "steps": [
-      "A choux-hoz a dagasztó-/aprítókéses edénybe tedd a tejet, a vizet és a vajat, majd főzd 90 °C-on 8 percig.",
-      "Add hozzá a lisztet, és keverd 6-os sebességen 2 percig. Tedd a tésztát tálba.",
-      "Tedd vissza a tésztát az edénybe, add hozzá a tojásokat egyenként, és keverd 7-es sebességen 2 percig.",
-      "Habzsákkal nyomj kis choux-kat sütőpapíros tepsire, és süsd 180 °C-on 25–30 percig. Hagyd kihűlni.",
-      "A friss lazacot vágd darabokra. Az Ultrablade késsel aprítsd 10-es sebességen 20 másodpercig. Add hozzá a friss sajtot, a citromlevet és a snidlinget, sózd, borsozd, majd keverd 8-as sebességen 30 másodpercig.",
-      "Vágd be a choux-kat, és töltsd meg lazacrilett-tel."
-    ],
-    "program": [
-      "Dagasztó-/aprítókés • 90 °C • 8 perc",
-      "6-os sebesség • 2 perc",
-      "7-es sebesség • 2 perc",
-      "Sütő • 180 °C • 25–30 perc",
-      "Ultrablade • 10-es sebesség • 20 mp",
-      "8-as sebesség • 30 mp"
-    ]
-  },
-  "catalog-279": {
-    "title": "Csokoládés cookie",
-    "cat": "Gyerekreceptek",
-    "servings": "8–10 fő",
-    "total": "35 perc",
-    "accessories": [
-      "kneading"
-    ],
-    "ingredients": [
-      [
-        "150 g",
-        "liszt"
-      ],
-      [
-        "100 g",
-        "vaj"
-      ],
-      [
-        "100 g",
-        "cukor"
+        "5 db",
+        "tojásfehérje"
       ],
       [
         "1 db",
-        "tojás"
+        "tojássárgája"
       ],
       [
-        "100 g",
-        "csokoládépasztilla"
-      ],
-      [
-        "½ csomag",
-        "sütőpor"
-      ],
-      [
-        "1 tk",
-        "vanília"
-      ],
-      [
-        "1 csipet",
-        "só"
+        "40 g",
+        "cukor"
       ]
     ],
     "stepAccessories": [
-      "kneading"
+      "mixer",
+      "beater",
+      "beater"
     ],
     "steps": [
-      "Melegítsd elő a sütőt 180 °C-ra.",
-      "A dagasztó-/aprítókéses robotba tedd a vajat, a cukrot és a tojást, majd keverd 6-os sebességen 1 percig.",
-      "Add hozzá a lisztet, a sütőport, a vaníliát és a sót, majd keverd 8-as sebességen 1 percig.",
-      "Add hozzá a csokoládépasztillákat, és keverd 6-os sebességen 20 másodpercig.",
-      "Formázz kis golyókat, tedd sütőpapíros tepsire, kissé lapítsd el, és süsd 10–12 percig."
+      "A keverőlapáttal felszerelt edénybe tedd a darabokra tört csokoládét, a tejet és a vajat, majd olvaszd 3-as sebességen, 45 °C-on 10 percig. A megolvadt masszát tedd át egy salátástálba. Mosd el és alaposan töröld szárazra az edényt.",
+      "Helyezd be a teljesen száraz habverőt, add hozzá a tojásfehérjéket, és dugó nélkül verd 7-es sebességen 6 percig.",
+      "3 perc elteltével add hozzá a cukrot a fedél közepén keresztül.",
+      "Amikor a hab felverődött, a tojássárgáját add a csokoládés masszához, és habverővel keverd össze.",
+      "Adj hozzá 2 evőkanál felvert tojáshabot, és továbbra is habverővel keverd át, hogy fellazítsd a csokoládét. Ezután spatulával óvatosan forgasd bele a maradék habot.",
+      "Oszd 4 pohárba, és legalább 2 órára tedd hűtőbe."
     ],
     "program": [
-      "Dagasztó-/aprítókés • 6-os sebesség • 1 perc",
-      "8-as sebesség • 1 perc",
-      "6-os sebesség • 20 mp",
-      "Sütő • 180 °C • 10–12 perc"
-    ]
-  },
-  "catalog-280": {
-    "title": "Banános-vaníliás turmix",
-    "cat": "Gyerekreceptek",
-    "servings": "2 fő",
-    "total": "3 perc",
-    "accessories": [
-      "ultrablade"
+      "Keverőlapát • 3-as sebesség • 45 °C • 10 perc",
+      "Habverő • 7-es sebesség • 6 perc"
     ],
-    "ingredients": [
-      [
-        "2 db",
-        "banán"
-      ],
-      [
-        "30 cl",
-        "tej"
-      ],
-      [
-        "1 tk",
-        "vanília"
-      ],
-      [
-        "1 ek",
-        "méz"
-      ]
-    ],
-    "stepAccessories": [
-      "ultrablade"
-    ],
-    "steps": [
-      "A banánt pucold meg és vágd darabokra.",
-      "Tedd az Ultrablade késsel felszerelt edénybe a banánt, a tejet, a vaníliát és a mézet.",
-      "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
-    ],
-    "program": [
-      "Ultrablade • 12-es sebesség • 1 perc"
-    ]
-  },
-  "catalog-281": {
-    "title": "Zöldséges muffin",
-    "cat": "Gyerekreceptek",
-    "servings": "6 fő",
-    "total": "45 perc",
-    "accessories": [
-      "kneading"
-    ],
-    "ingredients": [
-      [
-        "150 g",
-        "cukkini"
-      ],
-      [
-        "100 g",
-        "sárgarépa"
-      ],
-      [
-        "2 db",
-        "tojás"
-      ],
-      [
-        "150 g",
-        "liszt"
-      ],
-      [
-        "10 cl",
-        "tej"
-      ],
-      [
-        "50 g",
-        "reszelt sajt"
-      ],
-      [
-        "1 csomag",
-        "sütőpor"
-      ],
-      [
-        "2 ek",
-        "olívaolaj"
-      ],
-      [
-        "",
-        "só"
-      ],
-      [
-        "",
-        "bors"
-      ]
-    ],
-    "stepAccessories": [
-      "kneading"
-    ],
-    "steps": [
-      "Melegítsd elő a sütőt 180 °C-ra. A cukkinit és a répát reszeld le.",
-      "A dagasztó-/aprítókéses edénybe tedd a tojásokat, a lisztet, a tejet, az olívaolajat és a sütőport, majd indítsd el a Tészta P3 programot.",
-      "Add hozzá a reszelt zöldségeket és a sajtot, sózd, borsozd, majd keverd 6-os sebességen 30 másodpercig.",
-      "Oszd el muffinformákba, és süsd 25 percig."
-    ],
-    "program": [
-      "Tészta P3",
-      "6-os sebesség • 30 mp",
-      "Sütő • 180 °C • 25 perc"
-    ]
-  },
-  "catalog-282": {
-    "title": "Gabonás csirkefalatok",
-    "cat": "Gyerekreceptek",
-    "servings": "4 fő",
-    "total": "45 perc",
-    "accessories": [
-      "ultrablade"
-    ],
-    "ingredients": [
-      [
-        "400 g",
-        "csirkemell"
-      ],
-      [
-        "2 db",
-        "tojás"
-      ],
-      [
-        "100 g",
-        "kukoricapehely"
-      ],
-      [
-        "50 g",
-        "liszt"
-      ],
-      [
-        "",
-        "só"
-      ],
-      [
-        "",
-        "bors"
-      ],
-      [
-        "",
-        "olaj"
-      ]
-    ],
-    "stepAccessories": [
-      "ultrablade"
-    ],
-    "steps": [
-      "A csirkét vágd falatnyi darabokra.",
-      "A kukoricapelyhet az Ultrablade késsel aprítsd 10-es sebességen 20 másodpercig, majd tedd tálba.",
-      "A csirkedarabokat forgasd lisztbe, felvert tojásba, majd kukoricapehely-morzsába.",
-      "Sütőben 200 °C-on körülbelül 20–25 percig süsd, félidőben fordítsd meg. Tálald azonnal."
-    ],
-    "program": [
-      "Ultrablade • 10-es sebesség • 20 mp",
-      "Sütő • 200 °C • 20–25 perc"
-    ]
+    "note": "Nyers tojást tartalmaz, ezért rövid ideig tárold. A forrás javaslata szerint a kész mousse-t rögtön adagold poharakba a hűtés előtt."
   },
   "catalog-283": {
-    "title": "Penne bolognai módra",
-    "cat": "Gyerekreceptek",
-    "servings": "6 fő",
-    "total": "45 perc",
+    "title": "Csokoládémousse",
+    "cat": "Desszertek / Gyerekreceptek",
+    "servings": "4 fő",
+    "total": "2 óra 26 perc",
     "accessories": [
-      "ultrablade",
-      "mixer"
+      "mixer",
+      "beater"
     ],
     "ingredients": [
       [
-        "400 g",
-        "penne"
+        "150 g",
+        "70%-os kakaótartalmú étcsokoládé"
       ],
       [
-        "300 g",
-        "darált marhahús"
+        "40 g",
+        "vaj"
+      ],
+      [
+        "40 g",
+        "tej"
+      ],
+      [
+        "5 db",
+        "tojásfehérje"
       ],
       [
         "1 db",
-        "hagyma"
+        "tojássárgája"
       ],
       [
-        "1 gerezd",
-        "fokhagyma"
-      ],
-      [
-        "500 g",
-        "paradicsompép"
-      ],
-      [
-        "2 ek",
-        "olívaolaj"
-      ],
-      [
-        "1 tk",
-        "oregánó"
-      ],
-      [
-        "",
-        "só"
-      ],
-      [
-        "",
-        "bors"
+        "40 g",
+        "cukor"
       ]
     ],
     "stepAccessories": [
-      "ultrablade",
-      "mixer"
+      "mixer",
+      "beater",
+      "beater"
     ],
     "steps": [
-      "A hagymát és a fokhagymát pucold meg, vágd nagyobb darabokra, majd az Ultrablade késsel aprítsd 11-es sebességen 10 másodpercig.",
-      "Cseréld le a kést keverőlapátra, add hozzá az olívaolajat, majd pirítsd 130 °C-on 5 percig.",
-      "Add hozzá a darált marhahúst, sózd, borsozd, és főzd 100 °C-on 10 percig.",
-      "Add hozzá a paradicsompépet és az oregánót, majd indítsd el a Lassú főzés P2 programot 95 °C-on 25 percre.",
-      "Közben a pennét külön főzd meg a csomagoláson jelzett módon, majd keverd össze a bolognai szósszal."
+      "A keverőlapáttal felszerelt edénybe tedd a darabokra tört csokoládét, a tejet és a vajat, majd olvaszd 3-as sebességen, 45 °C-on 10 percig. A megolvadt masszát tedd át egy salátástálba. Mosd el és alaposan töröld szárazra az edényt.",
+      "Helyezd be a teljesen száraz habverőt, add hozzá a tojásfehérjéket, és dugó nélkül verd 7-es sebességen 6 percig.",
+      "3 perc elteltével add hozzá a cukrot a fedél közepén keresztül.",
+      "Amikor a hab felverődött, a tojássárgáját add a csokoládés masszához, és habverővel keverd össze.",
+      "Adj hozzá 2 evőkanál felvert tojáshabot, és továbbra is habverővel keverd át, hogy fellazítsd a csokoládét. Ezután spatulával óvatosan forgasd bele a maradék habot.",
+      "Oszd 4 pohárba, és legalább 2 órára tedd hűtőbe."
     ],
     "program": [
-      "Ultrablade • 11-es sebesség • 10 mp",
-      "Keverőlapát • 130 °C • 5 perc",
-      "100 °C • 10 perc",
-      "Lassú főzés P2 • 95 °C • 25 perc"
-    ]
+      "Keverőlapát • 3-as sebesség • 45 °C • 10 perc",
+      "Habverő • 7-es sebesség • 6 perc"
+    ],
+    "note": "Nyers tojást tartalmaz, ezért rövid ideig tárold. A forrás javaslata szerint a kész mousse-t rögtön adagold poharakba a hűtés előtt."
   }
 };
