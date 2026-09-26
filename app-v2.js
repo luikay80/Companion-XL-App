@@ -10,16 +10,16 @@ const baseRecipes=[
 ];
 const recipes=[...baseRecipes,...catalog];
 const accessoryInfo={
- ultrablade:{name:'Ultrablade aprítókés',url:'https://www.le-sav.com/17700-thickbox_default/couteau-et-cache-noir-pour-robot-companion-moulinex.jpg'},
- kneading:{name:'Dagasztó-/aprítókés',url:'https://dam.groupeseb.com/m/1476fa9c61642040/Medium-MS-0A19244_couteau_a_petrir_large-png.png?timestamp=20260124223435'},
- beater:{name:'Habverő',url:'https://cdn.idealo.com/folder/Product/203683/6/203683620/s4_produktbild_max_2/moulinex-fouet-double-rotation-companion-xl.jpg'},
- mixer:{name:'Keverőlapát',url:'https://dam.groupeseb.com/m/e448bc0575b19816/Digital-MS-0A19246_melangeur_large-png.png?timestamp=20250325055200'},
- steam:{name:'Gőzkosár',url:'https://www.midi-pieces-menager.fr/394319-home_default/ms-0a19203-panier-robot-cuiseur-companion.jpg'},
- fondxl:{name:'Fond XL / XL alj',url:'https://www.bpelectro.fr/bp/2741-large_default/bouchon-bol-ou-adaptateur-fond-plat-robot-companion-moulinex-ms-8030000420.jpg'}
+ ultrablade:{name:'Ultrablade aprítókés',file:'ultrablade.svg'},
+ kneading:{name:'Dagasztó-/aprítókés',file:'kneading.svg'},
+ beater:{name:'Habverő',file:'beater.svg'},
+ mixer:{name:'Keverőlapát',file:'mixer.svg'},
+ steam:{name:'Gőzkosár',file:'steam.svg'},
+ fondxl:{name:'Fond XL / XL alj',file:'fondxl.svg'}
 };
 const state={cat:'Mind',q:'',favorites:new Set(JSON.parse(localStorage.getItem('companion-favs')||'[]')),cook:null,step:0};
 const $=s=>document.querySelector(s); const esc=s=>String(s).replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]));
-const recipeImg=r=>'assets/recipes/'+r.image; const accImg=id=>accessoryInfo[id].url;
+const recipeImg=r=>'assets/recipes/'+r.image; const accImg=id=>'assets/accessories/'+accessoryInfo[id].file;
 function save(){localStorage.setItem('companion-favs',JSON.stringify([...state.favorites]));}
 function cats(){return ['Mind',...new Set(recipes.map(r=>r.cat)),'Kedvencek'];}
 function filtered(){const q=state.q.trim().toLowerCase();return recipes.filter(r=>{const cat=state.cat==='Mind'||(state.cat==='Kedvencek'?state.favorites.has(r.id):r.cat===state.cat);const t=(r.title+' '+r.ingredients.map(x=>x.join(' ')).join(' ')+' '+r.accessories.map(x=>accessoryInfo[x].name).join(' ')).toLowerCase();return cat&&(!q||t.includes(q));});}
