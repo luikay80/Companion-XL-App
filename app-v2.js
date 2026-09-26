@@ -9,8 +9,26 @@ const baseRecipes=[
 {id:'pumpkin',title:'Sajtos sütőtökfelfújt',cat:'Előételek',servings:6,total:'56 perc',image:'pumpkin.jpg',accessories:['ultrablade','beater'],ingredients:[['500 g','sütőtökhús'],['4 adag','ömlesztett sajt'],['2 db','hagyma'],['2 gerezd','fokhagyma'],['90 g','vaj összesen'],['4 db','tojás'],['20 cl','tej'],['40 g','liszt'],['','só, bors']],stepAccessories:['ultrablade','beater','beater'],steps:['Az Ultrablade késsel aprítsd a hagymát és a fokhagymát. Add hozzá a vajat és a sütőtököt, majd Slow cook P2 programon főzd 20 percig.','Turmixold pürévé, majd készíts béchamelt a lisztből, tejből és vajból.','A tojásfehérjét verd habbá, óvatosan forgasd a masszába, majd 180 °C-on süsd kb. 10 percig.'],program:['Slow cook P2 • 20 perc','Sauce • 90 °C • 4-es sebesség • 8 perc','7-es sebesség • 8 perc'],note:'Bluetoothos gépnél a SAUCE program kézi beállítással is kiváltható.'}
 ];
 const translated=window.CompanionRecipeTranslations||{};
-const applyTranslation=r=>translated[r.id]?Object.assign({},r,translated[r.id],{sourceOnly:false}):r;
-const recipes=[...baseRecipes.map(applyTranslation),...catalog.filter(r=>r.id!=='catalog-16'&&r.id!=='catalog-17').map(applyTranslation)];
+const imageMap=window.CompanionRecipeImageMap||{};
+const normRecipeKey=s=>{
+  return String(s||'')
+    .replace(/[Œœ]/g,'oe')
+    .normalize('NFD').replace(/[\\u0300-\\u036f]/g,'')
+    .toLowerCase().replace(/[^a-z0-9]+/g,' ').trim().replace(/\\s+/g,' ');
+};
+const applyTranslation=r=>{
+  const image=imageMap[normRecipeKey(r.title)];
+  const base=image?Object.assign({},r,{image:image}):r;
+  return translated[r.id]?Object.assign({},base,translated[r.id],{sourceOnly:false}):base;
+};
+const allRecipes=[...baseRecipes.map(applyTranslation),...catalog.map(applyTranslation)];
+const seenRecipes={};
+const recipes=allRecipes.filter(r=>{
+  const key=normRecipeKey(r.title);
+  if(seenRecipes[key]) return false;
+  seenRecipes[key]=true;
+  return true;
+});
 const accessoryInfo={
  ultrablade:{name:'Ultrablade aprítókés'},
  kneading:{name:'Dagasztó-/aprítókés'},
