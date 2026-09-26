@@ -3398,4 +3398,223 @@ window.CompanionRecipeTranslations={
  ],program:["Pulse • 1 perc 30 mp","12-es sebesség • 30 mp + 30 mp + 30 mp","Fagyasztás • 6 óra"],note:"Mentát vagy bazsalikomot is adhatsz hozzá. A sorbetet a turmixolás után azonnal el kell fogyasztani, nem fagyasztható vissza. Bluetooth- vagy Wi-Fi-kapcsolatú Companion esetén a Pulse helyett 13-as sebesség használható."
 },
 
+
+"catalog-270":{
+ title:"Őszibarackkompót",cat:"Desszertek / Kompót, lekvár, krém",servings:"4 fő",total:"30 perc",accessories:["mixer"],
+ ingredients:[["800 g","őszibarack"],["10 cl","víz"],["1 ek","citromlé"],["50 g","cukor"],["1 csipet","vanília"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "Az őszibarackot hámozd meg, vágd félbe, távolítsd el a magját, majd vágd darabokra.",
+  "A keverőlapáttal felszerelt edénybe tedd a barackot, a vizet, a citromlevet, a cukrot és a vaníliát.",
+  "Indítsd el a Lassú főzés (Slow cook) P1 programot 100 °C-on 20 percre.",
+  "A program végén tedd át egy tálba. Langyosan vagy hidegen tálald."
+ ],program:["Lassú főzés P1 • 100 °C • 20 perc"],note:"Érettebb gyümölcsből készítve a cukor mennyisége csökkenthető."
+},
+"catalog-271":{
+ title:"Alma-fahéj kompót",cat:"Desszertek / Kompót, lekvár, krém",servings:"4 fő",total:"30 perc",accessories:["mixer"],
+ ingredients:[["800 g","alma"],["10 cl","víz"],["50 g","cukor"],["1 tk","őrölt fahéj"]],
+ stepAccessories:["mixer"],
+ steps:[
+  "Az almákat pucold meg, vágd negyedekre, távolítsd el a magházukat, majd vágd darabokra.",
+  "Tedd az almát, a vizet, a cukrot és a fahéjat a keverőlapáttal felszerelt edénybe.",
+  "Indítsd el a Lassú főzés P1 programot 100 °C-on 20 percre.",
+  "A főzés végén tálald melegen, vagy hagyd kihűlni és fogyaszd hidegen."
+ ],program:["Lassú főzés P1 • 100 °C • 20 perc"],note:"Az alma részben körtével is helyettesíthető."
+},
+"catalog-272":{
+ title:"Piros gyümölcsös lekvár",cat:"Desszertek / Kompót, lekvár, krém",servings:"4–6 fő",total:"45 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["500 g","piros bogyós gyümölcs"],["250 g","cukor"],["1 db","citrom leve"],["1 csomag","pektin (opcionális)"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A gyümölcsöket mosd meg, szükség szerint tisztítsd meg és darabold fel.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket, a cukrot és a citromlevet, majd aprítsd 12-es sebességen 10 másodpercig.",
+  "Cseréld le a kést keverőlapátra, és indítsd el a Lassú főzés P1 programot 100 °C-on 35 percre.",
+  "Ha sűrűbb lekvárt szeretnél, a főzés végén add hozzá a pektint a gyártó útmutatója szerint, majd keverd össze. Töltsd sterilizált üvegekbe."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Lassú főzés P1 • 100 °C • 35 perc"],note:"A forrás receptje hosszú tároláshoz sterilizált üvegeket javasol."
+},
+"catalog-273":{
+ title:"Körtés zselé",cat:"Desszertek / Kompót, lekvár, krém",servings:"4–6 fő",total:"1 óra",accessories:["ultrablade","mixer"],
+ ingredients:[["1 kg","körte"],["500 g","cukor"],["1 db","citrom leve"],["1 tasak","pektin"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A körtét pucold meg, távolítsd el a magházát, majd vágd darabokra.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a körtét, és aprítsd 12-es sebességen 20 másodpercig.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá a cukrot és a citromlevet, majd indítsd el a Lassú főzés P2 programot 100 °C-on 45 percre.",
+  "A főzés végén add hozzá a pektint a csomagolás utasítása szerint. Töltsd sterilizált üvegekbe, és hagyd kihűlni."
+ ],program:["Ultrablade • 12-es sebesség • 20 mp","Lassú főzés P2 • 100 °C • 45 perc"],note:"A zselét pirítóssal vagy sajtok mellé is tálalhatod."
+},
+"catalog-274":{
+ title:"Aszalt gyümölcsös müzli",cat:"Desszertek / Kompót, lekvár, krém",servings:"8 fő",total:"20 perc",accessories:["ultrablade"],
+ ingredients:[["300 g","zabpehely"],["100 g","diófélék"],["100 g","aszalt gyümölcs"],["50 g","méz"],["1 tk","fahéj"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A dióféléket az Ultrablade késsel felszerelt edényben aprítsd 10-es sebességen 20 másodpercig. Tedd félre.",
+  "Az aszalt gyümölcsöket vágd kisebb darabokra.",
+  "Keverd össze a zabpelyhet, a dióféléket, az aszalt gyümölcsöt, a mézet és a fahéjat. Szárítsd 150 °C-os sütőben körülbelül 10–15 percig, közben többször keverd át.",
+  "Hagyd teljesen kihűlni, majd légmentesen záródó dobozban tárold."
+ ],program:["Ultrablade • 10-es sebesség • 20 mp","Sütő • 150 °C • 10–15 perc"],note:"A recept szerint a hozzávalók szabadon variálhatók."
+},
+"catalog-275":{
+ title:"Mogyorós csokoládékrém",cat:"Desszertek / Kompót, lekvár, krém",servings:"4–6 fő",total:"25 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["150 g","mogyoró"],["100 g","cukor"],["100 g","tejcsokoládé"],["100 g","étcsokoládé"],["15 cl","tej"],["50 g","vaj"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A mogyorót az Ultrablade késsel felszerelt edényben aprítsd 12-es sebességen 30 másodpercig.",
+  "Cseréld le a kést keverőlapátra. Add hozzá a cukrot, a csokoládékat, a tejet és a vajat. Indítsd el a Dessert programot 70 °C-on 15 percre.",
+  "A program végén keverd 7-es sebességen 1 percig, hogy sima krémet kapj. Töltsd üvegbe, és hagyd kihűlni."
+ ],program:["Ultrablade • 12-es sebesség • 30 mp","Desszert • 70 °C • 15 perc","7-es sebesség • 1 perc"],note:"Bluetooth-kapcsolatú Companion esetén a DESSERT program helyett a recept kézi beállításokkal is elkészíthető."
+},
+"catalog-276":{
+ title:"Csokoládés mogyorókrém",cat:"Desszertek / Kompót, lekvár, krém",servings:"4–6 fő",total:"25 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["100 g","törökmogyoró"],["100 g","étcsokoládé"],["100 g","tejcsokoládé"],["150 ml","tej"],["50 g","vaj"],["50 g","cukor"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A mogyorót az Ultrablade késsel aprítsd 12-es sebességen 30 másodpercig.",
+  "Cseréld le a kést keverőlapátra, add hozzá a csokoládékat, a tejet, a vajat és a cukrot, majd melegítsd 70 °C-on 15 percig.",
+  "A főzés végén keverd 7-es sebességen 1 percig. Töltsd üvegbe, és hagyd kihűlni."
+ ],program:["Ultrablade • 12-es sebesség • 30 mp","70 °C • 15 perc","7-es sebesség • 1 perc"],note:"A forrás csokoládé- és mogyorókrémként, kenyérre kenve javasolja."
+},
+"catalog-277":{
+ title:"Forró csokoládé",cat:"Italok",servings:"4 fő",total:"10 perc",accessories:["beater"],
+ ingredients:[["50 cl","tej"],["100 g","étcsokoládé"],["20 g","cukor"],["1 csipet","fahéj"]],
+ stepAccessories:["beater"],
+ steps:[
+  "A habverővel felszerelt edénybe tedd a tejet és a darabokra tört csokoládét.",
+  "Indítsd el 5-ös sebességen, 80 °C-on 8 percre.",
+  "Add hozzá a cukrot és a fahéjat, majd keverd 6-os sebességen 30 másodpercig. Azonnal tálald."
+ ],program:["Habverő • 5-ös sebesség • 80 °C • 8 perc","6-os sebesség • 30 mp"],note:"Tejszínhabbal vagy kevés kakaóporral is tálalható."
+},
+"catalog-278":{
+ title:"Mangós smoothie",cat:"Italok",servings:"2 fő",total:"3 perc",accessories:["ultrablade"],
+ ingredients:[["1 db","érett mangó"],["1 db","banán"],["20 cl","narancslé"],["10 cl","natúr joghurt"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A mangót és a banánt pucold meg, majd vágd darabokra.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a gyümölcsöket, a narancslevet és a joghurtot.",
+  "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+ ],program:["Ultrablade • 12-es sebesség • 1 perc"],note:"A forrás szerint jégkockával is frissítőbbé tehető."
+},
+"catalog-279":{
+ title:"Avokádós-kiwis smoothie",cat:"Italok",servings:"2 fő",total:"3 perc",accessories:["ultrablade"],
+ ingredients:[["2 db","kiwi"],["1 db","avokádó"],["20 cl","almalé"],["10 cl","natúr joghurt"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Pucold meg a kiwit és az avokádót, majd vágd darabokra.",
+  "Tedd az Ultrablade késsel felszerelt edénybe az almalevet és a joghurtot is.",
+  "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+ ],program:["Ultrablade • 12-es sebesség • 1 perc"]
+},
+"catalog-280":{
+ title:"Banános-kókusztejes smoothie",cat:"Italok",servings:"2 fő",total:"3 perc",accessories:["ultrablade"],
+ ingredients:[["2 db","banán"],["25 cl","kókusztej"],["10 cl","tej"],["1 ek","méz"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A banánt pucold meg és vágd darabokra.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a banánt, a kókusztejet, a tejet és a mézet.",
+  "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+ ],program:["Ultrablade • 12-es sebesség • 1 perc"]
+},
+"catalog-281":{
+ title:"Céklás-répás-áfonyás smoothie zabkeksszel",cat:"Italok",servings:"4 fő",total:"30 perc",accessories:["ultrablade","kneading"],
+ ingredients:[["1 db","főtt cékla"],["2 db","sárgarépa"],["125 g","áfonya"],["20 cl","almalé"],["1 db","narancs"],["Keksz","100 g zabpehely"],["50 g","liszt"],["40 g","vaj"],["30 g","méz"]],
+ stepAccessories:["ultrablade","kneading"],
+ steps:[
+  "A céklát és a répát darabold fel, a narancsot pucold meg.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a zöldségeket, az áfonyát, az almalevet és a narancsot, majd turmixold 12-es sebességen 1 percig.",
+  "A kekszhez a dagasztó-/aprítókéses edénybe tedd a zabpelyhet, a lisztet, a vajat és a mézet, majd keverd 8-as sebességen 1 percig. Formázz kis kekszeket, és süsd 180 °C-on 12–15 percig.",
+  "A smoothie-t a kekszekkel tálald."
+ ],program:["Ultrablade • 12-es sebesség • 1 perc","Dagasztó-/aprítókés • 8-as sebesség • 1 perc","Sütő • 180 °C • 12–15 perc"]
+},
+"catalog-282":{
+ title:"Marhahúsgolyók",cat:"Gyerekreceptek",servings:"4 fő",total:"31 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["400 g","darált marhahús"],["1 db","hagyma"],["1 gerezd","fokhagyma"],["1 db","tojás"],["50 g","zsemlemorzsa"],["200 g","paradicsompép"],["10 cl","víz"],["1 ek","olívaolaj"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát. Az Ultrablade késsel felszerelt edényben aprítsd 11-es sebességen 10 másodpercig.",
+  "Add hozzá a darált húst, a tojást és a zsemlemorzsát, majd keverd össze. Formázz kis húsgolyókat.",
+  "Cseréld le az Ultrablade kést keverőlapátra. Add hozzá az olajat és a húsgolyókat, majd pirítsd 130 °C-on 5 percig.",
+  "Add hozzá a paradicsompépet és a vizet, majd indítsd el a Lassú főzés P2 programot 95 °C-on 15 percre. Azonnal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 15 perc"],note:"Gyerekeknek kisebb húsgolyókat formázz."
+},
+"catalog-283":{
+ title:"Sós karamelles sütemény",cat:"Gyerekreceptek",servings:"6 fő",total:"55 perc",accessories:["kneading"],
+ ingredients:[["150 g","liszt"],["100 g","vaj"],["100 g","barna cukor"],["2 db","tojás"],["10 cl","tej"],["1 csomag","sütőpor"],["1 csipet","só"],["100 g","sós karamell"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a lisztet, a sütőport, a cukrot, a vajat, a tojásokat, a tejet és a sót. Indítsd el a Tészta (Pastry) P3 programot.",
+  "A sós karamellt vágd kisebb darabokra, majd a program végén add a tésztához, és keverd 6-os sebességen 20 másodpercig.",
+  "Öntsd a masszát kenyérformába, és süsd körülbelül 35–40 percig. Hagyd kihűlni."
+ ],program:["Tészta P3","6-os sebesség • 20 mp","Sütő • 180 °C • 35–40 perc"],note:"A karamell helyett csokoládédarabokkal is készíthető."
+},
+"catalog-284":{
+ title:"Lazacrillettes choux-ban",cat:"Gyerekreceptek",servings:"6 fő",total:"1 óra 02 perc",accessories:["kneading","ultrablade"],
+ ingredients:[["60 g","tej"],["40 g","víz"],["30 g","vaj"],["75 g","liszt"],["2 db","tojás"],["200 g","friss lazac"],["100 g","kenhető friss sajt"],["1 ek","citromlé"],["1 ek","snidling"],["","só"],["","bors"]],
+ stepAccessories:["kneading","ultrablade"],
+ steps:[
+  "A choux-hoz a dagasztó-/aprítókéses edénybe tedd a tejet, a vizet és a vajat, majd főzd 90 °C-on 8 percig.",
+  "Add hozzá a lisztet, és keverd 6-os sebességen 2 percig. Tedd a tésztát tálba.",
+  "Tedd vissza a tésztát az edénybe, add hozzá a tojásokat egyenként, és keverd 7-es sebességen 2 percig.",
+  "Habzsákkal nyomj kis choux-kat sütőpapíros tepsire, és süsd 180 °C-on 25–30 percig. Hagyd kihűlni.",
+  "A friss lazacot vágd darabokra. Az Ultrablade késsel aprítsd 10-es sebességen 20 másodpercig. Add hozzá a friss sajtot, a citromlevet és a snidlinget, sózd, borsozd, majd keverd 8-as sebességen 30 másodpercig.",
+  "Vágd be a choux-kat, és töltsd meg lazacrilett-tel."
+ ],program:["Dagasztó-/aprítókés • 90 °C • 8 perc","6-os sebesség • 2 perc","7-es sebesség • 2 perc","Sütő • 180 °C • 25–30 perc","Ultrablade • 10-es sebesség • 20 mp","8-as sebesség • 30 mp"]
+},
+"catalog-285":{
+ title:"Csokoládés cookie",cat:"Gyerekreceptek",servings:"8–10 fő",total:"35 perc",accessories:["kneading"],
+ ingredients:[["150 g","liszt"],["100 g","vaj"],["100 g","cukor"],["1 db","tojás"],["100 g","csokoládépasztilla"],["½ csomag","sütőpor"],["1 tk","vanília"],["1 csipet","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses robotba tedd a vajat, a cukrot és a tojást, majd keverd 6-os sebességen 1 percig.",
+  "Add hozzá a lisztet, a sütőport, a vaníliát és a sót, majd keverd 8-as sebességen 1 percig.",
+  "Add hozzá a csokoládépasztillákat, és keverd 6-os sebességen 20 másodpercig.",
+  "Formázz kis golyókat, tedd sütőpapíros tepsire, kissé lapítsd el, és süsd 10–12 percig."
+ ],program:["Dagasztó-/aprítókés • 6-os sebesség • 1 perc","8-as sebesség • 1 perc","6-os sebesség • 20 mp","Sütő • 180 °C • 10–12 perc"]
+},
+"catalog-286":{
+ title:"Banános-vaníliás turmix",cat:"Gyerekreceptek",servings:"2 fő",total:"3 perc",accessories:["ultrablade"],
+ ingredients:[["2 db","banán"],["30 cl","tej"],["1 tk","vanília"],["1 ek","méz"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A banánt pucold meg és vágd darabokra.",
+  "Tedd az Ultrablade késsel felszerelt edénybe a banánt, a tejet, a vaníliát és a mézet.",
+  "Turmixold 12-es sebességen 1 percig. Azonnal tálald."
+ ],program:["Ultrablade • 12-es sebesség • 1 perc"]
+},
+"catalog-287":{
+ title:"Zöldséges muffin",cat:"Gyerekreceptek",servings:"6 fő",total:"45 perc",accessories:["kneading"],
+ ingredients:[["150 g","cukkini"],["100 g","sárgarépa"],["2 db","tojás"],["150 g","liszt"],["10 cl","tej"],["50 g","reszelt sajt"],["1 csomag","sütőpor"],["2 ek","olívaolaj"],["","só"],["","bors"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A cukkinit és a répát reszeld le.",
+  "A dagasztó-/aprítókéses edénybe tedd a tojásokat, a lisztet, a tejet, az olívaolajat és a sütőport, majd indítsd el a Tészta P3 programot.",
+  "Add hozzá a reszelt zöldségeket és a sajtot, sózd, borsozd, majd keverd 6-os sebességen 30 másodpercig.",
+  "Oszd el muffinformákba, és süsd 25 percig."
+ ],program:["Tészta P3","6-os sebesség • 30 mp","Sütő • 180 °C • 25 perc"]
+},
+"catalog-288":{
+ title:"Gabonás csirkefalatok",cat:"Gyerekreceptek",servings:"4 fő",total:"45 perc",accessories:["ultrablade"],
+ ingredients:[["400 g","csirkemell"],["2 db","tojás"],["100 g","kukoricapehely"],["50 g","liszt"],["","só"],["","bors"],["","olaj"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A csirkét vágd falatnyi darabokra.",
+  "A kukoricapelyhet az Ultrablade késsel aprítsd 10-es sebességen 20 másodpercig, majd tedd tálba.",
+  "A csirkedarabokat forgasd lisztbe, felvert tojásba, majd kukoricapehely-morzsába.",
+  "Sütőben 200 °C-on körülbelül 20–25 percig süsd, félidőben fordítsd meg. Tálald azonnal."
+ ],program:["Ultrablade • 10-es sebesség • 20 mp","Sütő • 200 °C • 20–25 perc"]
+},
+"catalog-289":{
+ title:"Penne bolognai módra",cat:"Gyerekreceptek",servings:"6 fő",total:"45 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["400 g","penne"],["300 g","darált marhahús"],["1 db","hagyma"],["1 gerezd","fokhagyma"],["500 g","paradicsompép"],["2 ek","olívaolaj"],["1 tk","oregánó"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "A hagymát és a fokhagymát pucold meg, vágd nagyobb darabokra, majd az Ultrablade késsel aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le a kést keverőlapátra, add hozzá az olívaolajat, majd pirítsd 130 °C-on 5 percig.",
+  "Add hozzá a darált marhahúst, sózd, borsozd, és főzd 100 °C-on 10 percig.",
+  "Add hozzá a paradicsompépet és az oregánót, majd indítsd el a Lassú főzés P2 programot 95 °C-on 25 percre.",
+  "Közben a pennét külön főzd meg a csomagoláson jelzett módon, majd keverd össze a bolognai szósszal."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Keverőlapát • 130 °C • 5 perc","100 °C • 10 perc","Lassú főzés P2 • 95 °C • 25 perc"]
+},
+
 };
