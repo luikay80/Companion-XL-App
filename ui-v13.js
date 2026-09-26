@@ -10,7 +10,6 @@ function drawCategories(){
 }
 function showTop(name){
  const list=recipes.filter(r=>topCategory(r.cat)===name);
- document.querySelector('#count').textContent=list.length+' recept';
  document.querySelector('#sub').textContent=list.length+' recept';
  document.querySelector('#grid').innerHTML=list.map(r=>'<article class="card" data-id="'+r.id+'"><div class="art">'+(r.image?'<img src="'+recipeImg(r)+'" alt="'+esc(r.title)+'">':'<div class="art-placeholder"><span>📖</span><small>Az eredeti recept fotója</small></div>')+'</div><div class="card-body"><button class="heart" data-heart="'+r.id+'">♡</button><h4>'+esc(r.title)+'</h4><div class="meta"><span>👥 '+esc(r.servings||'—')+'</span><span>⏱ '+esc(r.total||'—')+'</span></div></div></article>').join('');
  document.querySelectorAll('.card').forEach(c=>c.onclick=()=>openDetail(c.dataset.id));
