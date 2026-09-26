@@ -65,7 +65,7 @@
     var stepHtml='';
     (recipe.steps||[]).forEach(function(step,index){
       var aid=recipe.stepAccessories&&recipe.stepAccessories[index];
-      stepHtml+='<li><span class="step-num">'+(index+1)+'</span><div class="step-content">';
+      stepHtml+='<li><div class="step-content">';
       if(aid){
         stepHtml+='<div class="step-acc">'+sprite(aid)+'<span>'+esc(accessories[aid]?accessories[aid].name:aid)+'</span></div>';
       }
