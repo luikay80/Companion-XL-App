@@ -17673,7 +17673,7 @@ window.CompanionRecipeTranslations={
       "100 °C • 10 perc",
       "Lassú főzés P2 • 95 °C • 25 perc"
     ]
-  }
+  },
 
 "catalog-16":{
  title:"Cukkinitekercsek friss kecskesajttal és szegfűszegvirággal",cat:"Aperitifek",servings:"4 fő",total:"30 perc",accessories:["steam","ultrablade"],
