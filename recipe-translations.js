@@ -407,4 +407,289 @@ window.CompanionRecipeTranslations={
  "Hajtsd rá a sütőpapírt, majd süsd 1 órán át. Hagyd kihűlni, mielőtt kiborítod a formából.",
  ],program:["Gőz P1 • 15 perc","Habverő • 6-os sebesség • 2 perc","2-es sebesség • 20 mp"],note:"Mesclun salátával és olívaolajos-citromos vinaigrette-tel tálald."},
 
+// ---- SOUPES ----
+"catalog-39":{
+ title:"Garnélabisque",cat:"Levesek",servings:"4-6 fő",total:"31 perc",accessories:["ultrablade"],
+ ingredients:[["400 g","egész, nyers garnéla"],["50 g","burgonya"],["1 db","hagyma"],["1 gerezd","fokhagyma"],["5 cl","olívaolaj"],["60 g","édeskömény"],["50 g","póréhagyma fehér része"],["400 g","paradicsompép"],["5 cl","fehérbor"],["20 cl","halalaplé"],["5 cl","habtejszín"],["","Espelette-i paprika"],["","snidling"],["","kenyérkocka"],["","só"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A burgonyát pucold meg és vágd négyfelé. A hagymát és a fokhagymát pucold meg, majd vágd nagyobb darabokra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a hagymát, a fokhagymát, az olajat és a garnélát. Indítsd el a Lassú főzés (Slow cook) P1 programot 130 °C-on 5 percre, dugó nélkül.",
+ "Add hozzá az édesköményt, a burgonyát, a megtisztított póréhagymát, a paradicsompépet, a fehérbort, a halalaplét, az Espelette-i paprikát és a sót. Indítsd el a Lassú főzés P3 programot 20 percre, dugóval.",
+ "A főzés végén add hozzá a tejszínt, majd Pulse fokozaton turmixold 1 percig.",
+ "Szűrd át a levest finom szűrőn, erősen lenyomva, hogy a lehető legtöbb levet kinyerd. Forrón vagy hidegen, snidlinggel megszórva és kenyérkockákkal tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P3 • 20 perc","Pulse • 1 perc"],note:"Fehér hallal is elkészíthető. Kapcsolt Companion esetén a Pulse 13-as sebességgel helyettesíthető."},
+
+"catalog-40":{
+ title:"Butternut cappuccino",cat:"Levesek",servings:"2-4 fő",total:"45 perc",accessories:["ultrablade"],
+ ingredients:[["500 g","butternut tök"],["20 g","salotta"],["1/2 db","csirkehúsleveskocka"],["50 g","bacon"],["20 cl","habtejszín"],["60 cl","víz"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A tököt darabold fel és vágd kisebb darabokra. A salottát pucold meg és vágd négyfelé.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a zöldségeket, a leveskockát és a bacont, majd öntsd hozzá a 60 cl vizet. Indítsd el a Leves (Soup) P1 programot.",
+ "A program végén add hozzá a tejszínt, majd turmixold 11-es sebességen 40 másodpercig. Forrón tálald."
+ ],program:["Leves P1 • 40 perc","Ultrablade • 11-es sebesség • 40 mp"],note:"Elegáns változathoz a bacont foie gras-ra cserélheted. Ekkor a foie gras-t a tejszínnel együtt add hozzá. Füstölt lazaccsíkokkal is tálalható."},
+
+"catalog-41":{
+ title:"Édesköménykrém füstölt lazaccal",cat:"Levesek",servings:"2-4 fő",total:"25 perc",accessories:["steam","ultrablade"],
+ ingredients:[["200 g","édeskömény"],["0,7 l","víz"],["150 g","füstölt lazac"],["120 g","mascarpone"],["30 g","kapor"],["","só"]],
+ stepAccessories:["steam","ultrablade"],
+ steps:[
+ "Az édesköményt vágd vékony csíkokra. Önts vizet az edénybe 0,7 literes szintig, majd tedd az édesköményt a gőzkosárba. Indítsd el a Gőz P1 programot 15 percre.",
+ "A főzés végén hagyd kihűlni az édesköményt, majd öntsd ki a vizet. Az Ultrablade késsel felszerelt edénybe tedd az összes hozzávalót, és turmixold 11-es sebességen 30 másodpercig. Spatulával húzd középre, majd turmixold még 10 másodpercig.",
+ "Oszd el a krémet kis poharakba, és tálalásig tartsd hűtőben."
+ ],program:["Gőz P1 • 15 perc","Ultrablade • 11-es sebesség • 30 mp + 10 mp"],note:"Hagyj meg 10 g lazacot és néhány vékony édesköménycsíkot a díszítéshez. Finom grissinivel is kínálható."},
+
+"catalog-42":{
+ title:"Lencsekrém baconnel",cat:"Levesek",servings:"4 fő",total:"45 perc",accessories:["ultrablade"],
+ ingredients:[["160 g","nyers Le Puy lencse"],["50 g","sárgarépa"],["50 g","póréhagyma fehér része"],["1 db","hagyma"],["80 g","füstölt bacon"],["15 cl","habtejszín"],["1 l","víz"],["","só"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A répát, a póréhagymát és a hagymát pucold meg, majd vágd kisebb darabokra. A bacont kockázd fel.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a zöldségkockákat, a lencsét, a bacont, 1 liter vizet és a sót. Indítsd el a Leves P1 programot.",
+ "A program végén add hozzá a tejszínt, majd turmixold 12-es sebességen 30 másodpercig.",
+ "Forrón tálald."
+ ],program:["Leves P1 • 40 perc","Ultrablade • 12-es sebesség • 30 mp"],note:"1 evőkanál curry hozzáadásával fűszeresebbé teheted, a tejszínt pedig kókusztejre cserélheted. Ebben az esetben hagyd el a bacont."},
+
+"catalog-43":{
+ title:"Paprikakrém chorizóval",cat:"Levesek",servings:"4 fő",total:"45 perc",accessories:["ultrablade"],
+ ingredients:[["850 g","piros kaliforniai paprika"],["1 db","hagyma"],["1 gerezd","fokhagyma"],["80 g","chorizo"],["1 tk","füstölt paprika"],["50 cl","víz"],["10 cl","habtejszín"],["","só"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A paprikát mosd meg, csumázd ki és vágd négyfelé. A hagymát és a fokhagymát pucold meg, majd vágd nagyobb darabokra. A chorizót vágd kis kockákra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a paprikát, a hagymát, a fokhagymát, a chorizót, a füstölt paprikát és a sót. Öntsd hozzá az 50 cl vizet, majd indítsd el a Leves (Soup) P1 programot.",
+ "A program végén add hozzá a tejszínt, majd turmixold 12-es sebességen 30 másodpercig. Forrón vagy hidegen tálald."
+ ],program:["Leves P1 • 40 perc","Ultrablade • 12-es sebesség • 30 mp"],note:"A paprika felét paradicsommal helyettesítheted."},
+
+"catalog-44":{
+ title:"Csicsókakrém vargányával",cat:"Levesek",servings:"2-3 fő",total:"45 perc",accessories:["ultrablade"],
+ ingredients:[["100 g","póréhagyma fehér része"],["400 g","csicsóka"],["20 g","szárzeller"],["1/2 db","zöldségalaplé-kocka"],["85 cl","víz"],["10 cl","habtejszín"],["1 ek","szárított vargányapor"],["","só"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A csicsókát pucold meg és vágd nagyobb darabokra. A póréhagymát és a zellert darabold fel.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a csicsókát, a póréhagymát, a zellert és a leveskockát. Öntsd hozzá a 85 cl vizet, majd indítsd el a Leves P1 programot.",
+ "A program végén add hozzá a tejszínt, a vargányaport és a sót, majd turmixold 12-es sebességen 30 másodpercig.",
+ "Forrón tálald."
+ ],program:["Leves P1 • 40 perc","Ultrablade • 12-es sebesség • 30 mp"],note:"A csicsóka felét zellergumóra cserélheted, és tálaláskor kevés foie gras-t is adhatsz hozzá."},
+
+"catalog-45":{
+ title:"Sopa Juliana - darabos zöldségleves",cat:"Levesek",servings:"4 fő",total:"50 perc",accessories:["mixer","ultrablade","steam"],
+ ingredients:[["1 db","hagyma"],["3 gerezd","fokhagyma"],["1 tk","oregánó"],["3 ek","olívaolaj"],["1 db","zöldségalaplé-kocka"],["220 g","sárgarépa"],["180 g","burgonya"],["250 g","tök"],["100 g","cukkini"],["100 g","póréhagyma"],["100 g","lapos zöldbab"],["2 l","víz"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer","steam"],
+ steps:[
+ "Az útmutatást olvasd el egyszer végig. Ennél a darabos zöldséglevesnél a gépben feldarabolt zöldségek egy részét pürésítjük, a gőzkosárba tett darabok pedig egészben maradnak.",
+ "A fokhagymát, a hagymát, a burgonyát, a répát és a tököt pucold meg. A zöldségeket külön vágd fel: a póréhagymát karikákra, a zöldbabot darabokra, a répát vékony karikákra, a burgonyát kis kockákra, a tököt kockákra, a cukkinit hasábokra.",
+ "Az Ultrablade késsel a hagymát és a fokhagymát 12-es sebességen 10 másodpercig aprítsd.",
+ "Cseréld a kést keverőlapátra, add hozzá az olívaolajat és az oregánót, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+ "Adj hozzá 120 g tököt, 100 g burgonyát, 100 g répát és a zöldségalaplé-kockát. Helyezd a gőzkosarat a gépbe, és tedd bele a póréhagymát, a zöldbabot, a maradék répát, a cukkinit, a maradék burgonyát és a maradék tököt.",
+ "Önts 2 liter vizet az edénybe, sózd, borsozd, majd indítsd el a Leves P2 programot 40 percre.",
+ "Forrón tálald."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Leves P2 • 40 perc"]},
+
+"catalog-46":{
+ title:"Káposztaleves",cat:"Levesek",servings:"4 fő",total:"50 perc",accessories:["ultrablade"],
+ ingredients:[["1/4 fej","zöldkáposzta"],["2 db","sárgarépa"],["1 l","víz"],["2 kis db","salotta"],["2 db","Pot-au-Feu MAGGI leveskocka"],["100 g","füstölt baconcsík"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A salottát és a répát pucold meg.",
+ "A salottát Ultrablade késsel 12-es sebességen aprítsd 10 másodpercig.",
+ "A káposztát vágd darabokra, a répát karikákra, majd tedd az edénybe a baconnel és a leveskockákkal együtt. Öntsd hozzá 1 liter vizet, és indítsd el a Leves P1 programot 35 percre."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Leves P1 • 35 perc"]},
+
+"catalog-47":{
+ title:"Kínai csirkeleves",cat:"Levesek",servings:"4 fő",total:"40 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["2 db","csirkemellfilé"],["1 cm","friss gyömbér"],["1 marék","szójababcsíra"],["2 db","sárgarépa"],["1 db","póréhagyma"],["1 db","hagyma"],["1 gerezd","fokhagyma"],["2 levél","szárított kaffir lime-levél, opcionális"],["100 g","szójavermicelli"],["2 db","csirkehúsleveskocka"],["1,5 l","víz"],["5 cl","szójaszósz"],["8 db","csiperkegomba"],["1 ek","olaj"],["néhány levél","thai bazsalikom"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+ "A csirkét vágd vékony csíkokra. A gyömbért pucold meg és aprítsd fel. A gombát szeleteld fel. A répát és a póréhagymát pucold meg, majd vágd finomra. A fokhagymát és a hagymát pucold meg és vágd darabokra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a fokhagymát és a hagymát, majd aprítsd 10-es sebességen 20 másodpercig.",
+ "Cseréld a kést keverőlapátra. Add hozzá az olajat, a gyömbért, a répát és a póréhagymát, majd indítsd el a Lassú főzés P1 programot 5 percre. Öntsd hozzá az 1,5 liter vizet, add hozzá a leveskockákat, a gyömbért, a kaffir lime-leveleket és a csirkét.",
+ "Öntsd hozzá a szójaszószt, majd indítsd el újra a Lassú főzés P2 programot 15 percre.",
+ "Add hozzá a vermicellit és a gombát, majd indítsd el a Lassú főzés P1 programot.",
+ "Tálaláskor add hozzá a szójababcsírát és az apróra vágott thai bazsalikomot."
+ ],program:["Ultrablade • 10-es sebesség • 20 mp","Lassú főzés P1 • 5 perc","Lassú főzés P2 • 15 perc","Lassú főzés P1"]},
+
+"catalog-48":{
+ title:"Cukkini–kecskesajt–bacon leves",cat:"Levesek",servings:"4 fő",total:"42 perc",accessories:["mixer","ultrablade"],
+ ingredients:[["4 db","cukkini"],["200 g","füstölt baconkocka"],["1 gerezd","fokhagyma"],["1 kis db","hagyma"],["2 ek","kukoricakeményítő"],["100 g","friss kecskesajt"],["1 db","Maggi csirkehúsleveskocka"],["1 csokor","snidling"],["100 ml","víz"]],
+ stepAccessories:["mixer","ultrablade","mixer"],
+ steps:[
+ "Helyezd be a keverőlapátot, és főzd a bacont 5 percig 4-es sebességen, 100 °C-on. Tedd félre.",
+ "A hagymát és a fokhagymát pucold meg. Az Ultrablade késsel aprítsd a hagymát és a fokhagymát 11-es sebességen 20 másodpercig.",
+ "Add hozzá a darabokra vágott cukkinit, a kukoricakeményítőt, a vizet és a csirkehúsleveskockát. Dugó nélkül főzd 25 percig 4-es sebességen, 100 °C-on.",
+ "Dugóval turmixold 12-es sebességen 2 percig.",
+ "Add hozzá a bacont és a kecskesajtot, majd folytasd 5 percig 4-es sebességen, 100 °C-on. Végül add hozzá az aprított snidlinget."
+ ],program:["Keverőlapát • 4-es sebesség • 100 °C • 5 perc","Ultrablade • 11-es sebesség • 20 mp","4-es sebesség • 100 °C • 25 perc","Ultrablade • 12-es sebesség • 2 perc","4-es sebesség • 100 °C • 5 perc"]},
+
+"catalog-49":{
+ title:"Zöldségleves",cat:"Levesek",servings:"4 fő",total:"55 perc",accessories:["mixer","ultrablade"],
+ ingredients:[["2 gerezd","fokhagyma"],["1 db","hagyma"],["250 g","burgonya"],["150 g","póréhagyma fehér része"],["50 g","szárzeller"],["80 cl","víz"],["250 g","sárgarépa"],["250 g","fehérrépa / karórépa"],["150 g","sertéshús vagy szalonna"],["5 cl","olívaolaj"],["","só"]],
+ stepAccessories:["mixer","ultrablade"],
+ steps:[
+ "A hagymát, a fokhagymát és a burgonyát pucold meg, majd vágd négyfelé. A póréhagymát és a zellert mosd meg, és vágd darabokra. A répát és a fehérrépát pucold meg, majd vágd kockákra. A szalonnát csíkozd fel, és valamennyi zsírt távolíts el róla.",
+ "A keverőlapáttal felszerelt edénybe öntsd az olívaolajat. Add hozzá a hagymát, a fokhagymát, a szalonnát és a zellert. Indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+ "Cseréld a keverőlapátot Ultrablade késre. Add hozzá a 80 cl vizet, a burgonyát, a fehérrépát, a répát és a póréhagymát, majd enyhén sózd meg. Indítsd el a Leves P2 programot.",
+ "Forrón tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 5 perc","Leves P2 • 50 perc"],note:"Hígabb leveshez adj hozzá 20 cl vizet."},
+
+"catalog-50":{
+ title:"Zöldborsóleves füstölt kolbásszal",cat:"Levesek",servings:"6 fő",total:"30 perc",accessories:["ultrablade"],
+ ingredients:[["1 db","hagyma, félbevágva"],["500 g","felengedett zöldborsó"],["150 g","pucolt, karikázott sárgarépa"],["1/2 db","póréhagyma, karikákra vágva"],["200 g","pucolt, nagyobb darabokra vágott burgonya"],["800 ml","víz"],["1 ek","instant zöldségalaplé"],["75 g","füstölt sonkakocka"],["1 ek","majoránna"],["200 g","füstölt kolbász, karikákra vágva"],["","só"],["","frissen őrölt bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A pucolt hagymát tedd az Ultrablade késsel felszerelt edénybe, majd aprítsd 12-es sebességen 10 másodpercig.",
+ "A kolbászkarikák kivételével add hozzá az összes hozzávalót, majd indítsd el a Leves P2 programot 25 percre.",
+ "A program végén add hozzá a kolbászkarikákat, és hagyd rövid ideig átforrósodni."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Leves P2 • 25 perc"]},
+
+"catalog-51":{
+ title:"Csirkeleves cérnametélttel",cat:"Levesek",servings:"4-6 fő",total:"55 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","csirkecomb"],["150 g","burgonya"],["150 g","sárgarépa"],["100 g","szárzeller"],["60 g","hagyma"],["2 gerezd","fokhagyma"],["30 g","vaj"],["2 ek","olaj"],["100 g","cérnametélt"],["20 g","petrezselyem"],["1 tk","őrölt gyömbér"],["1 tk","őrölt koriander"],["","só"],["","bors"],["1 l","víz"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+ "A zöldségeket pucold meg és vágd kis kockákra. A hagymát és a fokhagymát pucold meg, vágd nagyobb darabokra, majd tedd az Ultrablade késsel felszerelt edénybe. Aprítsd 11-es sebességen 30 másodpercig.",
+ "Cseréld az Ultrablade kést keverőlapátra. Add hozzá a vajat, az olajat, a répát és a zellert, majd indítsd el a Lassú főzés P1 programot 130 °C-on 4 percre.",
+ "Add hozzá az 1 liter vizet, a csirkét, a burgonyát, a koriandert és a gyömbért. Sózd, borsozd, majd indítsd el a Lassú főzés P2 programot 95 °C-on 40 percre. A főzés vége előtt 5 perccel add hozzá a cérnametéltet.",
+ "Forrón tálald petrezselyemlevelekkel."
+ ],program:["Ultrablade • 11-es sebesség • 30 mp","Lassú főzés P1 • 130 °C • 4 perc","Lassú főzés P2 • 95 °C • 40 perc"]},
+
+"catalog-52":{
+ title:"Thai kókusztejes leves",cat:"Levesek",servings:"6 fő",total:"25 perc",accessories:["mixer"],
+ ingredients:[["3/4 ek","kókuszolaj"],["1,5 ek","frissen reszelt gyömbér"],["1,5 tk","piros currypaszta"],["3/4 szál","aprított citromfű"],["2,25 ek","halszósz"],["3/4 ek","barna cukor"],["600 ml","kókusztej"],["375 g","szeletelt shiitake gomba"],["375 g","közepes, tisztított garnéla"],["750 ml","csirkealaplé"],["1,5 ek","friss lime-lé"],["1,5 ek","aprított friss koriander"],["","só"]],
+ stepAccessories:["mixer"],
+ steps:[
+ "Helyezd be a keverőlapátot. Add hozzá a kókuszolajat, a gyömbért, a currypasztát és a citromfüvet, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+ "Add hozzá a halszószt, a barna cukrot, a kókusztejet, a gombát, a sót, a garnélát és a csirkealaplét. Indítsd el a Lassú főzés P2 programot 95 °C-on 15 percre.",
+ "Tálba szedve add hozzá a lime-levet, és friss korianderrel díszítve tálald."
+ ],program:["Lassú főzés P1 • 130 °C • 5 perc","Lassú főzés P2 • 95 °C • 15 perc"]},
+
+"catalog-53":{
+ title:"Orosz leves marhahússal és árpával",cat:"Levesek",servings:"4-6 fő",total:"1 óra 5 perc",accessories:["mixer","ultrablade","steam"],
+ ingredients:[["300 g","marhalábszár"],["100 g","hagyma"],["2 gerezd","fokhagyma"],["4 cl","mogyoróolaj"],["1 ek","őrölt paprika"],["400 g","burgonya"],["350 g","sárgarépa"],["40 g","savanyú uborka"],["50 g","szárzeller"],["1 db","csirkehúsleveskocka"],["100 g","előfőzött hántolt árpa"],["1 tk","egész bors"],["1 db","babérlevél"],["20 g","petrezselyem"],["1,6 l","víz"],["","só"]],
+ stepAccessories:["ultrablade","mixer","steam","ultrablade"],
+ steps:[
+ "Ezt a receptet először olvasd végig. A leves kétféle zöldséget tartalmaz: a gépben főtt darabok egy része később krémesedik, a gőzkosárban maradt darabok egészben maradnak.",
+ "A marhahúst vágd 1 x 1 cm-es kockákra.",
+ "A hagymát és a fokhagymát pucold meg, majd az Ultrablade késsel aprítsd 12-es sebességen 10 másodpercig.",
+ "Cseréld a kést keverőlapátra, add hozzá az olajat és a paprikát, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+ "Közben pucold meg a burgonyát és a répát, majd vágd 2 cm-es darabokra. A zellert darabold fel.",
+ "A program végén cseréld a keverőlapátot Ultrablade késre. Add hozzá 200 g burgonyát, 200 g répát, 20 g savanyú uborkát és a leveskockát. Helyezd be a belső gőzkosarat, majd tedd bele a maradék répát, burgonyát és uborkát, valamint a borsot, a marhahúst, a babérlevelet és az árpát. Enyhén sózd meg.",
+ "Önts 1,6 liter vizet az edénybe, hogy ellepje a hozzávalókat. Indítsd el a Leves P2 programot 50 percre.",
+ "A program végén tedd a gőzkosárban főtt hús- és zöldségdarabokat egy levesestálba. Vedd ki az Ultrablade kést, öntsd a levest a tálba, szórd meg petrezselyemmel, és forrón tálald."
+ ],program:["Ultrablade • 12-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","Leves P2 • 50 perc"]},
+
+"catalog-54":{
+ title:"Spárgakrémleves",cat:"Levesek",servings:"10 fő",total:"56 perc",accessories:["ultrablade"],
+ ingredients:[["850 g","zöld spárga"],["2 db","salotta"],["50 g","szárzeller"],["400 g","burgonya"],["1,5 l","forró víz"],["20 cl","habtejszín"],["1 db","csirkehúsleveskocka"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A salottát pucold meg és vágd nagyobb darabokra. A spárgát és a zellert darabold fel. A burgonyát pucold meg és vágd darabokra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a spárgát, a salottát, a burgonyát, a zellert és a leveskockát. Öntsd hozzá a 1,5 liter vizet, majd indítsd el a Leves P1 programot 50 percre.",
+ "A program végén add hozzá a tejszínt, majd turmixold 12-es sebességen 1 percig.",
+ "Melegen vagy hidegen tálald."
+ ],program:["Leves P1 • 50 perc","Ultrablade • 12-es sebesség • 1 perc"],note:"Füstölt lazaccsíkokkal is kínálható."},
+
+"catalog-55":{
+ title:"Brokkolikrém kéksajttal",cat:"Levesek",servings:"10 fő",total:"56 perc",accessories:["ultrablade"],
+ ingredients:[["700 g","brokkoli"],["100 g","póréhagyma fehér része"],["1 db","zöldségalaplé-kocka, opcionális"],["150 g","Roquefort jellegű kéksajt"],["300 g","burgonya"],["1,7 l","forró víz"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A brokkolit szedd rózsákra. A megtisztított póréhagymát vágd darabokra. A burgonyát pucold meg és vágd kisebb darabokra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a brokkolirózsákat és a leveskockát. Öntsd hozzá a forró vizet, majd indítsd el a Leves P1 programot 50 percre.",
+ "A program végén add hozzá a kéksajtot, és turmixold 10-es sebességen 1 percig.",
+ "Forrón tálald."
+ ],program:["Leves P1 • 50 perc","Ultrablade • 10-es sebesség • 1 perc"],note:"A brokkoli karfiollal is helyettesíthető."},
+
+"catalog-56":{
+ title:"Gombakrémleves",cat:"Levesek",servings:"4 fő",total:"30 perc",accessories:["ultrablade"],
+ ingredients:[["400 g","csiperke"],["1 db","hagyma"],["80 g","póréhagyma fehér része"],["60 cl","víz"],["15 cl","habtejszín"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A gombát tisztítsd meg és vágd nagyobb darabokra. A hagymát és a póréhagymát pucold meg és vágd négyfelé.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a gombát, a hagymát és a póréhagymát. Öntsd hozzá a 60 cl vizet, sózd, borsozd.",
+ "Indítsd el a Leves P1 programot 25 percre.",
+ "A program végén add hozzá a tejszínt, és turmixold 11-es sebességen 30 másodpercig. Forrón tálald."
+ ],program:["Leves P1 • 25 perc","Ultrablade • 11-es sebesség • 30 mp"],note:"150 g bacont vagy szalonnát, illetve chorizót is adhatsz hozzá, hogy tartalmasabb legyen."},
+
+"catalog-57":{
+ title:"Gesztenyekrémleves foie gras-val",cat:"Levesek",servings:"4 fő",total:"46 perc",accessories:["ultrablade"],
+ ingredients:[["600 g","fagyasztott gesztenye"],["40 g","zellergumó"],["40 g","póréhagyma fehér része"],["2 db","salotta"],["1 gerezd","fokhagyma"],["1 db","csirkehúsleveskocka"],["1,5 l","víz"],["120 g","félig főtt foie gras"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A zöldségeket pucold meg és vágd nagyobb darabokra.",
+ "Tedd őket az Ultrablade késsel felszerelt edénybe. Add hozzá a leveskockát és 1,5 liter vizet, majd indítsd el a Leves P1 programot.",
+ "A foie gras-t vágd kockákra.",
+ "A program végén add hozzá a foie gras-t, és turmixold 12-es sebességen 1 percig.",
+ "Forrón tálald."
+ ],program:["Leves P1 • 40 perc","Ultrablade • 12-es sebesség • 1 perc"],note:"Tálaláskor kevés szarvasgombaolajjal is megcsepegtethető."},
+
+"catalog-58":{
+ title:"Karfiolkrémleves",cat:"Levesek",servings:"10 fő",total:"55 perc",accessories:["ultrablade"],
+ ingredients:[["1 kg","karfiol"],["150 g","póréhagyma fehér része"],["1 db","csirkehúsleveskocka"],["1,5 l","víz"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A karfiolt szedd rózsákra, a megtisztított póréhagymát vágd négyfelé.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a karfiolt és a póréhagymát. Add hozzá a leveskockát és 1,5 liter vizet. Indítsd el a Leves P1 programot 50 percre.",
+ "Forrón tálald."
+ ],program:["Leves P1 • 50 perc"],note:"A tetejére pirított mandulaforgács kerülhet, illetve 50 g Roquefort vagy 1 evőkanál crème fraîche is hozzáadható turmixolás előtt."},
+
+"catalog-59":{
+ title:"Cukkini-menta-rikotta krémleves",cat:"Levesek",servings:"4 fő",total:"30 perc + 1 óra hűtés",accessories:["ultrablade"],
+ ingredients:[["1 kg","cukkini"],["500 ml","víz"],["2 db","Maggi DUO® Zöldség & Fűszernövény leveskocka"],["150 g","ricotta"],["20 levél","menta"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A cukkinit vágd darabokra, majd tedd az edénybe a vízzel és a leveskockákkal együtt az Ultrablade késsel.",
+ "Indítsd el a Leves P1 programot 25 percre.",
+ "Add hozzá a mentát és a ricottát, majd Pulse fokozaton turmixold 10 másodpercig. Tedd 1 órára hűtőbe.",
+ "Hidegen tálald."
+ ],program:["Leves P1 • 25 perc","Pulse • 10 mp"],note:"A Pulse 13-as sebességgel helyettesíthető. Tálalás előtt pirított mandulaforgács is kerülhet rá."},
+
+"catalog-60":{
+ title:"Lóbabkrém fűszercsomóval",cat:"Levesek",servings:"6 fő",total:"1 óra",accessories:["ultrablade"],
+ ingredients:[["500 g","pucolt lóbab"],["2 db","sárgarépa"],["1 db","hagyma"],["1 db","burgonya"],["60 cl","csirkealaplé"],["15 cl","tejszín"],["50 g","érett Mimolette sajt"],["1 csipet","római kömény"],["néhány szál","snidling"],["néhány szál","turbolya"],["néhány szál","petrezselyem"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A hagymát, a burgonyát és a répát pucold meg, majd vágd darabokra. Az Ultrablade késsel felszerelt edénybe tedd a feldarabolt zöldségeket és a lóbabot. Sózd, borsozd.",
+ "Öntsd hozzá a csirkealaplét, és indítsd el a Leves P1 programot 100 °C-on 30 percre.",
+ "A program végén add hozzá a tejszínt, sózd enyhén és borsozd, majd turmixold 12-es sebességen 30 másodpercig.",
+ "Tartsd melegen.",
+ "Melegítsd elő a sütőt 180 °C-ra. Reszeld finomra a Mimolette sajtot. Sütőpapíros tepsin lapíts kis halmokat belőle, és süsd 8 percig, amíg a sajt teljesen megolvad.",
+ "Vedd ki a sajtropogósokat, és helyezd őket sodrófa vagy nyújtófa tetejére, hogy tálformát kapjanak. Hagyd kihűlni.",
+ "Mosd meg a zöldfűszereket, készíts kis csokrokat, és snidlinggel kösd össze őket.",
+ "Tálaláskor a krémet tányérokba merd, tegyél rá egy-két sajtropogóst, mellé pedig egy fűszercsomót. Szórd meg római köménnyel."
+ ],program:["Leves P1 • 100 °C • 30 perc","Ultrablade • 12-es sebesség • 30 mp"] ,note:"Fagyasztott lóbabot is használhatsz, mert könnyebben beszerezhető és már pucolt. A Mimolette helyett parmezán is jó."},
+
+"catalog-61":{
+ title:"Téli zöldségkrémleves",cat:"Levesek",servings:"2-4 fő",total:"50 perc",accessories:["ultrablade"],
+ ingredients:[["250 g","tök"],["200 g","paszternák"],["200 g","csicsóka"],["80 g","póréhagyma fehér része"],["30 g","szárzeller"],["1/2 db","csirkehúsleveskocka"],["1 l","víz"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A zöldségeket pucold meg és vágd kockákra. A zellert vágd finomra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a zöldségeket. Add hozzá a leveskockát és 1 liter vizet, majd indítsd el a Leves P1 programot.",
+ "Forrón tálald."
+ ],program:["Leves P1 • 40 perc"],note:"Kevés curryvel és 1 evőkanál crème fraîche-sal is ízesíthető turmixolás előtt."},
+
+"catalog-62":{
+ title:"Sárgaborsókrémleves baconnel",cat:"Levesek",servings:"4 fő",total:"58 perc",accessories:["ultrablade","mixer"],
+ ingredients:[["150 g","sárgaborsó"],["50 g","póréhagyma fehér része"],["50 g","sárgarépa"],["20 g","szárzeller"],["1 db","hagyma"],["1 ek","olaj"],["150 g","burgonya"],["100 g","bacon"],["1/2 tk","őrölt kömény"],["1 db","zöldségalaplé-kocka"],["1 l","víz"]],
+ stepAccessories:["ultrablade","mixer","ultrablade"],
+ steps:[
+ "A zöldségeket pucold meg és vágd négyfelé. A bacont vágd kisebb darabokra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a hagymát, majd aprítsd 11-es sebességen 10 másodpercig.",
+ "Kapard le az edény falát, add hozzá a bacont, a zellert és az olajat, majd indítsd el a Lassú főzés P1 programot 130 °C-on 5 percre.",
+ "A főzés végén add hozzá a többi hozzávalót és 1 liter vizet. Főzd 1-es sebességen, 100 °C-on 45 percig.",
+ "A főzés végén turmixold 12-es sebességen 3 percig.",
+ "Forrón tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Lassú főzés P1 • 130 °C • 5 perc","1-es sebesség • 100 °C • 45 perc","Ultrablade • 12-es sebesség • 3 perc"],note:"A Pulse 13-as sebességgel helyettesíthető a kapcsolt Companionon."},
+
+"catalog-63":{
+ title:"Sütőtökkrémleves",cat:"Levesek",servings:"4 fő",total:"45 perc",accessories:["ultrablade"],
+ ingredients:[["800 g","sütőtök"],["100 g","burgonya"],["50 g","hagyma"],["50 g","szárzeller"],["1/2 db","csirkehúsleveskocka"],["80 cl","víz"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+ "A zöldségeket pucold meg és vágd kockákra.",
+ "Az Ultrablade késsel felszerelt edénybe tedd a zöldségeket. Add hozzá a leveskockát és 80 cl vizet. Indítsd el a Leves P1 programot 100 °C-on 35 percre.",
+ "Sózd, borsozd, majd forrón tálald."
+ ],program:["Leves P1 • 100 °C • 35 perc"],note:"Sütőtök helyett butternut tök is használható, vagy fele tök, fele sárgarépa kombináció."},
+
 };
