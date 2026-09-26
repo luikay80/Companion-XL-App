@@ -172,7 +172,7 @@ window.CompanionRecipeTranslations={
 "zucchini":{cat:"Aperitifek"},
 "samosas":{cat:"Aperitifek"},
 "scones":{cat:"Aperitifek"},
-"pumpkin":{cat:"Aperitifek"}
+"pumpkin":{cat:"Aperitifek"},
 
 // ---- ENTRÉES ----
 "catalog-19":{
