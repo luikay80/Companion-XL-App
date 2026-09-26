@@ -3618,3 +3618,137 @@ window.CompanionRecipeTranslations={
 },
 
 };
+
+window.CompanionRecipeTranslationsByTitle={
+"Purée patate douce et jambon":{
+ title:"Édesburgonya-püré sonkával",cat:"Gyerekreceptek",servings:"4 fő",accessories:["steam","kneading"],
+ ingredients:[["600 g","édesburgonya"],["100 g","főtt sonka"],["0,7 L","víz"],["20 g","vaj"],["10 cl","tej"],["","só"]],
+ stepAccessories:["steam","kneading"],
+ steps:[
+  "Pucold meg az édesburgonyát, vágd nagyobb darabokra, és tedd a gőzkosárba.",
+  "Önts 0,7 liter vizet az edénybe, helyezd be a gőzkosarat, majd indítsd el a Gőz programot 25 percre.",
+  "Öntsd ki a vizet. A dagasztó-/aprítókéses edénybe tedd a főtt édesburgonyát, a vajat és a tejet, majd keverd krémesre. Add hozzá a kis darabokra vágott sonkát, és óvatosan keverd össze.",
+  "Melegen tálald."
+ ],program:["Gőz • 25 perc","Dagasztó-/aprítókés • pürésítés"]
+},
+"Soupe à la tomate":{
+ title:"Paradicsomleves",cat:"Gyerekreceptek",servings:"4 fő",accessories:["ultrablade"],
+ ingredients:[["600 g","paradicsom"],["1 db","hagyma"],["1 gerezd","fokhagyma"],["1 ek","olívaolaj"],["50 cl","víz"],["1 db","zöldségleves-kocka"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Pucold meg a hagymát és a fokhagymát, majd vágd nagyobb darabokra.",
+  "Az Ultrablade késsel felszerelt edényben aprítsd a hagymát és a fokhagymát 11-es sebességen 10 másodpercig.",
+  "Add hozzá az olívaolajat, a darabolt paradicsomot, a vizet és a leveskockát. Sózd, borsozd, majd indítsd el a Leves programot.",
+  "A program végén turmixold simára, és melegen tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Leves program","Ultrablade • turmixolás"]
+},
+"Biscuits au maïs et aux raisins secs, sans gluten":{
+ title:"Gluténmentes kukoricás-mazsolás keksz",cat:"Gluténmentes",servings:"4–6 fő",accessories:["kneading"],
+ ingredients:[["150 g","kukoricaliszt"],["100 g","mazsola"],["100 g","vaj"],["80 g","cukor"],["1 db","tojás"],["1 tk","sütőpor"],["1 csipet","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra.",
+  "A dagasztó-/aprítókéses edénybe tedd a vajat, a cukrot és a tojást. Keverd össze, majd add hozzá a kukoricalisztet, a sütőport és a sót.",
+  "Dolgozd össze a tésztát, majd add hozzá a mazsolát, és röviden keverd össze.",
+  "Formázz kis golyókat, kissé lapítsd el, majd sütőpapíros tepsin süsd körülbelül 12–15 percig."
+ ],program:["Dagasztó-/aprítókés • tészta összeállítása","Sütő • 180 °C • 12–15 perc"]
+},
+"Clafoutis de légumes sans gluten":{
+ title:"Gluténmentes zöldséges clafoutis",cat:"Gluténmentes",servings:"4–6 fő",accessories:["ultrablade"],
+ ingredients:[["300 g","vegyes zöldség"],["4 db","tojás"],["20 cl","tej"],["20 cl","habtejszín"],["40 g","kukoricakeményítő"],["50 g","reszelt sajt"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A zöldségeket darabold fel.",
+  "Az Ultrablade késsel felszerelt edénybe tedd a tojásokat, a tejet, a tejszínt és a kukoricakeményítőt. Sózd, borsozd, majd keverd homogénre.",
+  "Oszd el a zöldségeket a kivajazott formában, öntsd rá a tojásos masszát, majd szórd meg reszelt sajttal.",
+  "Süsd körülbelül 35 percig."
+ ],program:["Ultrablade • keverés","Sütő • 180 °C • kb. 35 perc"]
+},
+"Le gâteau au chocolat noir de Maman":{
+ title:"Anya étcsokoládés süteménye",cat:"Gluténmentes",servings:"6 fő",accessories:["kneading"],
+ ingredients:[["200 g","étcsokoládé"],["100 g","vaj"],["120 g","cukor"],["4 db","tojás"],["50 g","mandulapor"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 180 °C-ra. A dagasztó-/aprítókéses edényben olvaszd meg a vajat és a darabokra tört csokoládét.",
+  "Add hozzá a cukrot, a tojásokat és a mandulaport, majd keverd homogénre.",
+  "Öntsd a masszát kivajazott formába, és süsd körülbelül 25–30 percig.",
+  "Hagyd kihűlni, majd tálald."
+ ],program:["Dagasztó-/aprítókés • csokoládé olvasztása","Sütő • 180 °C • 25–30 perc"]
+},
+"Pain sans gluten aux graines et houmous aux petits pois":{
+ title:"Gluténmentes magvas kenyér zöldborsóhummusszal",cat:"Gluténmentes",servings:"4–6 fő",accessories:["kneading","ultrablade"],
+ ingredients:[["Kenyér","gluténmentes lisztkeverék"],["","magkeverék"],["","élesztő"],["","víz"],["","só"],["Hummusz","zöldborsó"],["","citromlé"],["","olívaolaj"]],
+ stepAccessories:["kneading","ultrablade"],
+ steps:[
+  "A kenyértésztát a gluténmentes lisztből, az élesztőből, a vízből és a sóból állítsd össze a dagasztó-/aprítókéses edénnyel. Add hozzá a magokat.",
+  "Hagyd megkelni, majd tedd formába, és süsd a forrás szerinti sütőprogrammal.",
+  "A zöldborsót főzd/párold meg, majd az Ultrablade késsel turmixold össze citromlével és olívaolajjal hummusz állagúra.",
+  "A kihűlt kenyérrel tálald."
+ ],program:["Dagasztás • gluténmentes kenyértészta","Sütő • kenyérsütés","Ultrablade • zöldborsóhummusz"]
+},
+"Pizza végétale sans gluten au chou-fleur":{
+ title:"Gluténmentes zöldséges-karfiolos pizza",cat:"Gluténmentes",servings:"4 fő",accessories:["ultrablade","kneading"],
+ ingredients:[["1 db","karfiol"],["1 db","tojás"],["80 g","reszelt sajt"],["10 cl","paradicsomszósz"],["","zöldséges feltét"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","kneading"],
+ steps:[
+  "Melegítsd elő a sütőt 200 °C-ra. A karfiolt szedd rózsáira, majd az Ultrablade késsel aprítsd morzsásra.",
+  "A karfiolmorzsát keverd össze a tojással, a reszelt sajttal, a sóval és a borssal.",
+  "Sütőpapíron formázz belőle pizzaalapot, majd süsd elő körülbelül 15 percig.",
+  "Kend meg paradicsomszósszal, tedd rá a zöldséges feltétet, és süsd tovább, amíg a sajt megpirul."
+ ],program:["Ultrablade • karfiol aprítása","Sütő • 200 °C • kb. 15 perc előfűtés","Sütő • feltéttel történő sütés"]
+},
+"Rillettes de saumon au fromage frais et fines herbes":{
+ title:"Lazacrillettes friss sajttal és zöldfűszerekkel",cat:"Gluténmentes",servings:"4–6 fő",accessories:["ultrablade"],
+ ingredients:[["300 g","főtt lazac"],["150 g","friss sajt"],["1 db","citrom leve"],["1 ek","aprított snidling"],["1 ek","aprított kapor"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "A lazacot darabokra szedve tedd az Ultrablade késsel felszerelt edénybe.",
+  "Add hozzá a friss sajtot, a citromlevet és a zöldfűszereket. Sózd, borsozd.",
+  "Keverd röviden, hogy krémes, de kissé darabos állagot kapj.",
+  "Tedd hűtőbe, majd hidegen tálald."
+ ],program:["Ultrablade • rövid keverés"],note:"Pirítóssal vagy zöldségekkel tálalható."
+},
+"Risotto de moules, crevettes et Saint-Jacques":{
+ title:"Kagylós, garnélás és Szent Jakab-kagylós rizottó",cat:"Gluténmentes",servings:"4 fő",accessories:["ultrablade","mixer"],
+ ingredients:[["300 g","Arborio rizs"],["200 g","fekete kagyló"],["200 g","garnéla"],["200 g","Szent Jakab-kagyló"],["1 db","salotta"],["90 cl","halalaplé"],["8 cl","fehérbor"],["30 g","parmezán"],["","olívaolaj"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a salottát, tedd az Ultrablade késsel felszerelt edénybe, majd aprítsd 11-es sebességen 10 másodpercig.",
+  "Cseréld le a kést keverőlapátra, add hozzá az olívaolajat és a rizst, majd pirítsd meg a rizst. Öntsd hozzá a fehérbort.",
+  "Add hozzá az alaplevet, és főzd a rizottót a megfelelő programon.",
+  "A főzés vége felé add hozzá a tengeri herkentyűket, majd keverd bele a parmezánt. Azonnal tálald."
+ ],program:["Ultrablade • 11-es sebesség • 10 mp","Keverőlapát • rizs pirítása","Risotto program • tengeri herkentyűk hozzáadásával"]
+},
+"Sablés sans gluten":{
+ title:"Gluténmentes omlós keksz",cat:"Gluténmentes",servings:"4–6 fő",accessories:["kneading"],
+ ingredients:[["200 g","gluténmentes lisztkeverék"],["100 g","vaj"],["80 g","cukor"],["1 db","tojás"],["1 csipet","só"]],
+ stepAccessories:["kneading"],
+ steps:[
+  "A dagasztó-/aprítókéses edényben dolgozd össze a lisztet, a vajat, a cukrot, a tojást és a sót.",
+  "Formázz golyót, csomagold fóliába, és pihentesd hűtőben.",
+  "Nyújtsd ki a tésztát, szaggasd ki, majd süsd sütőpapíros tepsin 180 °C-on körülbelül 10–12 percig."
+ ],program:["Dagasztó-/aprítókés • tészta összeállítása","Hűtés","Sütő • 180 °C • 10–12 perc"]
+},
+"Velouté de fond d’artichautlait de soja, basilic, parmesan":{
+ title:"Articsókakrémleves szójatejjel, bazsalikommal és parmezánnal",cat:"Gluténmentes",servings:"4 fő",accessories:["ultrablade"],
+ ingredients:[["500 g","articsókaszív"],["50 cl","szójatej"],["50 g","parmezán"],["10 levél","bazsalikom"],["","só"],["","bors"]],
+ stepAccessories:["ultrablade"],
+ steps:[
+  "Az articsókaszíveket darabold fel, majd tedd az Ultrablade késsel felszerelt edénybe.",
+  "Add hozzá a szójatejet, sózd, borsozd, majd indítsd el a levesprogramot.",
+  "A főzés végén add hozzá a bazsalikomot és a parmezánt, majd turmixold simára.",
+  "Melegen tálald."
+ ],program:["Leves program","Ultrablade • turmixolás"]
+},
+"Volaille à l’ananas et poivron rouge":{
+ title:"Csirke ananásszal és piros paprikával",cat:"Gluténmentes",servings:"4 fő",accessories:["ultrablade","mixer"],
+ ingredients:[["600 g","csirkefilé"],["1 db","piros kaliforniai paprika"],["200 g","ananász"],["1 db","hagyma"],["1 ek","olaj"],["","só"],["","bors"],["","fűszerek ízlés szerint"]],
+ stepAccessories:["ultrablade","mixer"],
+ steps:[
+  "Pucold meg a hagymát, vágd darabokra, majd az Ultrablade késsel aprítsd fel.",
+  "Cseréld le a kést keverőlapátra, add hozzá az olajat és a darabokra vágott csirkét, majd pirítsd meg.",
+  "Add hozzá a paprikát és az ananászt, sózd, borsozd, majd főzd készre a lassú főzés programmal.",
+  "Azonnal tálald."
+ ],program:["Ultrablade • hagyma aprítása","Keverőlapát • pirítás","Lassú főzés program"]
+}
+};
