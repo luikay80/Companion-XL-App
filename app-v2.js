@@ -44,5 +44,9 @@ function openDetail(id){const r=recipes.find(x=>x.id===id);if(r.sourceOnly){$('#
 function startCook(id){state.cook=recipes.find(x=>x.id===id);state.step=0;$('#detail').classList.remove('show');$('#cook').classList.add('show');renderCook();}
 function renderCook(){const r=state.cook,s=state.step;$('#cookTitle').textContent=r.title;$('#cookStepNo').textContent=(s+1)+' / '+r.steps.length;$('#cookStepTitle').textContent='Lépés '+(s+1);$('#cookStepText').textContent=r.steps[s];const aid=(r.stepAccessories&&r.stepAccessories[s])||r.accessories[0];$('#cookAccessory').innerHTML='<span>Szükséges tartozék</span>'+accHtml(aid)+'<b>'+esc(accessoryInfo[aid].name)+'</b>';$('#bar').style.width=((s+1)/r.steps.length*100)+'%';$('#prev').disabled=s===0;$('#next').textContent=s===r.steps.length-1?'Kész':'Következő';}
 if(document.body.dataset.page==='home'){
-$('#q').oninput=e=>{state.q=e.target.value;if(e.target.value.trim()&&!state.home){render()}else if(!e.target.value.trim()&&state.home){render()}};$('#random').onclick=()=>{const list=filtered(),arr=list.length?list:recipes;openDetail(arr[Math.floor(Math.random()*arr.length)].id)};$('#today').onclick=$('#random').onclick;$('#goFav').onclick=()=>{state.cat='Kedvencek';render()};$('#close').onclick=()=>$('#detail').classList.remove('show');$('#cookClose').onclick=()=>$('#cook').classList.remove('show');$('#prev').onclick=()=>{if(state.step>0){state.step--;renderCook()}};$('#next').onclick=()=>{if(state.step<state.cook.steps.length-1){state.step++;renderCook()}else{$('#cook').classList.remove('show')}};render();if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js');
+ const arr=window.CompanionRecipes||recipes;
+ const randomRecipe=()=>{const r=arr[Math.floor(Math.random()*arr.length)];if(r)location.href='recipe.html?id='+encodeURIComponent(r.id)};
+ $('#random').onclick=randomRecipe;$('#today').onclick=randomRecipe;
+ $('#goFav').onclick=()=>location.href='category.html?cat=Kedvencek';
+ if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js');
 }
