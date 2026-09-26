@@ -34,7 +34,11 @@
     if(back) back.onclick=function(){history.back();};
 
     if(recipe.sourceOnly){
-      main.innerHTML='<section class="section"><div class="source"><div style="font-size:46px">📖</div><h1>'+esc(recipe.title)+'</h1><p>Ez a recept már szerepel a Companion XL katalógusában. A teljes magyar recept még nincs feltöltve.</p></div></section>';
+      main.innerHTML='<section class="section"><div class="source">'+
+        (recipe.image?'<div class="cover" style="max-width:520px;margin:0 auto 18px"><img src="assets/recipes/'+esc(recipe.image)+'" alt="'+esc(recipe.title)+'"></div>':'<div style="font-size:46px">📖</div>')+
+        '<h1>'+esc(recipe.title)+'</h1>'+
+        '<p>Ez a recept már szerepel a Companion XL katalógusában. A teljes magyar recept még nincs feltöltve.</p>'+
+        '</div></section>';
       return;
     }
 
